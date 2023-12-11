@@ -1,0 +1,16 @@
+not-emote: "&c错误的表情!"
+bad-usage: "&c使用错误, 请使用 &o/emote <表情> [目标玩家]"
+custom:
+  ## 下列显示的是玩家自己创建的表情
+  ## If a custom emote is not done with this syntax, it will fail, and depending on how it is put in, may cause a the plugin to not load
+  ## Make sure you use notepad++ or some other file for editing yml files, and don't use TAB
+  ## These also use the %player% and %target% placeholders! :)
+  punch:
+    permission: "emote.custom.punch"
+    self: "&3%player% &3puts em up!"
+    other: "&3%player% &3击打了 %target%&3!"
+  spin:
+    permission: "any.permission.you.want"
+    self: "&3%player% &3正在旋转!"
+    other: "&3%player% &3和 %target%&3 正在旋转跳跃!"
+ 

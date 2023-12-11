@@ -1,0 +1,33 @@
+usingConfig: true
+config-version: 3
+using-bungeecord: true
+legacy-client-support: false
+updater:
+  check-automatically: true
+tabmenu:
+  enabled: true
+  header: '&e我的服务器\n&b记忆虚空!\n&a纯净生存!'
+  footer: animation:test1
+welcome_message:
+  enabled: true
+  title: '&7欢迎回来 &a{PLAYER}&7!'
+  subtitle: '&7来到我的服务器'
+  fadeIn: 20
+  stay: 40
+  fadeOut: 20
+  first-join:
+    title: '&7Welcome to MyServer &a{PLAYER}'
+    subtitle: '&7Hope you enjoy your stay!'
+actionbar-welcome:
+  enabled: true
+  message: '&a&l欢迎来到记忆虚空服务器!'
+  first-join:
+    message: '&2&l请注册并打开你快捷栏里的书本菜单!'
+number-format:
+  enabled: true
+  format: '#,###.##'
+date-format:
+  format: EEE, dd MMM yyyy HH:mm:ss z
+disabled-variables:
+- my-disabled-variable
+- also-called-placeholders

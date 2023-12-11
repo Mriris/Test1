@@ -1,0 +1,21 @@
+## ColorMOTD v1.5.3 Config
+# http://www.mcbbs.net/thread-448326-1-1.html
+Motd:
+- '&b欢迎来到&a&l神&b&l秘&c&l大&d&l陆&e服务器&f-&b输入/bs可以打开菜单~\n&d北京时间: &e%DATE% %TIME%'
+- '&b欢迎来到&a&l神&b&l秘&c&l大&d&l陆&e服务器&f-&b请加QQ群462750313~\n&d在线人数: &e10%ONLINE%'
+- '&b欢迎来到&a&l神&b&l秘&c&l大&d&l陆&e服务器&f-&b技术是Mr_Yan哦~\n&d您的位置: &e%LOC%&d,服务商: &e%ISP%'
+OnlineMsg: '&e你的&m贱&e剑就是我的&m贱&e剑&7&m [&a在线&e&m逗比&a人数&e: &b100%ONLINE%&d/&22017'
+Players:
+- '&e我找到你啦！你在%LOC%'
+- '&4服主QQ号是&c&l&n765347091'
+ServiceModeMOTD: '&c服务器维护中,请等待维护完成...'
+ServiceModeKickCause: '&c服务器维护中,请等待维护完成再进入服务器!'
+useBungeeCord: false
+redisBungee: false
+AttributionServer: ip138
+TPSFormat: '0.0'
+showDelay: false
+UpdateChecker: false
+Auto-Update: false
+bungeeCord: false
+ServiceMode: false

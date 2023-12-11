@@ -1,0 +1,8 @@
+# 玩家使用表情时头上出现的表情头颅，表情名为正版玩家ID
+# 有关该项的配置，以及头顶原有头盔的兼容问题，请参config.yml
+default: none
+smile: smile
+wink: anim_wink
+laugh: scared
+dance: dragon
+flirt: anim_heart

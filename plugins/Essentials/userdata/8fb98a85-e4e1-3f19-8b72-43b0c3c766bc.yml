@@ -1,0 +1,23 @@
+lastAccountName: NotSB
+socialspy: false
+timestamps:
+  login: 1503993144478
+  logout: 1503995598885
+  lastteleport: 1503995450918
+ipAddress: 49.72.228.221
+lastlocation:
+  world: plotworld
+  x: 55.5
+  y: 65.0
+  z: -15.5
+  yaw: 111.00325
+  pitch: 21.845516
+logoutlocation:
+  world: nsc
+  x: 73.30000001192093
+  y: 68.0
+  z: -58.30000001192093
+  yaw: 244.85783
+  pitch: 34.364666
+geolocation: China
+afk: false

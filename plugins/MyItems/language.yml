@@ -1,0 +1,238 @@
+#-----=====[ 消息前缀 ]=====-----#
+
+Prefix: "&8&l[&aMyItems&8&l]&r "
+
+#-----=====[ 度量消息 ]=====-----#
+
+Metrics_Success: "成功提交信息统计"
+Metrics_Failed: "无法提交信息统计"
+
+#-----=====[ 关联消息 ]=====-----#
+
+Hook_Message: "成功关联 &6{hook_plugin}"
+
+#-----=====[ 升级消息 ]=====-----#
+
+Updater_Failed: "无法连接获取插件更新"
+
+#-----=====[ 插件消息 ]=====-----#
+
+Plugin_Deactivated: "插件以停用"
+Plugin_Information_Not_Match: "插件信息不匹配!"
+
+#-----=====[ 控制台消息 ]=====-----#
+
+Console_Command_Forbiden: "别卖萌了,这是控制台!"
+
+#-----=====[ 字符消息 ]=====-----#
+
+Contains_Special_Character: "不能使用特殊字符哦!"
+
+#-----=====[ 命令消息 ]=====-----#
+
+MyItems_Save_Success: "成功保存物品 &c{nameid}&7"
+MyItems_Load_Success_To_Sender: "你给予 &c{amount}x {nameid} &r给 &d{target}"
+MyItems_Load_Success_To_Target: "&d{sender} &r给予你 &c{amount}x {nameid}"
+MyItems_Load_Success_Self: "你获得了 &c{amount}x {nameid}"
+MyItems_Remove_Success: "成功删除物品 &c{nameid}"
+MyItems_Amount_Success: "成功设置数量为 &c{amount} 件"
+MyItems_Data_Success: "成功设置子材质值为 &c{data}"
+MyItems_Material_Success: "成功设置材质为 &c{material}"
+MyItems_Material_Not_Existss: "材质 &c{material} &r不存在!"
+MyItems_Reload_Success: "插件重载成功"
+MyItems_Repair_Success: "你手中物品耐久以修复"
+MyItems_Repair_Success_To_Sender: "成功修复 {target} 的物品"
+MyItems_Repair_Success_To_Target: "你的物品以被 {sender} 修复"
+MyItems_SetName_Success: "主手物品以改名为 &8[&r{name}&8]"
+MyItems_SetLore_Success: "以设置 &c第{line}行 &r为 &d{lore}"
+MyItems_InsertLore_Sucess: "以在 &c第{line}行 &r前插入 &d{lore}"
+MyItems_AddLore_Success: "成功添加Lore到手中物品"
+MyItems_RemoveLore_Success: "成功删除 &c第{line}行 &r的Lore"
+MyItems_RemoveLore_Lore_Correction: "你要输入正确的行数才能删除"
+MyItems_ClearLore_Success: "成功清除手中物品全部数据"
+MyItems_AddFlag_Success: "成功添加Flag: &c{flag}"
+MyItems_RemoveFlag_Success: "成功删除Flag: &c{flag}"
+MyItems_ClearFlag_Success: "成功清除手中物品所有Flag"
+MyItems_ClearNBT_Success: "成功清除手中物品所有NBT属性"
+MyItems_AddEnchant_Success: "成功添加附魔 &8[&c{enchantment} {grade}&8]"
+MyItems_RemoveEnchant_Success: "成功删除附魔 &8[&c{enchantment}&8]"
+MyItems_ClearEnchant_Success: "成功删除手中物品所有附魔"
+MyItems_Unbreakable_Turn_On: "以开启无法破坏"
+MyItems_Unbreakable_Turn_Off: "以关闭无法破坏"
+MyItems_Attribute_Stats_Success: "成功设置 &d{stats} &r属性值为 &8&l[&r{value}&8&l]"
+MyItems_Attribute_Stats_Not_Exists: "&d{stats} &r属性不存在"
+MyItems_Attribute_Element_Success: "成功设置 &d{element} &r为 &8&l[&r{value}&8&l]"
+MyItems_Attribute_Element_Not_Exists: "&d{element} &r元素不存在"
+MyItems_Attribute_Buffs_Success: "成功设置 &d{buffs} &rBuff为 &8&l[&r等级 {grade}&8&l]"
+MyItems_Attribute_Buffs_Not_Exists: "&d{buff} &rBuff不存在"
+MyItems_Attribute_NBT_Not_Exists: "该NBT标签 &d{NBT} &r不存在"
+MyItems_Attribute_NBT_Value_Not_Exists: "未设置 &d{NBT} &r数值!"
+MyItems_Attribute_NBT_Value_Invalid: "设置 &d{NBT} &r时的值无效 "
+MyItems_Attribute_NBT_Success: "成功设置 &d{NBT} &rNBT值为 &8&l[&r{value}&8&l]"
+MyItems_Attribute_Power_Not_Exists: "&d{power} &r不存在"
+MyItems_Attribute_Power_Command_Not_Exists: "命令 &d{command} &r不存在"
+MyItems_Attribute_Power_Command_Success: "成功添加命令 &d{command}"
+Myitems_Attribute_Power_Shoot_Not_Exists: "弹射物 &d{projectile} &r不存在!"
+Myitems_Attribute_Power_Shoot_Success: "成功设置弹射物 &d{projectile}"
+MyItems_Attribute_Power_Special_Not_Exists: "&d{special} &r不存在!"
+MyItems_Attribute_Power_Special_Success: "成功设置特殊技能 &d{special}"
+MyItems_Attribute_Ability_Not_Exists: "&d{ability} &r不存在"
+MyItems_Attribute_Ability_Success: "成功设置能力 &d{ability} &r值为 &8&l[&r等级 {grade}&8&l]"
+MyItems_Socket_Success: "成功添加宝石槽到 &c第{line}行"
+MyItems_Socket_Success_To_Sender: "你给予 &c{amount}x {nameid} &r给 &d{target}"
+MyItems_Socket_Success_To_Target: "&d{sender} &r给予你 &c{amount}x {nameid}"
+MyItems_Socket_Success_Self: "你获得了 &c{amount}x {nameid}"
+
+#-----=====[ 命令消息 ]=====-----#
+
+Argument_Not_Complete: "命令参数不完整!"
+Argument_Invalid_Value: "无效的数值!"
+Argument_MyItems_Help: "&3/myitems help &b[<page>]"
+Argument_MyItems_Save: "&3/myitems save &b<nameid>"
+Argument_MyItems_Load: "&3/myitems load &b<nameid> [<player>] [<amount>]"
+Argument_MyItems_List: "&3/myitems list &b[<page>]"
+Argument_MyItems_Reload: "&3/myitems reload"
+Argument_MyItems_Remove: "&3/myitems remove &b<nameid>"
+Argument_MyItems_Repair: "&3/myitems repair &b[<player>] [<repair>]"
+Argument_MyItems_Simulation: "&3/myitems simulation &b[<damage>] [<defense>] [<shield>]"
+Argument_MyItems_Amount: "&3/myitems amount &b<amount>"
+Argument_MyItems_Data: "&3/myitems data &b<data>"
+Argument_MyItems_Material: "&3/myitems material &b<material>"
+Argument_SetName: "&3/setname &b<name>"
+Argument_SetLore: "&3/setlore &b<line> <lore>"
+Argument_InsertLore: "&3/insertlore &b<line> <lore>"
+Argument_AddLore: "&3/addlore &b<lore>"
+Argument_RemoveLore: "&3/removelore &b<line>"
+Argument_ClearLore: "&3/clearlore"
+Argument_AddFlag: "&3/addflag &b<flag>"
+Argument_RemoveFlag: "&3/removeflag &b<flag>"
+Argument_ClearFlag: "&3/clearflag"
+Argument_AddEnchant: "&3/addenchant &b<grade> <enchantment>"
+Argument_RemoveEnchant: "&3/remenchant &b<enchantment>"
+Argument_ClearEnchant: "&3/clearenchant"
+Argument_Unbreakable: "&3/unbreakable &b[<true|false>]"
+Argument_Attribute_Stats: "&3/attribute stats &b<stats> <value> [<line>]"
+Argument_Attribute_Element: "&3/attribute element &b<element> <value> [<line>]"
+Argument_Attribute_Buffs: "&3/attribute buff &b<buff> <grade> [<line>]"
+Argument_Attribute_NBT: "&3/attribute NBT &b<tags> <value> [<slot>]"
+Argument_Attribute_Power: "&3/attribute power &b<power> <click> <type> [<cooldown>] [<line>]"  
+Argument_Attribute_Ability: "&3/attribute ability &b<ability> <grade> <chance> [<line>]"
+Argument_Socket_Add: "&3/socket add &b[<line>]"
+Argument_Socket_Load: "&3/socket load &b<nameid> [<player>] [<amount>]"
+Argument_Socket_List: "&3/socket list &b[<page>]"
+
+#-----=====[ 帮助消息 ]=====-----#
+
+Help_Header: "&a插件帮助&7: &8[&c{page}&7/&c{maxpage}&8]"
+
+#-----=====[ 所有物品消息 ]=====-----#
+
+List_Header: "&7&l&m---&8&l&m==[&r &2所有物品 &7(&d{page}&8/&d{maxpage}&7) &8&l&m]==&7&l&m---"
+List_Item: "&8&l[&2&l{index}&8&l] &c{item}" 
+
+#-----=====[ 权限消息 ]=====-----#
+
+Permission_Empty: "&c没有权限"
+
+#-----=====[ 玩家消息 ]=====-----#
+
+Player_Target_Offline: "玩家不在线!"
+
+#-----=====[ File Message ]=====-----#
+
+File_Not_Exists: "文件不存在!"
+
+#-----=====[ 宝石槽消息 ]=====-----#
+
+Socket_Slot_Empty: "&c该物品没有宝石槽!"
+Socket_Input_Success: "&a宝石 &7&l[&r{socket}&7&l] &a镶嵌成功"
+Socket_Input_Creative: "&c创造模式无法镶嵌宝石"
+
+#-----=====[ Item Message ]=====-----#
+
+Item_MainHand_Empty: "你的主手没有物品"
+Item_Not_Exist: "物品 &c{nameid} &r不存在!"
+Item_Lore_Empty: "物品没有任何Lore"
+Item_Flag_Not_Exist: "物品Flag &c{flag} &r不存在!"
+Item_Enchantment_Not_Exist: "附魔 &c{enchantment} &r不存在!"
+Item_Save: "成功保存物品 {id}"
+Item_Broken: "&8&l[&r{item}&8&l] &c已近无法使用"
+Item_Broken_MainHand: "&c你手中物品已近无法使用"
+Item_Broken_Offhand: "&c你副手物品已近无法使用"
+Item_Broken_Helmet: "&c你的头盔已近无法使用"
+Item_Broken_Chestplate: "&c你的头盔已近无法使用"
+Item_Broken_Leggings: "&c你的胸甲已近无法使用"
+Item_Broken_Boots: "&c你的护腿已近无法使用"
+Item_Broken_Bow: "&c你的靴子已近无法使用"
+Item_Durability_Not_Exist: "该物品没有自定义耐久"
+Item_NBT_Empty: "&c你的物品没有任何NBT属性"
+Item_Database_Empty: "&c没有任何物品保存数据!"
+Item_List_Suffix: "&8&l[&c&l?&8&l]"
+
+#-----=====[ Simulation Message ]=====-----#
+
+Simulation_Header: "&7&l&m---&8&l&m==[&r &2模拟伤害 &8&l&m]==&7&l&m---"
+Simulation_Player: "&7&l[&2&l+&7&l]&a 对玩家伤害:"
+Simulation_Mob: "&7&l[&2&l+&7&l]&a 对怪物伤害:"
+Simulation_Damage_Normal_Player: "&7&l[&2&l+&7&l]&a 正常伤害 &f= &c{player-damage-normal}"
+Simulation_Damage_Critical_Player: "&7&l[&2&l+&7&l]&a 暴击伤害 &f= &c{player-damage-critical}"
+Simulation_Damage_Normal_Mob: "&7&l[&2&l+&7&l]&a 正常伤害 &f= &c{mob-damage-normal}"
+Simulation_Damage_Critical_Mob: "&7&l[&2&l+&7&l]&a 暴击伤害 &f= &c{mob-damage-critical}"
+
+#-----=====[ Detail Message ]=====-----#
+
+Detail_Header: "&7&l&m||----&8&l&m===[&r &2物品详细 &8&l&m]===&7&l&m----||"
+Detail_Name: "&7&l[&2&l+&7&l]&a 名称&7: &6{name}"
+Detail_Durability: "&7&l[&2&l+&7&l]&a 耐久&7: &6{durability}"
+Detail_ID: "&7&l[&2&l+&7&l]&a ID&7: &6{id}"
+Detail_Data: "&7&l[&2&l+&7&l]&a Data&7: &6{data}"
+Detail_HashCode: "&7&l[&2&l+&7&l]&a HashCode&7: &6{hashcode}"
+Detail_Lores_Head: "&7&l[&2&l+&7&l] &6Lores&7:"
+Detail_Lores_List: "&2- &a第{line}行 &7➨ &r{lore}"
+Detail_Enchantment_Head: "&7&l[&2&l+&7&l] &6附魔&7:"
+Detail_Enchantment_List: "&2- &a{enchantment} &7➨ &c{grade}"
+Detail_Flags_Head: "&7&l[&2&l+&7&l] &6Flags&7:"
+Detail_Flags_List: "&2- &a{flag}"
+
+#-----=====[ Utility Message ]=====-----#
+
+Utility_Slot_Not_Exists: "宝石槽 &d{slot} &r不存在"
+
+#-----=====[ Attack Message ]=====-----#
+
+Attack_Miss: "&c&lMiss"
+Attack_Dodge: "&c&l闪避"
+Attack_Block: "&c&l格挡"
+Attack_Blocked: "&c&l对手格挡了你的估计"
+Attack_Critical: "&c&l暴击"
+
+#-----=====[ Ability Message ]=====-----#
+
+Ability_Cannibalism_Attacker: "&7&l[&a+{food}&7&l]&r 饱食"
+Ability_Cannibalism_Victims: "&7&l[&c-{food}&7&l]&r 饱食"
+Ability_Vampirism_Attacker: "&7&l[&a+{health}&7&l]&r 血量"
+Ability_Vampirism_Victims: "&7&l[&c-{health}&7&l]&r 血量"
+Ability_Freeze_Attacker: "&c冻结敌人 {seconds} 秒"
+Ability_Freeze_Victims: "&c你被冻结了"
+Ability_Roots_Attacker: "&c击落敌人 {seconds} 秒"
+Ability_Roots_Victims: "&c你被击落了"
+Ability_Curse_Attacker: "&c诅咒滴入 {seconds} 秒"
+Ability_Curse_Victims: "&c你被诅咒了"
+
+#-----=====[ Power Message ]=====-----#
+
+Power_Command_Cooldown: " 命令 &8&l[&9{power}&8&l]&r 还有 &c{time} &r秒可以使用"
+Power_Command_Refresh: "命令 &8&l[&9{power}&8&l]&r 以重置"
+Power_Shoot_Cooldown: "弹射物 &8&l[&9{power}&8&l]&r 还有 &c{time} &r秒可以使用"
+Power_Shoot_Refresh: "弹射物 &8&l[&9{power}&8&l]&r 以重置"
+Power_Special_Cooldown: "技能 &8&l[&9{power}&8&l]&r 还有 &c{time} &r秒可以使用"
+Power_Special_Refresh: "技能 &8&l[&9{power}&8&l]&r 以重置"
+
+#-----=====[ Time Message ]=====-----#
+
+Time_Years: "年"
+Time_Weeks: "周"
+Time_Days: "天"
+Time_Hours: "时"
+Time_Minutes: "分"
+Time_Seconds: "秒"

@@ -1,0 +1,95 @@
+#注意: 
+#请使用 [空格] 而不是 [Tab]
+#作者忘记添加打开和关闭的功能, 字符串 ["] 可以导致能力无法加载
+#如果数值无效,则不会创建该项目
+#1 秒 = 20 Ticks
+
+#-----=====[ 主要参数 ]=====-----#
+
+#Keylore: 显示标识
+#Display_Name: "宝石显示名称"
+#Material: "物品ID"
+#Lores: "显示Lore"
+#Bonus_Additional_Damage: 增加伤害
+#Bonus_Percent_Damage: 增加伤害(百分比)
+#Bonus_Additional_Defense: 增加防御
+#Bonus_Percent_Defense: 增加防御(百分比)
+#Bonus_Critical_Chance: 增加暴击几率
+#Bonus_Critical_Damage: 增加暴击伤害
+#Bonus_Hit_Rate: 增加命中率(百分比)
+#Bonus_Block_Rate: 增加格挡率(百分比)
+#Bonus_Dodge_Rate: 增加闪避率(百分比)
+
+#-----=====[ Socket Gems Configuration ]=====-----#
+
+RubyI:
+  Keylore: "&7&l- &cIncrease Physical Damage by 2%"
+  Display_Name: "&c&lRuby I"
+  Material: "Blaze_Rod"
+  Bonus_Percent_Damage: 2
+  Lores:
+  - "&3Socket Gems Items"
+  - "&7When Applied&f&l:"
+  - "&7&l- &cIncrease Physical Damage by 2%"
+  - ""
+  - "&2#&aOverlaid to target item to apply this gems"
+  
+RubyII:
+  Keylore: "&7&l- &cIncrease Physical Damage by 5%"
+  Display_Name: "&c&lRuby II"
+  Material: "Blaze_Rod"
+  Bonus_Percent_Damage: 5
+  Lores:
+  - "&3Socket Gems Items"
+  - "&7When Applied&f&l:"
+  - "&7&l- &cIncrease Physical Damage by 5%"
+  - ""
+  - "&2#&aOverlaid to target item to apply this gems"
+  
+RubyIII:
+  Keylore: "&7&l- &cIncrease Physical Damage by 10%"
+  Display_Name: "&c&lRuby III"
+  Material: "Blaze_Rod"
+  Bonus_Percent_Damage: 10
+  Lores:
+  - "&3Socket Gems Items"
+  - "&7When Applied&f&l:"
+  - "&7&l- &cIncrease Physical Damage by 10%"
+  - ""
+  - "&2#&aOverlaid to target item to apply this gems"
+  
+TopazI:
+  Keylore: "&7&l- &bIncrease Critical Chance by 0.5%"
+  Display_Name: "&b&lTopaz I"
+  Material: "PRISMARINE_SHARD"
+  Bonus_Critical_Chance: 0.5
+  Lores:
+  - "&3Socket Gems Items"
+  - "&7When Applied&f&l:"
+  - "&7&l- &bCritical Chance by 0.5%"
+  - ""
+  - "&2#&aOverlaid to target item to apply this gems"
+  
+TopazII:
+  Keylore: "&7&l- &bIncrease Critical Chance by 1.2%"
+  Display_Name: "&b&lTopaz II"
+  Material: "PRISMARINE_SHARD"
+  Bonus_Critical_Chance: 1.2
+  Lores:
+  - "&3Socket Gems Items"
+  - "&7When Applied&f&l:?"
+  - "&7&l- &bCritical Chance by 1.2%"
+  - ""
+  - "&2#&aOverlaid to target item to apply this gems"
+  
+TopazIII:
+  Keylore: "&7&l- &bIncrease Critical Chance by 2.5%"
+  Display_Name: "&b&lTopaz III"
+  Material: "PRISMARINE_SHARD"
+  Bonus_Critical_Chance: 2.5
+  Lores:
+  - "&3Socket Gems Items"
+  - "&7When Applied&f&l:"
+  - "&7&l- &bCritical Chance by 2.5%"
+  - ""
+  - "&2#&aOverlaid to target item to apply this gems"

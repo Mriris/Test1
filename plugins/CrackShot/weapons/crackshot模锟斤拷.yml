@@ -1,0 +1,265 @@
+Item_list_name:
+    Item_Information:
+        Item_Name: <name>
+        Item_Type: <itemID> OR <itemID~data>
+        Item_Lore: <line1>|<line2>|<line3>|<line4> ... |<line9001>
+        Inventory_Control: <group>,(...)
+        Melee_Mode: <true/false>
+        Melee_Attachment: <weapon title>
+        Attachments:
+            Type: <main> OR <accessory>
+            Info: <weapon title>
+            Toggle_Delay: <ticks>
+            Sounds_Toggle: <sound>,(...)
+        Enchantment_To_Check: <ENCHANTMENT-LEVEL>
+        Skip_Name_Check: <true/false>
+        Sounds_Acquired: <sound>,(...)
+        Remove_Unused_Tag: <true/false>
+        Hidden_From_List: <true/false>
+    Shooting:
+        Disable: <true/false>
+        Dual_Wield: <true/false>
+        Right_Click_To_Shoot: <true/false>
+        Cancel_Left_Click_Block_Damage: <true/false>
+        Cancel_Right_Click_Interactions: <true/false>
+        Delay_Between_Shots: <ticks>
+        Recoil_Amount: <amount>  //1-10
+        Projectile_Amount: <amount>
+        Projectile_Type: <snowball/arrow/egg/grenade/flare/fireball/witherskull/energy/splash>
+        Projectile_Subtype: <itemID> OR <itemID~data> OR <energy info> OR <true/false>  //grenade, flare, fireball, energy or splash.
+        Remove_Arrows_On_Impact: <true/false> //arrow
+        Remove_Bullet_Drop: <true/false>      //snowball,egg,snow(true if want it do not affected by gravity)
+        Removal_Or_Drag_Delay: <delay-removal> //ticks-true/false (true for remove | false for drag)
+        Projectile_Speed: <amount>
+        Projectile_Damage: <amount>
+        Projectile_Flames: <true/false> //snowball, egg, arrow,splash  (just projectile burn)
+        Projectile_Incendiary:
+            Enable: <true/false> //make target burn if true
+            Duration: <ticks>
+        Bullet_Spread: <amount>  //can deciaml values (2.5 1.15 0.22245)
+        Reset_Fall_Distance: <true/false>
+        Sounds_Projectile: <sound>,(...)
+        Sounds_Shoot: <sound>,(...)
+    Sneak:
+        Enable: <true/false>
+        No_Recoil: <true/false>
+        Bullet_Spread: <amount>  //can deciaml values (2.5 1.15 0.22245)
+        Sneak_Before_Shooting: <true/false>
+    Burstfire:
+        Enable: <true/false>
+        Shots_Per_Burst: <amount>
+        Delay_Between_Shots_In_Burst: <ticks>
+    Ammo:
+        Enable: <true/false>
+        Ammo_Item_ID: <itemID> OR <itemID~data>
+        Take_Ammo_Per_Shot: <true/false>
+        Sounds_Out_Of_Ammo: <sound>,(...) //when player's bag no ammo
+        Sounds_Shoot_With_No_Ammo: <sound>,(...)
+    Reload:
+        Enable: <true/false>
+        Reload_With_Mouse: <true/false>
+        Starting_Amount: <amount>
+        Reload_Amount: <amount>
+        Reload_Bullets_Individually: <true/false>
+        Take_Ammo_On_Reload: <true/false>
+        Take_Ammo_As_Magazine: <true/false>
+        Reload_Duration: <ticks>
+        Reload_Shoot_Delay: <ticks>
+        Destroy_When_Empty: <true/false>
+        Sounds_Out_Of_Ammo: <sound>,(...) //when the gun shoot all ammo out
+        Sounds_Reloading: <sound>,(...)
+        Dual_Wield:
+            Single_Reload_Duration:
+            Sounds_Single_Reload:
+            Sounds_Shoot_With_No_Ammo:
+    Firearm_Action:
+        Type: <slide/bolt/lever/pump/break/revolver>
+        # for pump,bolt,lever shooting delay is base on Open_Duration, Close_Duration and Close_Shoot_Delay
+        Open_Duration: <ticks>  //Note: For the HK slap method of reloading, this node can used by slide weapons.
+        Close_Duration: <ticks>
+        Close_Shoot_Delay: <ticks>
+        Reload_Open_Delay: <ticks>
+        Reload_Close_Delay: <ticks>
+        Sound_Open: <sound>,(...)
+        Sound_Close: <sound>,(...)
+    Scope:
+        Enable: <true/false>
+        Night_Vision: <true/false>
+        Zoom_Amount: <amount>  //1-5
+        Zoom_Bullet_Spread: <amount>  //can deciaml values (2.5 1.15 0.22245)
+        Zoom_Before_Shooting: <true/false>
+        Sounds_Toggle_Zoom: <sound>,(...)
+    Riot_Shield:
+        Enable: <true/false>
+        Do_Not_Block_Projectiles: <true/false>
+        Do_Not_Block_Melee_Attacks: <true/false>
+        Durability_Based_On_Damage: <true/false>
+        Durability_Loss_Per_Hit: <amount>
+        Forcefield_Mode: <true/false>
+        Sounds_Blocked: <sound>,(...)
+        Sounds_Break: <sound>,(...)
+    SignShops:
+        Enable: <true/false>
+        Price: <itemID-amount> OR <itemID~data-amount>
+        Sign_Gun_ID: <unique number>
+    Crafting:
+        Enable: <true/false>
+        Quantity: <amount>
+        Shaped: <true/false>
+        Ingredients: <ingredients>
+    Region_Check:
+        Enable: <true/false>
+        World_And_Coordinates: <worldname,X1,Y1,Z1,X2,Y2,Z2,blacklist>|(...)
+        Message_Of_Denial: <message>
+    Custom_Death_Message:
+        Normal: <message>
+    Headshot:
+        Enable: <true/false>
+        Bonus_Damage: <amount>
+        Message_Shooter: <message>
+        Message_Victim: <message>
+        Sounds_Shooter: <sound>,(...)
+        Sounds_Victim: <sound>,(...)
+    Backstab:
+        Enable: <true/false>
+        Bonus_Damage: <amount>
+        Message_Shooter: <message>
+        Message_Victim: <message>
+        Sounds_Shooter: <sound>,(...)
+        Sounds_Victim: <sound>,(...)
+    Critical_Hits:
+        Enable: <true/false>
+        Bonus_Damage: <amount>
+        Chance: <percentage>
+        Message_Shooter: <message>
+        Message_Victim: <message>
+        Sounds_Shooter: <sound>,(...)
+        Sounds_Victim: <sound>,(...)
+    Spawn_Entity_On_Hit:
+        Enable: <true/false>
+        Chance: <percentage>
+        Mob_Name: <name>
+        EntityType_Baby_Explode_Amount: <entity-baby-explode-amount>,(...)
+        Make_Entities_Target_Victim: <true/false>
+        Timed_Death: <ticks>
+        Entity_Disable_Drops: <true/false>
+        Message_Shooter: <message>
+        Message_Victim: <message>
+    Damage_Based_On_Flight_Time:
+        Enable: <true/false>
+        Bonus_Damage_Per_Tick: <amount>
+        Minimum_Damage: <amount>
+        Maximum_Damage: <amount>
+    Airstrikes:
+        Enable: <true/false>
+        Flare_Activation_Delay: <ticks>
+        Particle_Call_Airstrike: <particle-effect>,(...)
+        Message_Call_Airstrike: <message>
+        Block_Type: <itemID> OR <itemID~data>
+        Area: <amount>
+        Distance_Between_Bombs: <amount>
+        Height_Dropped: <amount>
+        Vertical_Variation: <amount>
+        Horizontal_Variation: <amount>
+        Multiple_Strikes:
+            Enable: <true/false>
+            Number_Of_Strikes: <amount>
+            Delay_Between_Strikes: <ticks>
+        Sounds_Airstrike: <sound>,(...)
+    Explosive_Devices:
+        Enable: <true/false>
+        Device_Type: <landmine> OR <remote> OR <trap> OR <itembomb>
+        Device_Info: <information>
+        Sounds_Deploy: <sound>,(...)
+        Remote_Bypass_Regions: <true/false>
+        Message_Disarm: <message>
+        Message_Trigger_Placer: <message>
+        Message_Trigger_Victim: <message>
+        Sounds_Alert_Placer: <sound>,(...)
+        Sounds_Trigger: <sound>,(...)
+    Cluster_Bombs:
+        Enable: <true/false>
+        Bomblet_Type: <itemID> OR <itemID~data>
+        Delay_Before_Split: <ticks>
+        Number_Of_Splits: <amount>
+        Number_Of_Bomblets: <amount>
+        Speed_Of_Bomblets: <amount>
+        Delay_Before_Detonation: <ticks>
+        Detonation_Delay_Variation: <ticks>
+        Particle_Release: <particle-effect>,(...)
+        Sounds_Release: <sound>,(...)
+    Shrapnel:
+        Enable: <true/false>
+        Block_Type: <itemID> OR <itemID~data>
+        Amount: <amount>
+        Speed: <amount>
+        Place_Blocks: <true/false>
+    Explosions:
+        Enable: <true/false>
+        Knockback: <amount>
+        Ignite_Victims: <ticks>
+        Damage_Multiplier: <percentage>
+        Enable_Friendly_Fire: <true/false>
+        Enable_Owner_Immunity: <true/false>
+        Explosion_No_Damage: <true/false>
+        Explosion_Potion_Effect: <potioneffect>,(...)
+        Explosion_No_Grief: <true/false>
+        Explosion_Radius: <amount>
+        Explosion_Incendiary: <true/false>
+        Explosion_Delay: <ticks>
+        On_Impact_With_Anything: <true/false>
+        Projectile_Activation_Time: <ticks>
+        Message_Shooter: <message>
+        Message_Victim: <message>
+        Sounds_Shooter: <sound>,(...)
+        Sounds_Victim: <sound>,(...)
+        Sounds_Explode: <sound>,(...)
+    Lightning:
+        Enable: <true/false>
+        No_Damage: <true/false>
+        On_Impact_With_Anything: <true/false>
+    Potion_Effects:
+        Activation: <head,back,crit,hit,shoot,reload>
+        Potion_Effect_Shooter: <POTIONTYPE-DURATION-LEVEL>,(...)
+        Potion_Effect_Victim: <POTIONTYPE-DURATION-LEVEL>,(...)
+    Particles:
+        Enable: <true/false>
+        Particle_Player_Shoot: <particle-effect>,(...)
+        Particle_Terrain: <true/false>
+        Particle_Impact_Anything: <particle-effect>,(...)
+        Particle_Hit: <particle-effect>,(...)
+        Particle_Headshot: <particle-effect>,(...)
+        Particle_Critical: <particle-effect>,(...)
+        Particle_Backstab: <particle-effect>,(...)
+    Fireworks:
+        Enable: <true/false>
+        Firework_Player_Shoot: <firework>,(...)
+        Firework_Explode: <firework>,(...)
+        Firework_Hit: <firework>,(...)
+        Firework_Headshot: <firework>,(...)
+        Firework_Critical: <firework>,(...)
+        Firework_Backstab: <firework>,(...)
+    Abilities:
+        Super_Effective: <entity-multiplier>,(...)
+        Death_No_Drop: <true/false>
+        Bonus_Drops: <itemID>,(...)
+        Reset_Hit_Cooldown: <true/false>
+        Knockback: <amount>
+        No_Fall_Damage: <true/false>
+        No_Vertical_Recoil: <true/false>
+        Hurt_Effect: <true/false>
+        Jetpack_Mode: <true/false>
+        Break_Blocks: <whitelist-block1,block2,block3,(...)>  //true for white list | false for black list
+    Hit_Events:
+        Enable: <true/false>
+        Message_Shooter: <message>
+        Message_Victim: <message>
+        Sounds_Impact: <sound>,(...)
+        Sounds_Shooter: <sound>,(...)
+        Sounds_Victim: <sound>,(...)
+    Extras:
+        One_Time_Use: <true/false>
+        Disable_Underwater: <true/false>
+        Make_Victim_Run_Commmand: <command>|(...)
+        Make_Victim_Speak: <message>
+        Run_Console_Command: <command>|(...)

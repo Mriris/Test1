@@ -1,0 +1,649 @@
+2017-7-6 17:47:13[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.j.a$2 任务 耗时 24ms 平均耗时 24ms!
+2017-7-6 17:47:13[Yum 能耗监控] 注意! 插件 AAC 处理 v 任务 耗时 184ms 平均耗时 184ms!
+2017-7-6 17:47:14[Yum 能耗监控] 注意! 插件 Slimefun 处理 me.mrCookieSlime.Slimefun.CSCoreLibSetup.CSCoreLibLoader$1 任务 耗时 337ms 平均耗时 337ms!
+2017-7-6 17:47:14[Yum 能耗监控] 注意! 插件 SensibleToolbox 处理 me.mrCookieSlime.CSCoreLibSetup.CSCoreLibLoader$1 任务 耗时 308ms 平均耗时 308ms!
+2017-7-6 17:47:24[Yum 能耗监控] 注意! 插件 LaggRemover 处理 drew6017.lr.main.LaggRemover$1 任务 耗时 1610ms 平均耗时 1610ms!
+2017-7-6 17:48:49[Yum 能耗监控] 注意! 插件 MyItems 处理 PlayerJoinEvent 事件 耗时 83ms 平均耗时 83ms!
+2017-7-6 17:48:49[Yum 能耗监控] 注意! 插件 EasyKits 处理 PlayerJoinEvent 事件 耗时 92ms 平均耗时 92ms!
+2017-7-6 17:48:49[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 35ms 平均耗时 35ms!
+2017-7-6 17:48:49[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 21ms 平均耗时 21ms!
+2017-7-6 17:48:54[Yum 能耗监控] 注意! 插件 LaggRemover 处理 drew6017.lr.main.LaggRemover$1 任务 耗时 91ms 平均耗时 176ms!
+2017-7-6 17:49:00[Yum 能耗监控] 注意! 插件 EasyKits 处理 PlayerJoinEvent 事件 耗时 97ms 平均耗时 94ms!
+2017-7-6 17:49:05[Yum 能耗监控] 注意! 插件 LaggRemover 处理 drew6017.lr.main.LaggRemover$1 任务 耗时 25ms 平均耗时 162ms!
+2017-7-6 17:49:19[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerInteractEvent 事件 耗时 134ms 平均耗时 134ms!
+2017-7-6 17:51:14[Yum 能耗监控] 注意! 玩家 Bei_Cheng_Nian 执行 EasyKits 插件 kit xslb 命令 耗时 164ms 平均耗时 164ms!
+2017-7-6 17:51:14[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 166ms 平均耗时 34ms!
+2017-7-6 17:51:33[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 140ms 平均耗时 59ms!
+2017-7-6 17:51:33[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 191ms 平均耗时 45ms!
+2017-7-6 17:52:23[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 178ms 平均耗时 89ms!
+2017-7-6 17:52:23[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 212ms 平均耗时 53ms!
+2017-7-6 17:54:31[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 138ms 平均耗时 64ms!
+2017-7-6 17:54:53[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 151ms 平均耗时 86ms!
+2017-7-6 17:55:39[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 125ms 平均耗时 96ms!
+2017-7-6 17:55:39[Yum 能耗监控] 注意! 玩家 Bei_Cheng_Nian 执行 BedwarsRel 插件 bw join bed1 命令 耗时 187ms 平均耗时 187ms!
+2017-7-6 17:55:39[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 190ms 平均耗时 25ms!
+2017-7-6 17:55:42[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 127ms 平均耗时 101ms!
+2017-7-6 17:55:48[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 221ms 平均耗时 118ms!
+2017-7-6 17:55:48[Yum 能耗监控] 注意! 玩家 Bei_Cheng_Nian 执行 BedwarsRel 插件 bw join bed1 命令 耗时 238ms 平均耗时 213ms!
+2017-7-6 17:55:48[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 240ms 平均耗时 31ms!
+2017-7-6 17:56:07[Yum 能耗监控] 注意! 玩家 Mr_Yan 执行 PlugMan 插件 plugman unload QQLogin 命令 耗时 424ms 平均耗时 144ms!
+2017-7-6 17:57:02[Yum 能耗监控] 注意! 玩家 Mr_Yan 执行 Yum 插件 yum re RPGInventory 命令 耗时 599ms 平均耗时 75ms!
+2017-7-6 17:57:25[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 143ms 平均耗时 97ms!
+Aug 25, 2017 7:10:57 PM[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.h.a$2 任务 耗时 45ms 平均耗时 45ms!
+Aug 25, 2017 7:37:01 PM[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.h.a$2 任务 耗时 30ms 平均耗时 30ms!
+Aug 25, 2017 7:38:18 PM[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.h.a$2 任务 耗时 31ms 平均耗时 31ms!
+Aug 25, 2017 7:39:27 PM[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.h.a$2 任务 耗时 32ms 平均耗时 32ms!
+Aug 25, 2017 9:02:58 PM[Yum 能耗监控] 注意! 插件 AuthMe 处理 PlayerLoginEvent 事件 耗时 40ms 平均耗时 40ms!
+Aug 25, 2017 9:02:58 PM[Yum 能耗监控] 注意! 插件 Marriage 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 22ms!
+Aug 25, 2017 9:02:58 PM[Yum 能耗监控] 注意! 插件 WorldGuard 处理 PlayerJoinEvent 事件 耗时 38ms 平均耗时 38ms!
+Aug 25, 2017 9:02:58 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 23ms!
+Aug 25, 2017 9:02:58 PM[Yum 能耗监控] 注意! 插件 MyItems 处理 PlayerJoinEvent 事件 耗时 55ms 平均耗时 55ms!
+Aug 25, 2017 9:02:58 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 397ms 平均耗时 397ms!
+Aug 25, 2017 9:02:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 142ms 平均耗时 142ms!
+Aug 25, 2017 9:02:59 PM[Yum 能耗监控] 注意! 插件 Friends3_0 处理 PlayerChangedWorldEvent 事件 耗时 190ms 平均耗时 190ms!
+Aug 25, 2017 9:02:59 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 128ms 平均耗时 128ms!
+Aug 25, 2017 9:03:43 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 265ms 平均耗时 331ms!
+Aug 25, 2017 9:08:14 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 296ms 平均耗时 319ms!
+Aug 25, 2017 9:08:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 142ms 平均耗时 96ms!
+Aug 25, 2017 9:08:15 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 142ms 平均耗时 135ms!
+Aug 25, 2017 9:08:35 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 291ms 平均耗时 312ms!
+Aug 25, 2017 9:10:58 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 281ms 平均耗时 306ms!
+Aug 25, 2017 9:12:50 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 278ms 平均耗时 301ms!
+Aug 25, 2017 9:13:48 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 315ms 平均耗时 303ms!
+Aug 25, 2017 9:13:57 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 300ms 平均耗时 303ms!
+Aug 25, 2017 9:13:57 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 114ms 平均耗时 52ms!
+Aug 25, 2017 9:13:57 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 102ms 平均耗时 124ms!
+Aug 25, 2017 9:14:45 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 399ms 平均耗时 313ms!
+Aug 25, 2017 9:15:56 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 EntityDamageEvent 事件 耗时 55ms 平均耗时 55ms!
+Aug 25, 2017 9:16:44 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 EntityDamageEvent 事件 耗时 36ms 平均耗时 30ms!
+Aug 25, 2017 9:25:39 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 277ms 平均耗时 310ms!
+Aug 25, 2017 9:25:39 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 106ms 平均耗时 53ms!
+Aug 25, 2017 9:26:45 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 133ms 平均耗时 126ms!
+Aug 25, 2017 9:26:45 PM[Yum 能耗监控] 注意! 玩家 L_Z_W 执行 EssentialsSpawn 插件 spawn  命令 耗时 160ms 平均耗时 160ms!
+Aug 25, 2017 9:28:33 PM[Yum 能耗监控] 注意! 玩家 L_Z_W 执行 EasyKits 插件 kit  命令 耗时 31ms 平均耗时 31ms!
+Aug 25, 2017 9:28:55 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 311ms 平均耗时 310ms!
+Aug 25, 2017 9:28:55 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 32ms 平均耗时 51ms!
+Aug 25, 2017 9:30:29 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 316ms 平均耗时 310ms!
+Aug 25, 2017 9:30:55 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 295ms 平均耗时 309ms!
+Aug 25, 2017 9:36:05 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 263ms 平均耗时 306ms!
+Aug 25, 2017 9:37:55 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 296ms 平均耗时 305ms!
+Aug 26, 2017 6:40:50 AM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 259ms 平均耗时 302ms!
+Aug 26, 2017 8:07:44 AM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 326ms 平均耗时 304ms!
+Aug 26, 2017 8:43:22 AM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 290ms 平均耗时 303ms!
+Aug 26, 2017 12:27:58 PM[Yum 能耗监控] 注意! 插件 mcMMO 处理 PlayerJoinEvent 事件 耗时 298ms 平均耗时 303ms!
+Aug 26, 2017 3:44:22 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 24ms 平均耗时 24ms!
+Aug 26, 2017 3:45:22 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PermissionsEx 插件 pex group builder add Friends.Use 命令 耗时 31ms 平均耗时 31ms!
+Aug 26, 2017 3:46:12 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman unload Friends3_0 命令 耗时 699ms 平均耗时 140ms!
+Aug 26, 2017 3:47:27 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load Friends3_0 命令 耗时 2202ms 平均耗时 484ms!
+Aug 26, 2017 3:47:28 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 Friends3_0 插件 friend  命令 耗时 168ms 平均耗时 168ms!
+Aug 26, 2017 3:48:11 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 EasyKits 插件 kit op 命令 耗时 36ms 平均耗时 36ms!
+Aug 26, 2017 3:53:24 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load ItemExpansionPack1.4 命令 耗时 99ms 平均耗时 188ms!
+Aug 26, 2017 3:58:02 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman unload SlowCommands 命令 耗时 1149ms 平均耗时 231ms!
+Aug 26, 2017 3:58:27 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load levelchat 命令 耗时 39ms 平均耗时 221ms!
+Aug 26, 2017 3:59:14 PM[Yum 能耗监控] 注意! 插件 Multiverse-Core 处理 WorldLoadEvent 事件 耗时 678ms 平均耗时 678ms!
+Aug 26, 2017 4:01:18 PM[Yum 能耗监控] 注意! 插件 Multiverse-Core 处理 WorldLoadEvent 事件 耗时 86ms 平均耗时 382ms!
+Aug 26, 2017 4:01:45 PM[Yum 能耗监控] 注意! 插件 Multiverse-Core 处理 WorldLoadEvent 事件 耗时 94ms 平均耗时 286ms!
+Aug 26, 2017 4:07:31 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 21ms 平均耗时 21ms!
+Aug 26, 2017 4:07:32 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 897ms 平均耗时 897ms!
+Aug 26, 2017 4:09:19 PM[Yum 能耗监控] 注意! 插件 LockettePro 处理 PlayerInteractEvent 事件 耗时 38ms 平均耗时 38ms!
+Aug 26, 2017 4:13:52 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3088ms 平均耗时 1992ms!
+Aug 26, 2017 4:13:52 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 56ms 平均耗时 31ms!
+Aug 26, 2017 4:15:49 PM[Yum 能耗监控] 注意! 插件 EasyKits 处理 KitPlayerEquipEvent 事件 耗时 29ms 平均耗时 29ms!
+Aug 26, 2017 4:15:49 PM[Yum 能耗监控] 注意! 玩家 Small_Jianbai 执行 EasyKits 插件 kit xslb 命令 耗时 98ms 平均耗时 98ms!
+Aug 26, 2017 4:15:49 PM[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 102ms 平均耗时 28ms!
+Aug 26, 2017 4:42:56 PM[Yum 能耗监控] 注意! 插件 ProtocolLib 处理 PlayerLoginEvent 事件 耗时 26ms 平均耗时 26ms!
+Aug 26, 2017 4:42:56 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 76ms 平均耗时 76ms!
+Aug 26, 2017 4:42:56 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 59ms 平均耗时 59ms!
+Aug 26, 2017 4:42:56 PM[Yum 能耗监控] 注意! 插件 GameEffect 处理 EntityAirChangeEvent 事件 耗时 46ms 平均耗时 46ms!
+Aug 26, 2017 4:42:56 PM[Yum 能耗监控] 注意! 插件 PlotMe 处理 PlayerJoinEvent 事件 耗时 45ms 平均耗时 45ms!
+Aug 26, 2017 4:42:57 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 32ms 平均耗时 32ms!
+Aug 26, 2017 4:42:57 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerJoinEvent 事件 耗时 21ms 平均耗时 21ms!
+Aug 26, 2017 4:42:57 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 196ms 平均耗时 196ms!
+Aug 26, 2017 4:42:58 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 30ms 平均耗时 53ms!
+Aug 26, 2017 4:43:00 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 1730ms 平均耗时 881ms!
+Aug 26, 2017 4:44:35 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlotMe 插件 plotme home 命令 耗时 175ms 平均耗时 175ms!
+Aug 26, 2017 5:03:59 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2669ms 平均耗时 1477ms!
+Aug 26, 2017 5:06:48 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 54ms 平均耗时 27ms!
+Aug 26, 2017 5:11:12 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3123ms 平均耗时 1511ms!
+Aug 26, 2017 5:11:12 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 59ms 平均耗时 52ms!
+Aug 26, 2017 5:12:51 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 4735ms 平均耗时 2048ms!
+Aug 26, 2017 5:13:40 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 4501ms 平均耗时 2398ms!
+Aug 26, 2017 5:38:55 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 39ms 平均耗时 31ms!
+Aug 26, 2017 5:38:55 PM[Yum 能耗监控] 注意! 玩家 Small_Jianbai 执行 EssentialsSpawn 插件 spawn  命令 耗时 64ms 平均耗时 64ms!
+Aug 26, 2017 5:51:58 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 4718ms 平均耗时 2688ms!
+Aug 26, 2017 5:51:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 47ms 平均耗时 38ms!
+Aug 26, 2017 5:52:23 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 41ms 平均耗时 34ms!
+Aug 26, 2017 5:52:23 PM[Yum 能耗监控] 注意! 玩家 Mr_kang 执行 EssentialsSpawn 插件 spawn  命令 耗时 57ms 平均耗时 61ms!
+Aug 26, 2017 5:52:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 47ms 平均耗时 36ms!
+Aug 26, 2017 5:52:37 PM[Yum 能耗监控] 注意! 玩家 Mr_kang 执行 PlotMe 插件 plotme home 命令 耗时 62ms 平均耗时 81ms!
+Aug 26, 2017 5:52:52 PM[Yum 能耗监控] 注意! 玩家 Mr_kang 执行 PlotMe 插件 plotme auto 命令 耗时 267ms 平均耗时 102ms!
+Aug 26, 2017 5:54:18 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 41ms 平均耗时 37ms!
+Aug 26, 2017 5:59:44 PM[Yum 能耗监控] 注意! 插件 Multiverse-Core 处理 WorldLoadEvent 事件 耗时 136ms 平均耗时 136ms!
+Aug 26, 2017 6:00:24 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 59ms 平均耗时 40ms!
+Aug 26, 2017 6:02:26 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 43ms 平均耗时 41ms!
+Aug 26, 2017 6:02:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 46ms 平均耗时 41ms!
+Aug 26, 2017 6:03:19 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 58ms 平均耗时 43ms!
+Aug 26, 2017 6:03:32 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 39ms 平均耗时 43ms!
+Aug 26, 2017 6:03:57 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 41ms 平均耗时 42ms!
+Aug 26, 2017 6:04:03 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 47ms 平均耗时 43ms!
+Aug 26, 2017 6:04:21 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 43ms 平均耗时 43ms!
+Aug 26, 2017 6:04:23 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 57ms 平均耗时 44ms!
+Aug 26, 2017 6:07:34 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 44ms 平均耗时 44ms!
+Aug 26, 2017 6:08:15 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 37ms 平均耗时 43ms!
+Aug 26, 2017 6:08:23 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 43ms!
+Aug 26, 2017 6:11:43 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 43ms 平均耗时 43ms!
+Aug 26, 2017 6:22:32 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3132ms 平均耗时 3132ms!
+Aug 26, 2017 6:22:32 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 108ms 平均耗时 108ms!
+Aug 26, 2017 6:22:33 PM[Yum 能耗监控] 注意! 插件 LockettePro 处理 BlockRedstoneEvent 事件 耗时 53ms 平均耗时 53ms!
+Aug 26, 2017 6:22:39 PM[Yum 能耗监控] 注意! 插件 WorldGuard 处理 BlockIgniteEvent 事件 耗时 35ms 平均耗时 35ms!
+Aug 26, 2017 6:23:01 PM[Yum 能耗监控] 注意! 插件 WorldGuard 处理 UseBlockEvent 事件 耗时 23ms 平均耗时 23ms!
+Aug 26, 2017 6:23:01 PM[Yum 能耗监控] 注意! 插件 WorldGuard 处理 PlayerInteractEvent 事件 耗时 44ms 平均耗时 44ms!
+Aug 26, 2017 6:23:49 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 61ms 平均耗时 61ms!
+Aug 26, 2017 6:23:53 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 106ms 平均耗时 83ms!
+Aug 26, 2017 6:24:05 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 113ms 平均耗时 93ms!
+Aug 26, 2017 6:24:06 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 56ms 平均耗时 84ms!
+Aug 26, 2017 6:24:27 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 54ms 平均耗时 78ms!
+Aug 26, 2017 6:24:28 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 61ms 平均耗时 75ms!
+Aug 26, 2017 6:33:32 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 48ms 平均耗时 71ms!
+Aug 26, 2017 6:33:34 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 67ms!
+Aug 26, 2017 6:38:20 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 43ms 平均耗时 64ms!
+Aug 26, 2017 6:38:23 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 55ms 平均耗时 63ms!
+Aug 26, 2017 6:39:50 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 42ms 平均耗时 62ms!
+Aug 26, 2017 6:39:56 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 43ms 平均耗时 60ms!
+Aug 26, 2017 6:45:44 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 46ms 平均耗时 59ms!
+Aug 26, 2017 6:45:46 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 57ms!
+Aug 26, 2017 6:57:18 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 79ms 平均耗时 59ms!
+Aug 26, 2017 6:57:20 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 41ms 平均耗时 58ms!
+Aug 26, 2017 7:03:26 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 49ms 平均耗时 57ms!
+Aug 26, 2017 7:03:29 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 37ms 平均耗时 56ms!
+Aug 26, 2017 7:07:56 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 46ms 平均耗时 56ms!
+Aug 26, 2017 7:07:56 PM[Yum 能耗监控] 注意! 玩家 Small_Jianbai 执行 EssentialsSpawn 插件 spawn  命令 耗时 64ms 平均耗时 64ms!
+Aug 26, 2017 9:43:23 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2605ms 平均耗时 2868ms!
+Aug 26, 2017 9:44:09 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 48ms 平均耗时 55ms!
+Aug 26, 2017 9:44:27 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 50ms 平均耗时 55ms!
+Aug 26, 2017 9:44:27 PM[Yum 能耗监控] 注意! 玩家 Small_Jianbai 执行 PlotMe 插件 plotme auto 命令 耗时 428ms 平均耗时 215ms!
+Aug 26, 2017 9:46:52 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 67ms 平均耗时 56ms!
+Aug 26, 2017 9:47:29 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 44ms 平均耗时 55ms!
+Aug 26, 2017 9:47:38 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 54ms!
+Aug 26, 2017 9:48:01 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 49ms 平均耗时 54ms!
+Aug 26, 2017 9:48:04 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 47ms 平均耗时 54ms!
+Aug 26, 2017 9:50:22 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 53ms!
+Aug 26, 2017 9:50:22 PM[Yum 能耗监控] 注意! 玩家 Small_Jianbai 执行 PlotMe 插件 plotme home 命令 耗时 54ms 平均耗时 162ms!
+Aug 26, 2017 9:57:53 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 48ms 平均耗时 53ms!
+Aug 26, 2017 10:12:57 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 55ms 平均耗时 53ms!
+Aug 26, 2017 10:12:57 PM[Yum 能耗监控] 注意! 玩家 Small_Jianbai 执行 PlotMe 插件 plotme home 命令 耗时 72ms 平均耗时 139ms!
+Aug 27, 2017 12:26:31 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 5836ms 平均耗时 3858ms!
+Aug 27, 2017 12:26:31 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 44ms 平均耗时 52ms!
+Aug 27, 2017 12:27:10 PM[Yum 能耗监控] 注意! 玩家 NotSB 执行 PlotMe 插件 p  命令 耗时 266ms 平均耗时 165ms!
+Aug 27, 2017 12:27:24 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 48ms 平均耗时 53ms!
+Aug 27, 2017 12:27:24 PM[Yum 能耗监控] 注意! 玩家 NotSB 执行 PlotMe 插件 p auto 命令 耗时 94ms 平均耗时 131ms!
+Aug 27, 2017 12:34:12 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3016ms 平均耗时 3647ms!
+Aug 27, 2017 12:37:12 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 51ms 平均耗时 53ms!
+Aug 27, 2017 12:37:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 45ms 平均耗时 53ms!
+Aug 27, 2017 12:38:08 PM[Yum 能耗监控] 注意! 玩家 NotSB 执行 EasyKits 插件 kit xslb 命令 耗时 69ms 平均耗时 40ms!
+Aug 27, 2017 12:40:19 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 46ms 平均耗时 52ms!
+Aug 27, 2017 12:40:56 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 45ms 平均耗时 52ms!
+Aug 27, 2017 12:43:46 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 44ms 平均耗时 52ms!
+Aug 27, 2017 12:44:06 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 47ms 平均耗时 52ms!
+Aug 27, 2017 12:45:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 52ms!
+Aug 27, 2017 12:45:44 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 48ms 平均耗时 51ms!
+Aug 27, 2017 1:11:20 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 56ms 平均耗时 52ms!
+Aug 27, 2017 1:11:31 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 59ms 平均耗时 52ms!
+Aug 27, 2017 1:22:10 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 60ms 平均耗时 52ms!
+Aug 27, 2017 1:22:17 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 123ms 平均耗时 54ms!
+Aug 27, 2017 1:22:21 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 88ms 平均耗时 54ms!
+Aug 27, 2017 5:09:26 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 95ms 平均耗时 55ms!
+Aug 28, 2017 11:22:07 AM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 22ms 平均耗时 22ms!
+Aug 28, 2017 11:22:09 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2209ms 平均耗时 2209ms!
+Aug 28, 2017 11:23:57 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman unload ItemExpansionPack 命令 耗时 526ms 平均耗时 264ms!
+Aug 28, 2017 11:24:35 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load ItemExpansionPack 命令 耗时 33ms 平均耗时 187ms!
+Aug 28, 2017 11:29:31 AM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 41ms 平均耗时 41ms!
+Aug 28, 2017 11:29:32 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 869ms 平均耗时 869ms!
+Aug 28, 2017 11:29:32 AM[Yum 能耗监控] 注意! 插件 GameEffect 处理 PlayerItemHeldEvent 事件 耗时 21ms 平均耗时 21ms!
+Aug 28, 2017 1:23:15 PM[Yum 能耗监控] 注意! 插件 AuthMe 处理 PlayerLoginEvent 事件 耗时 48ms 平均耗时 48ms!
+Aug 28, 2017 1:23:15 PM[Yum 能耗监控] 注意! 插件 PlotMe 处理 PlayerJoinEvent 事件 耗时 30ms 平均耗时 30ms!
+Aug 28, 2017 1:23:16 PM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 64ms 平均耗时 64ms!
+Aug 28, 2017 1:23:19 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3818ms 平均耗时 3818ms!
+Aug 28, 2017 1:23:20 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 79ms 平均耗时 79ms!
+Aug 28, 2017 1:25:05 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 52ms 平均耗时 52ms!
+Aug 28, 2017 1:25:05 PM[Yum 能耗监控] 注意! 玩家 NotSB 执行 EssentialsSpawn 插件 spawn  命令 耗时 96ms 平均耗时 96ms!
+Aug 28, 2017 1:27:53 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerChangedWorldEvent 事件 耗时 37ms 平均耗时 21ms!
+Aug 28, 2017 1:27:53 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 45ms!
+Aug 28, 2017 1:29:10 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 45ms 平均耗时 45ms!
+Aug 28, 2017 1:29:20 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 43ms!
+Aug 28, 2017 1:29:32 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 55ms 平均耗时 46ms!
+Aug 28, 2017 1:29:48 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 55ms 平均耗时 47ms!
+Aug 28, 2017 1:39:49 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 14254ms 平均耗时 9036ms!
+Aug 28, 2017 1:41:16 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 50ms 平均耗时 48ms!
+Aug 28, 2017 1:41:21 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 34ms 平均耗时 46ms!
+Aug 28, 2017 1:41:32 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 34ms 平均耗时 45ms!
+Aug 28, 2017 1:41:59 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 43ms 平均耗时 44ms!
+Aug 28, 2017 1:42:19 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 44ms!
+Aug 28, 2017 1:42:54 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 46ms 平均耗时 44ms!
+Aug 28, 2017 1:53:01 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 46ms 平均耗时 44ms!
+Aug 28, 2017 1:59:25 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 47ms 平均耗时 45ms!
+Aug 28, 2017 1:59:29 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 44ms!
+Aug 28, 2017 2:00:01 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 8886ms 平均耗时 8986ms!
+Aug 28, 2017 2:00:01 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 41ms 平均耗时 40ms!
+Aug 28, 2017 2:00:01 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 59ms 平均耗时 45ms!
+Aug 28, 2017 2:00:01 PM[Yum 能耗监控] 注意! 插件 Friends3_0 处理 PlayerQuitEvent 事件 耗时 45ms 平均耗时 28ms!
+Aug 28, 2017 2:00:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 45ms!
+Aug 28, 2017 2:00:38 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 45ms 平均耗时 45ms!
+Aug 28, 2017 2:00:41 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 37ms 平均耗时 44ms!
+Aug 28, 2017 2:02:24 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 182ms 平均耗时 51ms!
+Aug 28, 2017 2:02:41 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 41ms 平均耗时 51ms!
+Aug 28, 2017 2:02:44 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 39ms 平均耗时 50ms!
+Aug 28, 2017 2:03:10 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 41ms 平均耗时 50ms!
+Aug 28, 2017 2:03:11 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 49ms!
+Aug 28, 2017 2:10:10 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 5296ms 平均耗时 6451ms!
+Aug 28, 2017 2:12:22 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 33ms 平均耗时 49ms!
+Aug 28, 2017 2:12:26 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 39ms 平均耗时 48ms!
+Aug 28, 2017 2:12:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 45ms 平均耗时 48ms!
+Aug 28, 2017 2:12:41 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 44ms 平均耗时 48ms!
+Aug 28, 2017 2:18:51 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 170ms 平均耗时 52ms!
+Aug 28, 2017 2:19:33 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 158ms 平均耗时 56ms!
+Aug 28, 2017 2:20:35 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 195ms 平均耗时 60ms!
+Aug 28, 2017 2:20:35 PM[Yum 能耗监控] 注意! 玩家 Mr_kang 执行 PlotMe 插件 plotme home 命令 耗时 210ms 平均耗时 107ms!
+Aug 28, 2017 2:20:44 PM[Yum 能耗监控] 注意! 玩家 Mr_kang 执行 PlotMe 插件 plotme auto 命令 耗时 53ms 平均耗时 68ms!
+Aug 28, 2017 2:22:36 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 174ms 平均耗时 64ms!
+Aug 28, 2017 2:22:50 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 170ms 平均耗时 67ms!
+Aug 28, 2017 2:23:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 196ms 平均耗时 71ms!
+Aug 28, 2017 2:23:50 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 165ms 平均耗时 74ms!
+Aug 28, 2017 2:25:12 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 188ms 平均耗时 77ms!
+Aug 28, 2017 2:25:12 PM[Yum 能耗监控] 注意! 玩家 Mr_kang 执行 PlotMe 插件 plotme home 命令 耗时 201ms 平均耗时 79ms!
+Aug 28, 2017 3:59:24 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3596ms 平均耗时 5975ms!
+Aug 28, 2017 4:01:42 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 51ms 平均耗时 76ms!
+Aug 28, 2017 5:46:51 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3821ms 平均耗时 5668ms!
+Aug 28, 2017 5:48:12 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 41ms 平均耗时 75ms!
+Aug 28, 2017 5:48:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 36ms 平均耗时 74ms!
+Aug 28, 2017 6:37:05 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3030ms 平均耗时 5338ms!
+Aug 28, 2017 6:37:59 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 73ms!
+Aug 28, 2017 6:38:06 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 72ms!
+Aug 28, 2017 6:38:48 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 37ms 平均耗时 72ms!
+Aug 28, 2017 6:42:02 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 71ms!
+Aug 28, 2017 6:48:19 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3960ms 平均耗时 5185ms!
+Aug 28, 2017 6:52:53 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2396ms 平均耗时 4906ms!
+Aug 28, 2017 6:54:05 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 41ms 平均耗时 70ms!
+Aug 28, 2017 7:57:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 44ms 平均耗时 70ms!
+Aug 28, 2017 7:58:01 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 37ms 平均耗时 69ms!
+Aug 28, 2017 7:58:13 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 43ms 平均耗时 68ms!
+Aug 28, 2017 7:58:16 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 68ms!
+Aug 28, 2017 8:03:00 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 47ms 平均耗时 67ms!
+Aug 28, 2017 8:03:04 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 58ms 平均耗时 67ms!
+Aug 28, 2017 8:13:18 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 67ms!
+Aug 28, 2017 8:13:21 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 65ms 平均耗时 66ms!
+Aug 28, 2017 8:13:48 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 49ms 平均耗时 66ms!
+Aug 28, 2017 8:13:51 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 35ms 平均耗时 66ms!
+Aug 28, 2017 8:15:34 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 46ms 平均耗时 65ms!
+Aug 28, 2017 8:15:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 68ms 平均耗时 65ms!
+Aug 28, 2017 8:18:29 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 35ms 平均耗时 65ms!
+Aug 28, 2017 8:18:32 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 36ms 平均耗时 64ms!
+Aug 28, 2017 8:19:02 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 64ms!
+Aug 28, 2017 8:19:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 49ms 平均耗时 64ms!
+Aug 28, 2017 8:20:18 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 36ms 平均耗时 63ms!
+Aug 28, 2017 8:20:21 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 51ms 平均耗时 63ms!
+Aug 28, 2017 8:30:40 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 40ms 平均耗时 63ms!
+Aug 28, 2017 8:30:50 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 35ms 平均耗时 62ms!
+Aug 28, 2017 8:31:36 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 62ms!
+Aug 28, 2017 8:31:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 44ms 平均耗时 62ms!
+Aug 28, 2017 8:32:50 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 46ms 平均耗时 61ms!
+Aug 28, 2017 8:32:51 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 36ms 平均耗时 61ms!
+Aug 28, 2017 8:33:48 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 37ms 平均耗时 61ms!
+Aug 28, 2017 8:33:49 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 38ms 平均耗时 60ms!
+Aug 28, 2017 8:35:12 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 45ms 平均耗时 60ms!
+Aug 28, 2017 8:35:13 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 36ms 平均耗时 60ms!
+Aug 29, 2017 11:03:07 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3004ms 平均耗时 4733ms!
+Aug 29, 2017 11:04:06 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 1956ms 平均耗时 4502ms!
+Aug 29, 2017 11:19:11 AM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 54ms 平均耗时 54ms!
+Aug 29, 2017 11:19:16 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 5176ms 平均耗时 5176ms!
+Aug 29, 2017 11:19:16 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 29ms 平均耗时 29ms!
+Aug 29, 2017 11:19:16 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 98ms 平均耗时 98ms!
+Aug 29, 2017 11:21:13 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 TitleManager 插件 titlemanager reload 命令 耗时 149ms 平均耗时 149ms!
+Aug 29, 2017 11:25:49 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 TitleManager 插件 titlemanager reload 命令 耗时 107ms 平均耗时 128ms!
+Aug 29, 2017 11:26:21 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 TitleManager 插件 titlemanager reload 命令 耗时 117ms 平均耗时 124ms!
+Aug 29, 2017 11:26:42 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload EpicMobs 命令 耗时 594ms 平均耗时 121ms!
+Aug 29, 2017 11:28:03 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload EpicMobs 命令 耗时 404ms 平均耗时 168ms!
+Aug 29, 2017 11:30:04 AM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 26ms 平均耗时 26ms!
+Aug 29, 2017 11:30:04 AM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 46ms 平均耗时 46ms!
+Aug 29, 2017 11:30:07 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2645ms 平均耗时 2645ms!
+Aug 29, 2017 11:30:07 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 34ms!
+Aug 29, 2017 11:30:07 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 89ms 平均耗时 89ms!
+Aug 29, 2017 11:30:07 AM[Yum 能耗监控] 注意! 插件 GameEffect 处理 PlayerItemHeldEvent 事件 耗时 24ms 平均耗时 24ms!
+Aug 29, 2017 11:31:34 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 Yum 插件 yum reload Slimefun 命令 耗时 1316ms 平均耗时 660ms!
+Aug 29, 2017 11:32:37 AM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 65ms 平均耗时 65ms!
+Aug 29, 2017 11:32:37 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 34ms!
+Aug 29, 2017 11:32:37 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 39ms 平均耗时 39ms!
+Aug 29, 2017 11:32:37 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 111ms 平均耗时 111ms!
+Aug 29, 2017 11:33:07 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload Slimefun 命令 耗时 1269ms 平均耗时 424ms!
+Aug 29, 2017 11:33:13 AM[Yum 能耗监控] 注意! 插件 LockettePro 处理 PlayerInteractEvent 事件 耗时 31ms 平均耗时 31ms!
+Aug 29, 2017 11:36:00 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload PlayerEmotesPro 命令 耗时 636ms 平均耗时 238ms!
+Aug 29, 2017 11:38:16 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman unload SkinsRestorer 命令 耗时 695ms 平均耗时 260ms!
+Aug 29, 2017 11:43:55 AM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 83ms 平均耗时 83ms!
+Aug 29, 2017 11:43:57 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 1992ms 平均耗时 1992ms!
+Aug 29, 2017 11:43:57 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 41ms 平均耗时 41ms!
+Aug 29, 2017 11:43:58 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 124ms 平均耗时 124ms!
+Aug 29, 2017 11:46:20 AM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 21ms 平均耗时 21ms!
+Aug 29, 2017 11:46:20 AM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 28ms 平均耗时 28ms!
+Aug 29, 2017 11:46:20 AM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 50ms 平均耗时 50ms!
+Aug 29, 2017 11:46:20 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 34ms!
+Aug 29, 2017 11:46:20 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 38ms 平均耗时 38ms!
+Aug 29, 2017 11:46:20 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 130ms 平均耗时 130ms!
+Aug 29, 2017 11:47:54 AM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 28ms 平均耗时 28ms!
+Aug 29, 2017 11:47:54 AM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 54ms 平均耗时 54ms!
+Aug 29, 2017 11:47:54 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 28ms 平均耗时 28ms!
+Aug 29, 2017 11:47:54 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 38ms 平均耗时 38ms!
+Aug 29, 2017 11:47:54 AM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 112ms 平均耗时 112ms!
+Aug 29, 2017 11:47:54 AM[Yum 能耗监控] 注意! 插件 GameEffect 处理 PlayerItemHeldEvent 事件 耗时 21ms 平均耗时 21ms!
+Aug 29, 2017 11:51:59 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load myplayer 命令 耗时 54ms 平均耗时 54ms!
+Aug 29, 2017 11:52:40 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload MyPlayer 命令 耗时 552ms 平均耗时 202ms!
+Aug 29, 2017 11:52:48 AM[Yum 能耗监控] 注意! 插件 LockettePro 处理 PlayerInteractEvent 事件 耗时 36ms 平均耗时 36ms!
+Aug 29, 2017 11:56:29 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload MyPlayer 命令 耗时 565ms 平均耗时 234ms!
+Aug 29, 2017 11:58:18 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload MyPlayer 命令 耗时 686ms 平均耗时 265ms!
+Aug 29, 2017 11:59:10 AM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload MyPlayer 命令 耗时 319ms 平均耗时 272ms!
+Aug 29, 2017 12:09:28 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 7087ms 平均耗时 3557ms!
+Aug 29, 2017 12:09:28 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 87ms 平均耗时 45ms!
+Aug 29, 2017 12:23:17 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 5258ms 平均耗时 4124ms!
+Aug 29, 2017 12:23:17 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 235ms 平均耗时 108ms!
+Aug 29, 2017 12:23:35 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 199ms 平均耗时 199ms!
+Aug 29, 2017 12:27:05 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 76ms 平均耗时 137ms!
+Aug 29, 2017 12:27:06 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 71ms 平均耗时 115ms!
+Aug 29, 2017 12:36:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 64ms 平均耗时 102ms!
+Aug 29, 2017 12:37:01 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 58ms 平均耗时 94ms!
+Aug 29, 2017 12:39:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 97ms 平均耗时 94ms!
+Aug 29, 2017 12:40:11 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 78ms 平均耗时 92ms!
+Aug 29, 2017 12:42:33 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 63ms 平均耗时 88ms!
+Aug 29, 2017 12:42:42 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 54ms 平均耗时 84ms!
+Aug 29, 2017 12:43:00 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 79ms 平均耗时 84ms!
+Aug 29, 2017 12:43:10 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 59ms 平均耗时 82ms!
+Aug 29, 2017 12:43:24 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 67ms 平均耗时 80ms!
+Aug 29, 2017 12:43:27 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 93ms 平均耗时 81ms!
+Aug 29, 2017 12:43:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 57ms 平均耗时 80ms!
+Aug 29, 2017 12:44:04 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 56ms 平均耗时 78ms!
+Aug 29, 2017 12:44:12 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 51ms 平均耗时 76ms!
+Aug 29, 2017 12:44:19 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 56ms 平均耗时 75ms!
+Aug 29, 2017 12:44:30 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 80ms 平均耗时 75ms!
+Aug 29, 2017 12:45:20 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 55ms 平均耗时 74ms!
+Aug 29, 2017 12:46:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 61ms 平均耗时 74ms!
+Aug 29, 2017 12:46:24 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 62ms 平均耗时 73ms!
+Aug 29, 2017 12:47:33 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 67ms 平均耗时 73ms!
+Aug 29, 2017 12:47:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 64ms 平均耗时 72ms!
+Aug 29, 2017 12:48:20 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 57ms 平均耗时 72ms!
+Aug 29, 2017 12:48:23 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 59ms 平均耗时 71ms!
+Aug 29, 2017 12:49:48 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 53ms 平均耗时 71ms!
+Aug 29, 2017 12:49:59 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 57ms 平均耗时 70ms!
+Aug 29, 2017 12:51:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 77ms 平均耗时 70ms!
+Aug 29, 2017 12:51:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 173ms 平均耗时 74ms!
+Aug 29, 2017 12:53:59 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 209ms 平均耗时 78ms!
+Aug 29, 2017 12:53:59 PM[Yum 能耗监控] 注意! 玩家 Mr_kang 执行 PlotMe 插件 plotme home 命令 耗时 229ms 平均耗时 229ms!
+Aug 29, 2017 12:55:27 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 67ms 平均耗时 78ms!
+Aug 29, 2017 1:03:36 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 64ms 平均耗时 78ms!
+Aug 29, 2017 1:03:45 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 58ms 平均耗时 77ms!
+Aug 29, 2017 1:04:34 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 81ms 平均耗时 77ms!
+Aug 29, 2017 1:04:36 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 71ms 平均耗时 77ms!
+Aug 29, 2017 1:05:40 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 223ms 平均耗时 81ms!
+Aug 29, 2017 1:05:45 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 194ms 平均耗时 84ms!
+Aug 29, 2017 1:06:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 70ms 平均耗时 84ms!
+Aug 29, 2017 1:06:39 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 73ms 平均耗时 83ms!
+Aug 29, 2017 1:11:35 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 189ms 平均耗时 86ms!
+Aug 29, 2017 1:12:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 56ms 平均耗时 85ms!
+Aug 29, 2017 1:12:26 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 60ms 平均耗时 85ms!
+Aug 29, 2017 1:12:32 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 66ms 平均耗时 84ms!
+Aug 29, 2017 1:12:49 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 103ms 平均耗时 85ms!
+Aug 29, 2017 1:12:51 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 99ms 平均耗时 85ms!
+Aug 29, 2017 1:13:18 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 61ms 平均耗时 84ms!
+Aug 29, 2017 1:13:20 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 63ms 平均耗时 84ms!
+Aug 29, 2017 1:13:56 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 80ms 平均耗时 84ms!
+Aug 29, 2017 1:14:03 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 67ms 平均耗时 84ms!
+Aug 29, 2017 1:18:41 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 73ms 平均耗时 83ms!
+Aug 29, 2017 1:18:43 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 59ms 平均耗时 83ms!
+Aug 29, 2017 1:24:11 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 70ms 平均耗时 83ms!
+Aug 29, 2017 1:24:14 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 56ms 平均耗时 82ms!
+Aug 29, 2017 1:26:07 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 71ms 平均耗时 82ms!
+Aug 29, 2017 1:26:10 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 73ms 平均耗时 82ms!
+Aug 29, 2017 1:28:19 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 68ms 平均耗时 82ms!
+Aug 29, 2017 1:28:22 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 60ms 平均耗时 81ms!
+Aug 29, 2017 1:28:55 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 64ms 平均耗时 81ms!
+Aug 29, 2017 1:28:58 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 56ms 平均耗时 80ms!
+Aug 29, 2017 1:33:39 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 77ms 平均耗时 80ms!
+Aug 29, 2017 1:33:41 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 59ms 平均耗时 80ms!
+Aug 29, 2017 1:34:10 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 95ms 平均耗时 80ms!
+Aug 29, 2017 1:34:13 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 75ms 平均耗时 80ms!
+Aug 29, 2017 1:34:37 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 66ms 平均耗时 80ms!
+Aug 29, 2017 1:34:39 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 57ms 平均耗时 80ms!
+Aug 29, 2017 1:35:24 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 69ms 平均耗时 79ms!
+Aug 29, 2017 1:35:28 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 78ms 平均耗时 79ms!
+Aug 29, 2017 1:36:11 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 185ms 平均耗时 81ms!
+Aug 29, 2017 1:36:43 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 86ms 平均耗时 81ms!
+Aug 29, 2017 1:36:46 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 120ms 平均耗时 82ms!
+Aug 29, 2017 1:37:23 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 56ms 平均耗时 81ms!
+Aug 29, 2017 1:37:25 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 91ms 平均耗时 81ms!
+Aug 29, 2017 1:37:28 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 58ms 平均耗时 81ms!
+Aug 29, 2017 1:37:48 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 61ms 平均耗时 81ms!
+Aug 29, 2017 1:38:09 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 179ms 平均耗时 82ms!
+Aug 29, 2017 1:38:25 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 117ms 平均耗时 83ms!
+Aug 29, 2017 1:38:32 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 92ms 平均耗时 83ms!
+Aug 29, 2017 1:38:42 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 85ms 平均耗时 83ms!
+Aug 29, 2017 1:38:48 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 85ms 平均耗时 83ms!
+Aug 29, 2017 1:39:33 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 61ms 平均耗时 82ms!
+Aug 29, 2017 1:39:38 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 130ms 平均耗时 83ms!
+Aug 29, 2017 1:43:30 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 5321ms 平均耗时 4423ms!
+Aug 29, 2017 1:52:50 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load Wormholes-2.0.2p-CRACKED 命令 耗时 3115ms 平均耗时 588ms!
+Aug 29, 2017 3:52:18 PM[Yum 能耗监控] 注意! 插件 AuthMe 处理 PlayerLoginEvent 事件 耗时 43ms 平均耗时 43ms!
+Aug 29, 2017 3:52:18 PM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 69ms 平均耗时 69ms!
+Aug 29, 2017 3:52:24 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 5660ms 平均耗时 5660ms!
+Aug 29, 2017 3:52:24 PM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 39ms 平均耗时 39ms!
+Aug 29, 2017 3:52:24 PM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 107ms 平均耗时 107ms!
+Aug 29, 2017 3:52:24 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 120ms 平均耗时 120ms!
+Aug 29, 2017 3:52:50 PM[Yum 能耗监控] 注意! 插件 LockettePro 处理 PlayerInteractEvent 事件 耗时 38ms 平均耗时 38ms!
+Aug 29, 2017 3:58:39 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 4255ms 平均耗时 4958ms!
+Aug 29, 2017 4:01:58 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PermissionSystemEvent 事件 耗时 26ms 平均耗时 26ms!
+Aug 29, 2017 4:01:58 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PermissionsEx 插件 pex reload 命令 耗时 49ms 平均耗时 49ms!
+Aug 29, 2017 4:02:18 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload MyPlayer 命令 耗时 770ms 平均耗时 386ms!
+Aug 29, 2017 4:03:17 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 71ms 平均耗时 35ms!
+Aug 29, 2017 4:03:21 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 120ms 平均耗时 64ms!
+Aug 29, 2017 4:04:11 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlotMe 插件 plotme home NotSB 命令 耗时 123ms 平均耗时 123ms!
+Aug 29, 2017 4:04:22 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 71ms 平均耗时 52ms!
+Aug 29, 2017 4:04:27 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 76ms 平均耗时 56ms!
+Aug 29, 2017 4:04:38 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 85ms 平均耗时 60ms!
+Aug 29, 2017 4:04:38 PM[Yum 能耗监控] 注意! 玩家 NotSB 执行 PlotMe 插件 p h 命令 耗时 133ms 平均耗时 128ms!
+Aug 29, 2017 4:07:53 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlotMe 插件 plotme info 命令 耗时 40ms 平均耗时 98ms!
+Aug 29, 2017 4:08:12 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlotMe 插件 plot info 命令 耗时 34ms 平均耗时 66ms!
+Aug 29, 2017 4:10:09 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 80ms 平均耗时 63ms!
+Aug 29, 2017 4:14:28 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 80ms 平均耗时 58ms!
+Aug 29, 2017 4:14:28 PM[Yum 能耗监控] 注意! 玩家 NotSB 执行 PlotMe 插件 p h 命令 耗时 97ms 平均耗时 71ms!
+Aug 29, 2017 4:19:09 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 74ms 平均耗时 55ms!
+Aug 29, 2017 4:19:30 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 70ms 平均耗时 56ms!
+Aug 29, 2017 4:28:33 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 83ms 平均耗时 54ms!
+Aug 29, 2017 4:29:12 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 75ms 平均耗时 55ms!
+Aug 29, 2017 4:29:12 PM[Yum 能耗监控] 注意! 玩家 NotSB 执行 PlotMe 插件 p h 命令 耗时 97ms 平均耗时 75ms!
+Aug 29, 2017 4:30:51 PM[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 73ms 平均耗时 56ms!
+Aug 29, 2017 4:37:42 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 30ms 平均耗时 30ms!
+Aug 29, 2017 4:37:42 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 27ms 平均耗时 27ms!
+Aug 29, 2017 4:37:42 PM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 68ms 平均耗时 68ms!
+Aug 29, 2017 4:37:44 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2456ms 平均耗时 2456ms!
+Aug 29, 2017 4:37:44 PM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 42ms 平均耗时 42ms!
+Aug 29, 2017 4:37:45 PM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 119ms 平均耗时 119ms!
+Aug 29, 2017 4:37:45 PM[Yum 能耗监控] 注意! 插件 GameEffect 处理 PlayerItemHeldEvent 事件 耗时 21ms 平均耗时 21ms!
+Aug 29, 2017 4:38:20 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 Slimefun 插件 sf research Doc_Yan all 命令 耗时 644ms 平均耗时 107ms!
+Aug 29, 2017 4:38:23 PM[Yum 能耗监控] 注意! 插件 Slimefun 处理 ItemUseEvent 事件 耗时 83ms 平均耗时 33ms!
+Aug 29, 2017 4:38:23 PM[Yum 能耗监控] 注意! 插件 CS-CoreLib 处理 PlayerInteractEvent 事件 耗时 83ms 平均耗时 33ms!
+Aug 29, 2017 4:38:29 PM[Yum 能耗监控] 注意! 插件 CS-CoreLib 处理 InventoryClickEvent 事件 耗时 99ms 平均耗时 46ms!
+Aug 29, 2017 4:50:08 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load HeadDatabase-Output 命令 耗时 3776ms 平均耗时 3776ms!
+Aug 29, 2017 4:51:33 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload HeadDatabase 命令 耗时 654ms 平均耗时 1107ms!
+Aug 29, 2017 4:53:29 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 25ms 平均耗时 25ms!
+Aug 29, 2017 4:53:29 PM[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 36ms 平均耗时 36ms!
+Aug 29, 2017 4:53:30 PM[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 56ms 平均耗时 56ms!
+Aug 29, 2017 4:53:38 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 8146ms 平均耗时 8146ms!
+Aug 29, 2017 4:53:38 PM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 35ms 平均耗时 35ms!
+Aug 29, 2017 4:53:38 PM[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 95ms 平均耗时 95ms!
+Aug 29, 2017 4:53:53 PM[Yum 能耗监控] 注意! 插件 LockettePro 处理 PlayerInteractEvent 事件 耗时 32ms 平均耗时 32ms!
+Aug 29, 2017 4:56:11 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load LegacyFactions 命令 耗时 697ms 平均耗时 697ms!
+Aug 29, 2017 4:56:46 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload HeadDatabase 命令 耗时 1038ms 平均耗时 218ms!
+Aug 29, 2017 4:59:26 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 LegacyFactions 插件 factions  命令 耗时 190ms 平均耗时 190ms!
+Aug 29, 2017 5:01:38 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 LegacyFactions 插件 factions reload 命令 耗时 31ms 平均耗时 110ms!
+Aug 29, 2017 5:01:54 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload LegacyFactions 命令 耗时 2111ms 平均耗时 297ms!
+Aug 29, 2017 5:01:57 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 LegacyFactions 插件 factions  命令 耗时 232ms 平均耗时 232ms!
+Aug 29, 2017 5:02:27 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload LegacyFactions 命令 耗时 729ms 平均耗时 328ms!
+Aug 29, 2017 5:02:30 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 LegacyFactions 插件 factions  命令 耗时 156ms 平均耗时 156ms!
+Aug 29, 2017 5:03:07 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 LegacyFactions 插件 factions reload 命令 耗时 30ms 平均耗时 62ms!
+Aug 29, 2017 5:03:10 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload LegacyFactions 命令 耗时 1181ms 平均耗时 385ms!
+Aug 29, 2017 5:03:12 PM[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 LegacyFactions 插件 factions  命令 耗时 193ms 平均耗时 193ms!
+2017-9-23 19:45:35[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 39ms 平均耗时 39ms!
+2017-9-23 19:45:38[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3237ms 平均耗时 3237ms!
+2017-9-23 19:45:39[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 25ms!
+2017-9-23 19:45:39[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 26ms 平均耗时 26ms!
+2017-9-23 19:45:39[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 100ms 平均耗时 100ms!
+2017-9-23 19:46:24[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 3053ms 平均耗时 3145ms!
+2017-9-23 19:51:21[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 47ms 平均耗时 47ms!
+2017-9-23 19:51:24[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2543ms 平均耗时 2543ms!
+2017-9-23 19:51:24[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 40ms 平均耗时 40ms!
+2017-9-23 19:51:24[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 37ms 平均耗时 37ms!
+2017-9-23 19:51:24[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 124ms 平均耗时 124ms!
+2017-9-23 19:51:26[Yum 能耗监控] 注意! 插件 Multiverse-Core 处理 EntityRegainHealthEvent 事件 耗时 66ms 平均耗时 66ms!
+2017-9-23 19:51:52[Yum 能耗监控] 注意! 插件 Essentials 处理 WorldLoadEvent 事件 耗时 24ms 平均耗时 24ms!
+2017-9-23 19:51:52[Yum 能耗监控] 注意! 插件 Slimefun 处理 WorldLoadEvent 事件 耗时 136ms 平均耗时 136ms!
+2017-9-23 19:51:52[Yum 能耗监控] 注意! 插件 Multiverse-Core 处理 WorldLoadEvent 事件 耗时 86ms 平均耗时 86ms!
+2017-9-23 19:52:00[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 BetterRTP 插件 rtp  命令 耗时 47ms 平均耗时 47ms!
+2017-9-23 19:52:55[Yum 能耗监控] 注意! 插件 Slimefun 处理 WorldLoadEvent 事件 耗时 117ms 平均耗时 127ms!
+2017-9-23 19:52:55[Yum 能耗监控] 注意! 插件 Multiverse-Core 处理 WorldLoadEvent 事件 耗时 63ms 平均耗时 74ms!
+2017-9-23 19:53:49[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 Slimefun 插件 sf research Doc_Yan all 命令 耗时 699ms 平均耗时 139ms!
+2017-9-23 20:00:04[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.f.a$2 任务 耗时 37ms 平均耗时 37ms!
+2017-9-23 20:00:07[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 47ms 平均耗时 47ms!
+2017-9-23 20:00:09[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2561ms 平均耗时 2561ms!
+2017-9-23 20:00:09[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 51ms 平均耗时 51ms!
+2017-9-23 20:00:09[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 129ms 平均耗时 129ms!
+2017-9-23 20:00:09[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 33ms!
+2017-9-23 20:00:09[Yum 能耗监控] 注意! 插件 AgarthaLib 处理 PlayerJoinEvent 事件 耗时 26ms 平均耗时 26ms!
+2017-9-23 20:00:11[Yum 能耗监控] 注意! 插件 MythicMobs 处理 MythicMobsClock 任务 耗时 380ms 平均耗时 27ms!
+2017-9-23 20:01:05[Yum 能耗监控] 注意! 插件 AuthMe 处理 PlayerQuitEvent 事件 耗时 31ms 平均耗时 31ms!
+2017-9-23 20:04:15[Yum 能耗监控] 注意! 插件 PlotMe 处理 PlayerJoinEvent 事件 耗时 43ms 平均耗时 43ms!
+2017-9-23 20:04:15[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 54ms 平均耗时 54ms!
+2017-9-23 20:04:15[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 42ms 平均耗时 42ms!
+2017-9-23 20:04:15[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 66ms 平均耗时 66ms!
+2017-9-23 20:04:15[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 85ms 平均耗时 85ms!
+2017-9-23 20:04:15[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 144ms 平均耗时 144ms!
+2017-9-23 20:04:15[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 23ms!
+2017-9-23 20:04:15[Yum 能耗监控] 注意! 插件 AgarthaLib 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 34ms!
+2017-9-23 20:04:16[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.f.a$2 任务 耗时 106ms 平均耗时 106ms!
+2017-9-23 20:04:16[Yum 能耗监控] 注意! 插件 Multiverse-Core 处理 CreatureSpawnEvent 事件 耗时 33ms 平均耗时 33ms!
+2017-9-23 20:04:16[Yum 能耗监控] 注意! 插件 MythicMobs 处理 CreatureSpawnEvent 事件 耗时 48ms 平均耗时 48ms!
+2017-9-23 20:04:17[Yum 能耗监控] 注意! 插件 MythicMobs 处理 MythicMobsClock 任务 耗时 101ms 平均耗时 25ms!
+2017-9-23 20:04:26[Yum 能耗监控] 注意! 插件 CS-CoreLib 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 29ms!
+2017-9-23 20:09:06[Yum 能耗监控] 注意! 插件 LockettePro 处理 EntityInteractEvent 事件 耗时 22ms 平均耗时 22ms!
+2017-9-23 20:10:56[Yum 能耗监控] 注意! 插件 AuthMe 处理 PlayerQuitEvent 事件 耗时 22ms 平均耗时 22ms!
+2018-1-31 10:01:38[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.f.a$2 任务 耗时 108ms 平均耗时 108ms!
+2018-1-31 10:08:13[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 22ms 平均耗时 22ms!
+2018-1-31 10:08:13[Yum 能耗监控] 注意! 插件 PlotMe 处理 PlayerJoinEvent 事件 耗时 28ms 平均耗时 28ms!
+2018-1-31 10:08:13[Yum 能耗监控] 注意! 插件 PlayerEmotesPro 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 23ms!
+2018-1-31 10:08:13[Yum 能耗监控] 注意! 插件 LibsDisguises 处理 PlayerJoinEvent 事件 耗时 35ms 平均耗时 35ms!
+2018-1-31 10:08:14[Yum 能耗监控] 注意! 插件 WorldGuard 处理 PlayerJoinEvent 事件 耗时 223ms 平均耗时 223ms!
+2018-1-31 10:08:14[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 83ms 平均耗时 83ms!
+2018-1-31 10:08:17[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2709ms 平均耗时 2709ms!
+2018-1-31 10:08:17[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 78ms 平均耗时 78ms!
+2018-1-31 10:08:17[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 176ms 平均耗时 176ms!
+2018-1-31 10:08:17[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 141ms 平均耗时 141ms!
+2018-1-31 10:08:17[Yum 能耗监控] 注意! 插件 Friends3_0 处理 PlayerJoinEvent 事件 耗时 55ms 平均耗时 55ms!
+2018-1-31 10:08:17[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerJoinEvent 事件 耗时 53ms 平均耗时 53ms!
+2018-1-31 10:08:17[Yum 能耗监控] 注意! 插件 AgarthaLib 处理 PlayerJoinEvent 事件 耗时 40ms 平均耗时 40ms!
+2018-1-31 10:08:19[Yum 能耗监控] 注意! 插件 GameEffect 处理 PlayerItemHeldEvent 事件 耗时 296ms 平均耗时 296ms!
+2018-1-31 10:08:30[Yum 能耗监控] 注意! 插件 GameEffect 处理 CreatureSpawnEvent 事件 耗时 47ms 平均耗时 47ms!
+2018-1-31 10:08:30[Yum 能耗监控] 注意! 插件 WorldGuard 处理 CreatureSpawnEvent 事件 耗时 33ms 平均耗时 33ms!
+2018-1-31 10:08:33[Yum 能耗监控] 注意! 插件 AgarthaLib 处理 EntityDamageByEntityEvent 事件 耗时 44ms 平均耗时 44ms!
+2018-1-31 10:08:33[Yum 能耗监控] 注意! 插件 LockettePro 处理 BlockRedstoneEvent 事件 耗时 39ms 平均耗时 39ms!
+2018-1-31 10:13:43[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2931ms 平均耗时 2820ms!
+2018-1-31 10:14:33[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerInteractEvent 事件 耗时 33ms 平均耗时 33ms!
+2018-1-31 10:14:34[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerInteractEvent 事件 耗时 29ms 平均耗时 29ms!
+2018-1-31 10:14:34[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerInteractEvent 事件 耗时 77ms 平均耗时 77ms!
+2018-1-31 10:15:32[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman unload Residence 命令 耗时 618ms 平均耗时 618ms!
+2018-1-31 10:15:40[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman load Residence 命令 耗时 148ms 平均耗时 383ms!
+2018-1-31 10:23:41[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 1852ms 平均耗时 2498ms!
+2018-1-31 10:23:42[Yum 能耗监控] 注意! 插件 EasyKits 处理 PlayerJoinEvent 事件 耗时 173ms 平均耗时 58ms!
+2018-1-31 10:23:50[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 SkinsRestorer 插件 skins  命令 耗时 194ms 平均耗时 194ms!
+2018-1-31 10:23:55[Yum 能耗监控] 注意! 插件 PlayerEmotesPro 处理 InventoryClickEvent 事件 耗时 21ms 平均耗时 21ms!
+2018-1-31 10:26:24[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2700ms 平均耗时 2548ms!
+2018-1-31 10:26:25[Yum 能耗监控] 注意! 插件 EasyKits 处理 PlayerJoinEvent 事件 耗时 116ms 平均耗时 72ms!
+2018-1-31 10:27:00[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 1878ms 平均耗时 2414ms!
+2018-1-31 10:27:01[Yum 能耗监控] 注意! 插件 EasyKits 处理 PlayerJoinEvent 事件 耗时 151ms 平均耗时 88ms!
+2018-1-31 10:29:25[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 815ms 平均耗时 2148ms!
+2018-1-31 10:29:57[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2371ms 平均耗时 2179ms!
+2018-1-31 10:30:02[Yum 能耗监控] 注意! 玩家 Siroskariam 执行 PlotMe 插件 plotme home 命令 耗时 33ms 平均耗时 33ms!
+2018-1-31 10:30:06[Yum 能耗监控] 注意! 玩家 Siroskariam 执行 PlotMe 插件 plotme auto 命令 耗时 769ms 平均耗时 401ms!
+2018-1-31 10:30:06[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 770ms 平均耗时 64ms!
+2018-1-31 10:30:27[Yum 能耗监控] 注意! 插件 CS-CoreLib 处理 BlockBreakEvent 事件 耗时 62ms 平均耗时 62ms!
+2018-1-31 10:30:55[Yum 能耗监控] 注意! 插件 AgarthaLib 处理 CombatCriticalDamageEvent 事件 耗时 120ms 平均耗时 120ms!
+2018-1-31 10:32:13[Yum 能耗监控] 注意! 玩家 Siroskariam 执行 BetterRTP 插件 rtp  命令 耗时 25ms 平均耗时 25ms!
+2018-1-31 10:32:13[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 27ms 平均耗时 33ms!
+2018-1-31 10:32:14[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 25ms 平均耗时 33ms!
+2018-1-31 10:32:44[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 1810ms 平均耗时 2133ms!
+2018-1-31 10:34:25[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 2907ms 平均耗时 2219ms!
+2018-1-31 10:35:46[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman reload SkinsRestorer 命令 耗时 592ms 平均耗时 339ms!
+2018-1-31 10:36:45[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 Yum 插件 yum del SkinsRestorer 命令 耗时 576ms 平均耗时 144ms!
+2018-1-31 10:41:49[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 Yum 插件 yum delete Heroes 命令 耗时 400ms 平均耗时 153ms!
+2018-1-31 10:47:15[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman unload ItemExpansionPack 命令 耗时 578ms 平均耗时 323ms!
+2018-1-31 10:49:15[Yum 能耗监控] 注意! 插件 WorldGuard 处理 LightningStrikeEvent 事件 耗时 73ms 平均耗时 73ms!
+2018-1-31 10:49:23[Yum 能耗监控] 注意! 插件 LevelChat 处理 PlayerLevelChangeEvent 事件 耗时 218ms 平均耗时 27ms!
+2018-1-31 10:51:12[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 Essentials 插件 killall all 命令 耗时 411ms 平均耗时 411ms!
+2018-1-31 10:51:42[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman info MythicMobs 命令 耗时 473ms 平均耗时 305ms!
+2018-1-31 10:53:51[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 MythicMobs 插件 mythicmobs  命令 耗时 489ms 平均耗时 489ms!
+2018-1-31 10:55:57[Yum 能耗监控] 注意! 插件 Yum 处理 PluginDisableEvent 事件 耗时 299ms 平均耗时 50ms!
+2018-1-31 10:56:27[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman unload MythicMobs 命令 耗时 30487ms 平均耗时 3293ms!
+2018-1-31 10:56:28[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 EasyKits 插件 kit list 命令 耗时 422ms 平均耗时 217ms!
+2018-1-31 10:57:35[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 AdminFun 插件 af  命令 耗时 81ms 平均耗时 81ms!
+2018-1-31 11:04:41[Yum 能耗监控] 注意! 插件 PermissionsEx 处理 PlayerLoginEvent 事件 耗时 24ms 平均耗时 24ms!
+2018-1-31 11:04:41[Yum 能耗监控] 注意! 插件 PlotMe 处理 PlayerJoinEvent 事件 耗时 29ms 平均耗时 29ms!
+2018-1-31 11:04:42[Yum 能耗监控] 注意! 插件 WorldGuard 处理 PlayerJoinEvent 事件 耗时 26ms 平均耗时 26ms!
+2018-1-31 11:04:42[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 48ms 平均耗时 48ms!
+2018-1-31 11:04:42[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 138ms 平均耗时 138ms!
+2018-1-31 11:04:42[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 67ms 平均耗时 67ms!
+2018-1-31 11:04:42[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 100ms 平均耗时 100ms!
+2018-1-31 11:04:42[Yum 能耗监控] 注意! 插件 AgarthaLib 处理 PlayerJoinEvent 事件 耗时 67ms 平均耗时 67ms!
+2018-1-31 11:04:42[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 114ms 平均耗时 114ms!
+2018-1-31 11:04:43[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.f.a$2 任务 耗时 188ms 平均耗时 188ms!
+2018-1-31 11:04:43[Yum 能耗监控] 注意! 插件 MythicMobs 处理 CreatureSpawnEvent 事件 耗时 26ms 平均耗时 26ms!
+2018-1-31 11:04:50[Yum 能耗监控] 注意! 插件 WorldGuard 处理 EntityChangeBlockEvent 事件 耗时 27ms 平均耗时 27ms!
+2018-1-31 11:04:52[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 91ms 平均耗时 103ms!
+2018-1-31 11:05:24[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerInteractEvent 事件 耗时 43ms 平均耗时 43ms!
+2018-1-31 11:06:21[Yum 能耗监控] 注意! 插件 PlayerEmotesPro 处理 InventoryClickEvent 事件 耗时 139ms 平均耗时 139ms!
+2018-1-31 11:06:23[Yum 能耗监控] 注意! 玩家 Doc_Yan 执行 PlugMan 插件 plugman unload Slimefun 命令 耗时 477ms 平均耗时 160ms!
+2018-1-31 11:08:24[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 45ms 平均耗时 45ms!
+2018-1-31 11:08:24[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 124ms 平均耗时 124ms!
+2018-1-31 11:08:24[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 36ms 平均耗时 36ms!
+2018-1-31 11:08:24[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 144ms 平均耗时 144ms!
+2018-1-31 11:08:24[Yum 能耗监控] 注意! 插件 AgarthaLib 处理 PlayerJoinEvent 事件 耗时 29ms 平均耗时 29ms!
+2018-1-31 11:08:24[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 159ms 平均耗时 159ms!
+2018-1-31 11:08:24[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.f.a$2 任务 耗时 35ms 平均耗时 35ms!
+2018-1-31 11:08:25[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 122ms 平均耗时 140ms!
+2018-1-31 11:08:25[Yum 能耗监控] 注意! 插件 MyItems 处理 b 任务 耗时 48ms 平均耗时 48ms!
+2018-1-31 11:08:27[Yum 能耗监控] 注意! 插件 WorldGuard 处理 EntityInteractEvent 事件 耗时 36ms 平均耗时 36ms!
+2018-1-31 11:09:33[Yum 能耗监控] 注意! 插件 EasyKits 处理 KitPlayerEquipEvent 事件 耗时 308ms 平均耗时 308ms!
+2018-1-31 11:09:33[Yum 能耗监控] 注意! 玩家 Advantace 执行 EasyKits 插件 kit xslb 命令 耗时 689ms 平均耗时 689ms!
+2018-1-31 11:09:33[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 690ms 平均耗时 347ms!
+2018-1-31 11:10:54[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 32ms 平均耗时 21ms!
+2018-1-31 11:11:04[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerChangedWorldEvent 事件 耗时 71ms 平均耗时 71ms!
+2018-1-31 11:11:04[Yum 能耗监控] 注意! 插件 BossShop 处理 InventoryClickEvent 事件 耗时 325ms 平均耗时 26ms!
+2018-1-31 11:14:17[Yum 能耗监控] 注意! 插件 BetterRTP 处理 PlayerJoinEvent 事件 耗时 21ms 平均耗时 21ms!
+2018-1-31 11:14:17[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 50ms 平均耗时 50ms!
+2018-1-31 11:14:17[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 138ms 平均耗时 138ms!
+2018-1-31 11:14:17[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 33ms!
+2018-1-31 11:14:18[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 106ms 平均耗时 106ms!
+2018-1-31 11:14:18[Yum 能耗监控] 注意! 插件 AgarthaLib 处理 PlayerJoinEvent 事件 耗时 30ms 平均耗时 30ms!
+2018-1-31 11:14:18[Yum 能耗监控] 注意! 插件 Residence 处理 PlayerJoinEvent 事件 耗时 137ms 平均耗时 137ms!
+2018-1-31 11:14:18[Yum 能耗监控] 注意! 插件 MyItems 处理 com.praya.myitems.f.a$2 任务 耗时 32ms 平均耗时 32ms!
+2018-1-31 11:14:18[Yum 能耗监控] 注意! 插件 MythicMobs 处理 CreatureSpawnEvent 事件 耗时 28ms 平均耗时 28ms!
+2018-1-31 11:14:35[Yum 能耗监控] 注意! 插件 LockettePro 处理 PlayerInteractEvent 事件 耗时 23ms 平均耗时 23ms!
+2018-1-31 11:15:15[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 138ms 平均耗时 138ms!
+2018-1-31 11:45:00[Yum 能耗监控] 注意! 插件 TitleManager 处理 ExecutorSchedulerWorker 任务 耗时 23ms 平均耗时 23ms!
+2018-1-31 11:45:19[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 47ms 平均耗时 47ms!
+2018-1-31 11:45:19[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 118ms 平均耗时 118ms!
+2018-1-31 11:45:19[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 30ms 平均耗时 30ms!
+2018-1-31 11:45:19[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 119ms 平均耗时 119ms!
+2018-1-31 11:46:31[Yum 能耗监控] 注意! 插件 Slimefun 处理 ItemUseEvent 事件 耗时 176ms 平均耗时 176ms!
+2018-1-31 11:46:31[Yum 能耗监控] 注意! 插件 CS-CoreLib 处理 PlayerInteractEvent 事件 耗时 177ms 平均耗时 177ms!
+2018-1-31 11:46:32[Yum 能耗监控] 注意! 插件 CS-CoreLib 处理 InventoryClickEvent 事件 耗时 23ms 平均耗时 23ms!
+2018-1-31 11:46:46[Yum 能耗监控] 注意! 插件 Slimefun 处理 ItemUseEvent 事件 耗时 2001ms 平均耗时 314ms!
+2018-1-31 11:46:46[Yum 能耗监控] 注意! 插件 CS-CoreLib 处理 PlayerInteractEvent 事件 耗时 2002ms 平均耗时 315ms!
+2018-1-31 11:55:13[Yum 能耗监控] 注意! 插件 EscapeLag 处理 PlayerJoinEvent 事件 耗时 49ms 平均耗时 49ms!
+2018-1-31 11:55:13[Yum 能耗监控] 注意! 插件 LegacyFactions 处理 PlayerJoinEvent 事件 耗时 123ms 平均耗时 123ms!
+2018-1-31 11:55:14[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 45ms 平均耗时 45ms!
+2018-1-31 11:55:14[Yum 能耗监控] 注意! 插件 TitleManager 处理 PlayerJoinEvent 事件 耗时 193ms 平均耗时 193ms!
+2018-1-31 11:55:14[Yum 能耗监控] 注意! 插件 EssentialsXMPP 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 23ms!

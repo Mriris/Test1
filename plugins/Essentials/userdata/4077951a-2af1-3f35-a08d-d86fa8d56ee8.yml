@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: L_Z_W
+timestamps:
+  login: 1503668275524
+  lastteleport: 1503667605440
+  logout: 1503668287831
+ipAddress: 171.44.146.125
+geolocation: China
+lastlocation:
+  world: world
+  x: 21.495230065854468
+  y: 71.0
+  z: 231.6336996133007
+  yaw: 87.00005
+  pitch: 7.200001
+homes:
+  home:
+    world: sc
+    x: 112.6066591071918
+    y: 68.0
+    z: 311.69999998807907
+    yaw: -43.44922
+    pitch: 29.250004
+logoutlocation:
+  world: spawn
+  x: 3722.6448818731
+  y: 5.0
+  z: -779.3257117411617
+  yaw: 349.6257
+  pitch: 56.7

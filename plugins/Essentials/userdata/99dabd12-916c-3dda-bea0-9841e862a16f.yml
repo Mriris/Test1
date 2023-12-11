@@ -1,0 +1,24 @@
+socialspy: false
+geolocation: China
+lastAccountName: Mr_kang
+timestamps:
+  login: 1503980597624
+  lastteleport: 1503986058221
+  logout: 1503986381270
+ipAddress: 113.2.32.153
+lastlocation:
+  world: dy
+  x: -389.9208893041523
+  y: 36.86849400230467
+  z: 343.2547869581611
+  yaw: 299.93628
+  pitch: 19.594246
+logoutlocation:
+  world: dy
+  x: -417.1676686919047
+  y: 50.547290287234084
+  z: 338.19378915494553
+  yaw: 3.5639343
+  pitch: 26.666613
+money: '3700.0'
+afk: false

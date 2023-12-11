@@ -1,0 +1,172 @@
+signs:
+  text: '[Menu]'
+  NeedPermissionToCreateSign: true
+shop:
+  MenuWarps:
+    RewardType: shop
+    PriceType: free
+    Reward: Warps
+    MenuItem:
+    - type:PAPER
+    - amount:1
+    - name:&a&l传送 &6[x]
+    - lore:&8瞬间&m爆炸&8传送
+    Message: ''
+    InventoryLocation: 1
+    ExtraPermission: ''
+  PvP:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - BS games
+    MenuItem:
+    - id:38
+    - amount:1
+    - name:&c&l小游戏
+    - lore:&e非常好玩哦~
+    - amount:1
+    InventoryLocation: 2
+    ExtraPermission: ''
+  interesting:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - BS interesting
+    MenuItem:
+    - id:264
+    - amount:1
+    - name:&c&l功能大全
+    - lore:&e有的很实用
+    - amount:1
+    InventoryLocation: 3
+    ExtraPermission: ''
+  kit:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - BS kit
+    MenuItem:
+    - id:84
+    - amount:1
+    - name:&e&l礼包
+    - lore:&a可以领一大堆好东西哦~
+    - amount:1
+    InventoryLocation: 4
+    ExtraPermission: ''
+  pet:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - BS pet
+    MenuItem:
+    - id:420
+    - amount:1
+    - name:&b&l宠物
+    - lore:&a你的小伙伴#&a&l记得喂食，否则宠物血量会很低！
+    - amount:1
+    InventoryLocation: 5
+    ExtraPermission: ''
+  op:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - BS op
+    MenuItem:
+    - id:399
+    - amount:1
+    - name:&4&l管理员专用
+    - lore:&a玩家勿点，点了也无法使用！
+    - amount:1
+    InventoryLocation: 8
+    ExtraPermission: ''
+  plotme:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - BS plotme
+    MenuItem:
+    - id:2
+    - amount:1
+    - name:&a&l地皮相关
+    - lore:&b&l关于地皮的一切！
+    - amount:1
+    InventoryLocation: 6
+    ExtraPermission: ''
+  zz:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - rpgplayerleveling:p
+    MenuItem:
+    - id:388
+    - amount:1
+    - name:&e&l&o&n天赋菜单
+    - lore:&5&n打开技能面板！
+    - amount:1
+    InventoryLocation: 7
+    ExtraPermission: ''
+  is:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - BS is
+    MenuItem:
+    - id:35
+    - amount:1
+    - name:&c&l空岛
+    - lore:&5&n打开空岛菜单！
+    - amount:1
+    InventoryLocation: 9
+    ExtraPermission: ''
+  newitems:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - ni
+    MenuItem:
+    - id:137
+    - amount:1
+    - name:&a&l查看特殊物品合成表
+    - lore:&5&n请务必使用群内客户端或群内材质包！
+    - amount:1
+    InventoryLocation: 10
+    Message: ''
+    ExtraPermission: ''
+  suicide:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - suicide
+    MenuItem:
+    - id:351:1
+    - amount:1
+    - name:&4&l作挂
+    - lore:&5&m没事别乱点！
+    - amount:1
+    InventoryLocation: 18
+    Message: '&6&l&n不作就不会挂'
+    ExtraPermission: ''
+# �����ļ��汾,��Ҫ,�����޸�
+# ����������õ�ʱ����Ҫ�õ�
+version: '1.2'
+Setting:
+  # �����̵�ʱ����Ϣ,�������,����ʾ��Ϣ
+  EnterMessage: ''
+  # �뿪�̵�ʱ����Ϣ,�������,����ʾ��Ϣ
+  LeaveMessage: ''
+  # ���Ϊtrue,����̵�Ϊ�齱�̵�
+  ShopTypeSpecial: false
+  # �һ���Ʒʱ,��ƷĬ�ϵĹ�������
+  # �����Ʒ�����Ѿ����ù��ýڵ�,���������Ʒ���������
+  RightClickBuyCount: 1
+  # ����Ƿ���������Ҽ���������
+  # �����Ʒǿ�Ʋ�������
+  # �����Ʒ�����Ѿ����ù��ýڵ�,���������Ʒ���������
+  AllowChangeRightClickBuyCount: false
+  # ���Ҽ�������������1ʱ,��ʾ�Ҽ���������
+  # ��Ʒ����Ϊfalse���������Զ����Ҽ���������Lore��Ϣ
+  # �����Ʒ�����Ѿ����ù��ýڵ�,���������Ʒ���������
+  ShowRightClickBuyCount: true
+  # ��Ʒ������ʾ����,˵���ο�����
+  # �����Ʒ�����Ѿ����ù��ýڵ�,���������Ʒ���������
+  HideItemFlag: 63

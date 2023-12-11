@@ -1,0 +1,554 @@
+pos: 141
+items:
+  m4a1:
+    name: m4a1
+    id: 140
+    haspermission: false
+    display: WOOD_SWORD
+    quality: TRASH
+    damageMin: 0
+    damageMax: 3
+    armour: 0
+    type: Sword
+    hand: One handed
+    lore: ''
+    description: []
+    item: WOOD_SWORD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: 0
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  rpg物品1:
+    name: rpg物品1
+    id: 139
+    haspermission: false
+    permission: a.default.permission
+    display: 物品
+    quality: TRASH
+    damageMin: 0
+    damageMax: 3
+    armour: 0
+    type: 道具
+    hand: 兑换物
+    lore: ''
+    description:
+    - '&f&a&l你只需要喊：'
+    - '&f&e&l&n王瀚林是大好人！'
+    - '&f&b&l即可传送'
+    item: DOUBLE_PLANT
+    ignoreWorldGuard: false
+    item_data: 0
+    powers:
+      '0':
+        powerName: command
+        cooldown: 20
+        command: warp rpg3
+        display: 左键传送
+        isRight: false
+        permission: ''
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手免费武器:
+    name: 新手免费武器
+    id: 138
+    haspermission: false
+    permission: a.default.permission
+    display: '&7&l新手武器'
+    quality: TRASH
+    damageMin: 3
+    damageMax: 7
+    armour: 0
+    type: Sword
+    hand: '&6新手的武器'
+    lore: ''
+    description: []
+    item: STICK
+    ignoreWorldGuard: false
+    item_data: 0
+    powers:
+      '0':
+        powerName: rumble
+        cooldown: 60
+        power: 3
+        distance: 8
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  修罗王玩家版:
+    name: 修罗王玩家版
+    id: 137
+    haspermission: false
+    permission: a.default.permission
+    display: '&4&l修罗王'
+    quality: TRASH
+    damageMin: 20
+    damageMax: 30
+    armour: 0
+    type: '&e&l纪念品'
+    hand: '&a&l武器'
+    lore: ''
+    description: []
+    item: DIAMOND_SWORD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  血色之剑:
+    name: 血色之剑
+    id: 136
+    haspermission: false
+    permission: a.default.permission
+    display: '&5血色之剑'
+    quality: TRASH
+    damageMin: 15
+    damageMax: 17
+    armour: 0
+    type: Sword
+    hand: One handed
+    lore: ''
+    description:
+    - '&f&5唯一被动：持有者，会得到速度2的提升效果'
+    item: GOLD_SWORD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers:
+      '0':
+        powerName: potionself
+        cooldown: 0
+        amp: 3
+        time: 10
+        type: SPEED
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  板甲2:
+    name: 板甲2
+    id: 135
+    haspermission: false
+    permission: a.default.permission
+    display: '&3新手战靴'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 9
+    type: Sword
+    hand: One handed
+    lore: ''
+    description: []
+    item: IRON_BOOTS
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手板甲1:
+    name: 新手板甲1
+    id: 134
+    haspermission: false
+    permission: a.default.permission
+    display: '&3板甲'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 10
+    type: Sword
+    hand: One handed
+    lore: ''
+    description:
+    - '&f&3新手的板甲，防御度比新手护甲高了许多'
+    item: IRON_CHESTPLATE
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手护甲3:
+    name: 新手护甲3
+    id: 133
+    haspermission: false
+    permission: a.default.permission
+    display: '&3新手护腿'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 6
+    type: Sword
+    hand: One handed
+    lore: ''
+    description: []
+    item: CHAINMAIL_LEGGINGS
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手铁剑z:
+    name: 新手铁剑z
+    id: 132
+    haspermission: false
+    permission: a.default.permission
+    display: '&9新手铁剑'
+    quality: TRASH
+    damageMin: 3
+    damageMax: 5
+    armour: 0
+    type: Sword
+    hand: One handed
+    lore: ''
+    description: []
+    item: IRON_SWORD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手护甲2:
+    name: 新手护甲2
+    id: 131
+    haspermission: false
+    permission: a.default.permission
+    display: '&3新手胸甲'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 7
+    type: Sword
+    hand: One handed
+    lore: ''
+    description: []
+    item: IRON_CHESTPLATE
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手护甲1:
+    name: 新手护甲1
+    id: 130
+    haspermission: false
+    permission: a.default.permission
+    display: '&2新手头盔'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 0
+    armour: 5
+    type: Sword
+    hand: One handed
+    lore: ''
+    description: []
+    item: CHAINMAIL_HELMET
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手武器lv1:
+    name: 新手武器lv1
+    id: 129
+    haspermission: false
+    permission: a.default.permission
+    display: '&2新手武器'
+    quality: TRASH
+    damageMin: 3
+    damageMax: 5
+    armour: 0
+    type: '&e&l武器&品质：劣质'
+    hand: '&e&l指导员送你的一把木质武器，可用材料升级'
+    lore: 一个普通的木质武器，可以利用材料升级。
+    description: []
+    item: WOOD_HOE
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手武器终极版z:
+    name: 新手武器终极版z
+    id: 128
+    haspermission: false
+    permission: a.default.permission
+    display: '&e新式武器'
+    quality: TRASH
+    damageMin: 5
+    damageMax: 8
+    armour: 0
+    type: '&e&l武器&品质：劣质'
+    hand: '&e&l新手武器的最终形态，接下来要去铁匠铺进阶新装备'
+    lore: ''
+    description: []
+    item: BLAZE_ROD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  theassassinsword:
+    name: theassassinsword
+    id: 127
+    haspermission: false
+    permission: a.default.permission
+    display: '&6&lThe assassin sword'
+    quality: TRASH
+    damageMin: 50
+    damageMax: 50
+    armour: 0
+    type: '&e&l&kccc'
+    hand: '&e&oWe are born in the darkness, enshrined light!'
+    lore: '&e&oEverything is true, everything is permitted.'
+    description: []
+    item: GOLD_SWORD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers:
+      '0':
+        powerName: potiontick
+        amplifier: 0
+        effect: SPEED
+      '1':
+        powerName: potionhit
+        chance: 1
+        duration: 100
+        amplifier: 0
+        type: WITHER
+      '2':
+        powerName: potionhit
+        chance: 1
+        duration: 1200
+        amplifier: 127
+        type: WITHER
+      '3':
+        powerName: flame
+        burntime: 200
+      '4':
+        powerName: knockup
+        chance: 1
+        power: 10000.0
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  蓟旖鬚箜:
+    name: 蓟旖鬚箜
+    id: 32
+    haspermission: false
+    permission: a.default.permission
+    display: '&5无限'
+    quality: TRASH
+    damageMin: 80
+    damageMax: 80
+    armour: 0
+    type: Sword
+    hand: '&5斩断你的生'
+    lore: ''
+    description: []
+    item: IRON_SWORD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  新手武器:
+    name: 新手武器
+    id: 118
+    haspermission: false
+    permission: a.default.permission
+    display: '&2新手武器'
+    quality: TRASH
+    damageMin: 3
+    damageMax: 5
+    armour: 0
+    type: '&e&l武器&品质：劣质'
+    hand: '&e&l指导员送你的一把木质武器，可用材料升级'
+    lore: ''
+    description:
+    - '&f&2给新手的武器'
+    item: STICK
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  服主的神器:
+    name: 服主的神器
+    id: 117
+    haspermission: false
+    permission: a.default.permission
+    display: '&b&l服主的神器'
+    quality: TRASH
+    damageMin: 50
+    damageMax: 200
+    armour: 0
+    type: '&4&l管理员'
+    hand: One handed
+    lore: ''
+    description:
+    - '&f&5&l下面有服主精心刻下的符文↓'
+    - '&f&e&l&kLJFIOU98734OI2JOXC802'
+    item: DIAMOND_SWORD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers:
+      '0':
+        powerName: rumble
+        cooldown: 0
+        power: 10
+        distance: 25
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  永恒之镐:
+    name: 永恒之镐
+    id: 112
+    haspermission: false
+    permission: a.default.permission
+    display: '&b&l永恒之镐'
+    quality: TRASH
+    damageMin: 0
+    damageMax: 3
+    armour: 0
+    type: Sword
+    hand: One handed
+    lore: '&e&l&n&kFDJLAJKFOIZUJCVOIJALKUJO'
+    description:
+    - '&f&e&l&n&kFDJLAJKFOIZUJCVOIJALKUJO'
+    item: DIAMOND_PICKAXE
+    ignoreWorldGuard: false
+    item_data: 0
+    powers: {}
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+  石中剑:
+    name: 石中剑
+    id: 100
+    haspermission: false
+    permission: a.default.permission
+    display: '&6&l&o石中剑'
+    quality: TRASH
+    damageMin: 15
+    damageMax: 25
+    armour: 0
+    type: 武器
+    hand: '&9数据流失补偿武器'
+    lore: '&6&l石中剑是亚瑟王的宝剑！由精铁严密制作而成！拥有不可抵挡的威力！'
+    description:
+    - '&f&3品质：半神（未觉醒）'
+    - '&f&4技能：攻击时获得力量1buff'
+    - '&f&4技能：持有时获得急迫1和速度1的buff'
+    - '&f&4技能：攻击时如果没有杀死敌人，敌人会受到剑气的伤害，被打上天'
+    item: IRON_SWORD
+    ignoreWorldGuard: false
+    item_data: 0
+    powers:
+      '0':
+        powerName: potionhit
+        chance: 1
+        duration: 100
+        amplifier: 0
+        type: INCREASE_DAMAGE
+      '1':
+        powerName: potiontick
+        amplifier: 0
+        effect: FAST_DIGGING
+      '2':
+        powerName: potiontick
+        amplifier: 0
+        effect: SPEED
+      '3':
+        powerName: knockup
+        chance: 1
+        power: 1.0
+    recipechance: 6
+    hasRecipe: false
+    dropChances: {}
+    maxDurability: -1
+    forceBar: false
+    showPowerText: true
+    showArmourLore: true
+groups: {}

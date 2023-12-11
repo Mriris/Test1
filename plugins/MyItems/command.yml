@@ -1,0 +1,23 @@
+#注意: 
+#请使用 [空格] 而不是 [Tab]
+#作者忘记添加打开和关闭的功能, 字符串 ["] 可以导致能力无法加载
+#1 秒 = 20 Ticks
+
+#-----=====[ 命令选项 ]=====-----#
+
+#keylore: 标识Lore
+#command: 执行命令
+
+#-----=====[ 变量 ]=====-----#
+
+# <player>: 玩家变量
+
+#-----=====[ Command List ]=====-----#
+
+Suicide:
+  keylore: "Suicide"
+  command: "suicide"
+  
+Speed:
+  keylore: "Give speed III for 15 seconds"
+  command: "effect <player> 1 15 2"

@@ -1,0 +1,21 @@
+world:
+- world
+- world_nether
+- world_the_end
+- plotworld
+- hoth
+- nsc
+- dy
+- city
+- skycity
+- newspawn
+- myzd
+- L_Z_Wmd
+- sc
+- spawn
+- hsc
+rpg:
+- rpl
+sky:
+- ASkyBlock
+- ASkyBlock_nether

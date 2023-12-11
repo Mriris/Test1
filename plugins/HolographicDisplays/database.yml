@@ -1,0 +1,337 @@
+online:
+  location: world, 882.887, 67.003, -201.605
+  lines:
+  - '&a&l在线人数:&b&l{online}'
+fuzhu:
+  location: skyworld, -1640.393, 128.200, 2207.448
+  lines:
+  - '&e服主独家赞助'
+wdh:
+  location: skyworld, -1640.580, 129.200, 2206.940
+  lines:
+  - '&5由空岛大神&bCaesar9&4制作建筑！'
+jia:
+  location: world, 986.694, 72.200, -161.992
+  lines:
+  - '&u服主、tudejun、101010共同建造的家'
+sg:
+  location: zc, 240.473, 152.913, -779.300
+  lines:
+  - '&u饥饿游戏'
+  - '&e全新饥饿游戏2.0正式开展！'
+jysz:
+  location: zc, 221.304, 152.773, -792.451
+  lines:
+  - '&u掘一死战'
+  - '&e正式开放！'
+sc:
+  location: spawn4, 5601.315, 144.410, -5551.700
+  lines:
+  - '&u生存'
+dy:
+  location: spawn4, 5593.305, 144.410, -5543.240
+  lines:
+  - '&u地狱'
+plotme:
+  location: spawn4, 5601.735, 144.410, -5535.300
+  lines:
+  - '&u地皮'
+myzd:
+  location: spawn4, 5609.698, 144.410, -5543.438
+  lines:
+  - '&u末影之地'
+zzs:
+  location: spawn4, 5685.301, 64.518, -5465.931
+  lines:
+  - '&u赞助商大厅'
+  - '&5这里是赞助过服务器的别墅'
+  - '&uCaesar9倾情打造！'
+cz:
+  location: spawn5, -485.785, 84.491, -685.236
+  lines:
+  - '&u服务器充值'
+  - '&0普通VIP10元一个月(飞行权限，普通VIP礼包4个钻石块，一级粒子特效任选一)'
+  - '&9高级VIP20元一个月(飞行权限，高级VIP礼包8个钻石块加一个下界之星以及十六个空袭支援，自定义称号，一级粒子特效任选三)'
+  - '&8至尊VIP50元一个月(飞行权限，至尊VIP礼包32个钻石块加两个下界之星和一把AK47，每日签到礼包，自定义昵称，自定义称号，一级粒子特效全部，二级粒子特效任选三)'
+  - '&7永久VIP100元(飞行权限，服务器建议提交权限，永久VIP每日签到礼包，自定义昵称，自定义称号，一级粒子特效全部，四级粒子特效任选三)'
+  - '&6一级粒子特效任选一1元'
+  - '&5二级粒子特效任选一5元'
+  - '&4三级粒子特效任选一10元'
+  - '&3四级粒子特效任选一15元'
+  - '&2十元一千游戏币'
+  - '&18元飞行权限一个月'
+csgh:
+  location: jsjd, 21.967, 68.200, 321.330
+  lines:
+  - '&u重生公会'
+  - '&e欢迎来到&4末世'
+  - '&5反抗者组织基地'
+  - '&6会长&lZHUAN_JIA'
+lrxw:
+  location: rpg, -455.300, 76.653, -5.544
+  lines:
+  - '&u猎人小屋'
+  - '&6玩家的第一个休息场所'
+  - '&5老玩家专用的垃圾桶'
+eee:
+  location: jsjd, 21.849, 66.200, 321.523
+  lines:
+  - '&u欢迎您来到MinecraftZ末世生存'
+de:
+  location: jsjd, 21.696, 65.200, 321.625
+  lines:
+  - '&a此图由重生公会会长ZHUAN_JIA，辅助YANTINGXUANmc合力打造'
+shuazhu:
+  location: jsjd, -7.558, 71.200, 294.300
+  lines:
+  - '&u刷猪'
+baiuodian:
+  location: jsjd, 6.469, 69.700, 301.200
+  lines:
+  - 百货店
+wlcb:
+  location: wlcb, -131.593, 83.200, -167.396
+  lines:
+  - '&u亡灵城邦'
+  - '&4欢迎您的到来'
+  - '&e正在建造中！'
+csgh2:
+  location: csgh2, 60.141, 98.154, 35.698
+  lines:
+  - '&u欢迎{player}来到重生公会'
+  - '&4目前有{world:csgh2}人在重生公会'
+  - '&e{motd: server}'
+wang:
+  location: csgh2, 60.592, 96.247, 35.696
+  lines:
+  - '&u此图为重生公会末世RPG第二弹'
+cs:
+  location: csgh2, 49.889, 94.736, 35.700
+  lines:
+  - '&u此图有本服重量级人物ZHUAN_JIA打造~~'
+  - '&4还有服主大大&uYANTINGXUANmc'
+jiaee:
+  location: skyworld, -1632.859, 129.700, 2174.636
+  lines:
+  - '&u本服空岛岛主ZHUAN_JIA的豪宅'
+csgh3:
+  location: TK, -155.700, 103.106, 144.609
+  lines:
+  - '&u欢迎来到重生公会'
+  - '&4RPG生存第三弹'
+  - '&5欢迎{player}来到RPG生存！'
+csgh3xs:
+  location: TK, -146.452, 104.369, 129.155
+  lines:
+  - '&u新兵任务在这里'
+jinghuaee:
+  location: TK, -141.556, 103.112, 128.503
+  lines:
+  - '&精华，冥华，天地之华。都是一种货币。'
+hahahaeee:
+  location: TK, 65.532, 73.224, 168.853
+  lines:
+  - '&u避难所'
+siwang:
+  location: TK, 51.408, 71.427, 222.673
+  lines:
+  - '&u为服务器勇敢牺牲的士兵'
+wenxintishi:
+  location: csgh2, 37.231, 97.978, 22.481
+  lines:
+  - '&u温馨提示，末影之心，末影核心，下届核心都是珍贵的货币。请保管好您的财务'
+dddedagwefa:
+  location: skyworld, 992.569, 127.790, 2234.375
+  lines:
+  - 本岛岛主ZHUAN_DE，辅岛主王者之风3
+eeedaf:
+  location: skyworld, 994.813, 129.731, 2230.112
+  lines:
+  - '&u本岛不能乱打人，否则后果自负'
+jiubaeee:
+  location: skyworld, 928.300, 129.029, 2155.576
+  lines:
+  - '&u本岛酒吧，BUFF加成！！！！'
+cplot:
+  location: cplot, 0.731, 69.404, -0.883
+  lines:
+  - '&u请领取地皮'
+xhusan:
+  location: plotworld, -37.802, 69.396, 159.239
+  lines:
+  - '&u ZHUAN_DE的家'
+adswe:
+  location: skyworld, 1652.597, 128.118, 2203.435
+  lines:
+  - '&uadsw的空岛本岛严禁乱打人'
+bendaozhuanjia1:
+  location: skyworld, 990.140, 128.992, 2202.700
+  lines:
+  - '&u 欢迎来到重生工会岛屿'
+bendaozhuanjia:
+  location: skyworld, 987.319, 128.283, 2202.700
+  lines:
+  - '&u本岛岛主ZHUAN——DE'
+sdskaofjeaopgfwejopgjwep:
+  location: skyworld, 958.300, 128.835, 2189.294
+  lines:
+  - '&6龙少酒吧'
+bed:
+  location: bed, 344.507, 196.158, 466.751
+  lines:
+  - '&u&l请勿拆除此基岩'
+  - '&4&l——服主设'
+shzyhxjzg:
+  location: spawn5, -510.739, 80.384, -685.523
+  lines:
+  - '&u&l富强、民主、文明、和谐'
+  - '&u&l自由、平等、公正、法治'
+  - '&u&l爱国、敬业、诚信、友善'
+zd:
+  location: paoku, -384.664, 208.200, -1389.458
+  lines:
+  - '&u&l终点'
+kjj:
+  location: spawn5, -495.523, 81.566, -685.476
+  lines:
+  - '&u我下面是服主二号'
+  - '&7不是逗比'
+freefood:
+  location: spawn5, -409.388, 66.500, -860.744
+  lines:
+  - '&u免费食物'
+  - '&7虽然有毒'
+  - '&e&l左边的按钮是垃圾桶'
+tree:
+  location: spawn5, -562.660, 87.098, -685.573
+  lines:
+  - /gt tree.ACACIA
+  - /gt tree.BIRCH
+  - /gt tree.DARK_OAK
+  - /gt tree.JUNGLE
+  - /gt tree.OAK
+  - /gt tree.SPRUCE
+  - /tree-edit tree.ACACIA
+  - '&u&e我只是个记事板'
+head:
+  location: spawn5, -358.159, 68.009, -860.893
+  lines:
+  - '&u头颅指令'
+  - /give 你的名字 minecraft:skull 1 3 {SkullOwner:玩家名字}
+whl2:
+  location: sc, 138.838, 81.215, -875.451
+  lines:
+  - Default hologram. Change it with &b/hd edit whl2
+whl3:
+  location: sc, 138.144, 81.223, -873.780
+  lines:
+  - '&5wuxu4和2537liu的家'
+ssj:
+  location: spawn5, -507.195, 82.249, -690.749
+  lines:
+  - '&u&l极简易刷石机'
+zhuan_de1:
+  location: fuben4, -32.346, 66.506, 125.700
+  lines:
+  - '&u欢迎来到RPG生存'
+zhuan_de2:
+  location: fuben4, -22.310, 67.251, 119.227
+  lines:
+  - '&u村长家'
+zhuan_de3:
+  location: fuben4, -0.556, 68.369, 108.653
+  lines:
+  - '&u铁匠铺 可以购买武器，防具'
+zhuan_de4:
+  location: fuben4, -29.588, 66.165, 97.650
+  lines:
+  - '&u蜘蛛巢穴 进入等级 LV18'
+zhuan_de5:
+  location: fuben4, -35.700, 66.533, 118.336
+  lines:
+  - '&u如果有土豪想买RMB武器，或者本世界VIP的老板，请找ZHUAN_DE QQ1033591145联系，付款方式微信红包，或QQ红包'
+zhuan_de6:
+  location: fuben4, -35.659, 65.414, 118.329
+  lines:
+  - '&u再次感谢大家对RPG的大力支持，本RPG有ZHUAN_DE 腐竹YANTINGXUANmc共同打造'
+shangpin1:
+  location: fuben4, 6.574, 66.200, 126.312
+  lines:
+  - '&4食物'
+shangpin2:
+  location: fuben4, 8.822, 65.831, 124.416
+  lines:
+  - '&u装备'
+shangpin3:
+  location: fuben4, 9.188, 66.200, 122.489
+  lines:
+  - '&5BUFF'
+shangpin4:
+  location: fuben4, 8.620, 66.200, 120.300
+  lines:
+  - '&uRMB武器 土豪赞助一下 买个呗'
+fm:
+  location: newspawn, 24.484, 52.533, 35.047
+  lines:
+  - '&u&l免费青金石'
+shangpin6:
+  location: fuben4, 2.690, 66.664, 122.664
+  lines:
+  - '&u小黑商， RMB武器在这里出售，有钱的老板赞助一下==谢谢'
+'111':
+  location: fuben4, -10.514, 65.538, 67.300
+  lines:
+  - '&u蛛王巢穴 限制等级LV45'
+buzuo:
+  location: fuben4, -21.823, 66.165, 103.928
+  lines:
+  - '&u不作不死'
+shuaxin:
+  location: fuben4, -72.348, 66.920, 426.240
+  lines:
+  - '&u如果你看不见NPC就踩一下这个方块'
+buzuobusi:
+  location: fuben4, -22.517, 69.546, 104.227
+  lines:
+  - '&uNO作NO DIE WHY YOU TRY?'
+junshijidi:
+  location: fuben4, -3.206, 66.200, 137.696
+  lines:
+  - '&u前往：军事基地 限制等级LV.50'
+xl:
+  location: plotworld, -135.737, 67.908, -107.350
+  lines:
+  - '&uxlzr的家园'
+jidian:
+  location: plotworld, -185.556, 66.990, -30.700
+  lines:
+  - 祭奠WD逝去的宝贝们
+daozhu:
+  location: plotworld, -162.700, 69.401, 22.545
+  lines:
+  - '&u领地主人 ZHUAN_DE'
+zhongzhi:
+  location: plotworld, -172.116, 42.663, 24.700
+  lines:
+  - '&u把种子放到这里 采摘玩之后记得补种'
+wuhah:
+  location: plotworld, -175.282, 61.533, 17.308
+  lines:
+  - '&u铁匠铺'
+sg1:
+  location: sc, -113.489, 71.789, 237.662
+  lines:
+  - '&e&l&n不刷怪点下面的按钮'
+bc:
+  location: rpg3, -542.219, 75.868, 525.634
+  lines:
+  - '&u&l踩踏板前往靶场'
+shengtaiqiu:
+  location: fuben7, -150.596, 124.200, 101.869
+  lines:
+  - '&u生态球'
+wyn:
+  location: plotworld, 210.417, 67.383, -217.521
+  lines:
+  - '&u&l王亚楠'
+  - '&c1314'

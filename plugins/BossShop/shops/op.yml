@@ -1,0 +1,248 @@
+signs:
+  text: '[op]'
+  NeedPermissionToCreateSign: true
+shop:
+  op1:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - citizens save
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l保存NPC设置
+    - lore:&5一定要先保存再重载！
+    - amount:1
+    InventoryLocation: 1
+    ExtraPermission: ''
+  op2:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - citizens reload
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l重载NPC插件
+    - lore:&5一定要先保存再重载！
+    - amount:1
+    InventoryLocation: 2
+    ExtraPermission: ''
+  op3:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mm reload
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l重载RPG怪物插件
+    - lore:&5会刷新怪物！
+    - amount:1
+    InventoryLocation: 3
+    ExtraPermission: ''
+  op4:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - gamerule keepInventory true
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l设置本世界死亡不掉落
+    - lore:&5如果有死亡掉落的世界就过去点一下！
+    - amount:1
+    InventoryLocation: 4
+    ExtraPermission: ''
+  op5:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - adminfun fakejoin YANTINGXUANmc
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l伪造服主加入服务器
+    - lore:&5恶搞233！
+    - amount:1
+    InventoryLocation: 5
+    ExtraPermission: ''
+  op6:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - adminfun fakequit YANTINGXUANmc
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l伪造服主离开服务器
+    - lore:&5恶搞233！
+    - amount:1
+    InventoryLocation: 6
+    ExtraPermission: ''
+  op7:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - gms
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l开生存
+    - lore:&5很方便
+    - amount:1
+    InventoryLocation: 7
+    ExtraPermission: ''
+  op8:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - gmc
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l开创造
+    - lore:&5很方便
+    - amount:1
+    InventoryLocation: 8
+    ExtraPermission: ''
+  op9:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - gamemode 3
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l开观察者
+    - lore:&5很方便
+    - amount:1
+    InventoryLocation: 9
+    ExtraPermission: ''
+  op10:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - gamemode 2
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l开冒险
+    - lore:&5很方便
+    - amount:1
+    InventoryLocation: 10
+    ExtraPermission: ''
+  op11:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - ast
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l盔甲架
+    - lore:&5非经过允许勿动
+    - amount:1
+    InventoryLocation: 11
+    ExtraPermission: ''
+  op12:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - toggledownfall
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l关闭或打开雨雪
+    - lore:&5如果下雨就点一下
+    - amount:1
+    InventoryLocation: 12
+    ExtraPermission: ''
+  op13:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - cc all
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l清除聊天内容
+    - lore:&5如果有人刷屏或者发广告就点我
+    - amount:1
+    InventoryLocation: 13
+    ExtraPermission: ''
+  op14:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - regensourcesworld
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l立刻刷新资源世界
+    - lore:&5别乱动，除非需要，否则会卡两秒
+    - amount:1
+    InventoryLocation: 14
+    ExtraPermission: ''
+  op15:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - wm getSpell Erupt
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l天降正义
+    - lore:&566666666
+    - amount:1
+    InventoryLocation: 15
+    ExtraPermission: ''
+  op16:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - stitle @a &4服主要下线啦 &e&l大家再见233 10 10 10
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l服主下线提示
+    - lore:&5其它op勿动
+    - amount:1
+    InventoryLocation: 16
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&c返回
+    - lore:&e点击返回主菜单
+    Message: '&6已返回到主菜单...'
+    InventoryLocation: 18
+    ExtraPermission: ''
+# 配置文件版本,重要,请勿修改
+# 插件升级配置的时候需要用到
+version: '1.2'
+Setting:
+  # 进入商店时的消息,如果留空,则不显示消息
+  EnterMessage: ''
+  # 离开商店时的消息,如果留空,则不显示消息
+  LeaveMessage: ''
+  # 如果为true,则该商店为抽奖商店
+  ShopTypeSpecial: false
+  # 右击物品时,商品默认的购买数量
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  RightClickBuyCount: 1
+  # 玩家是否可以设置右键购买数量
+  # 免费物品强制不能设置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  AllowChangeRightClickBuyCount: false
+  # 当右键购买数量大于1时,显示右键购买数量
+  # 物品设置为false可以用来自定义右键购买数量Lore消息
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  ShowRightClickBuyCount: true
+  # 商品属性显示配置,说明参考配置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  HideItemFlag: 63

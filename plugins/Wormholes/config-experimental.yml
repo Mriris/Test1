@@ -1,0 +1,97 @@
+experimental:
+ 
+  # The maximum potential blocks to change per packet.
+  chunk_max_change: 10240
+ 
+  # The interval in which portals are checked to ensure they are populated with projection maps
+  # This is only called one time when the portal is created.
+  network_populate_mapping_interval: 40
+ 
+  # The max packet size in bytes.
+  # Lower values will force wormholes to send more packets
+  # Increasing this could cause bungeecord to reject the packet.
+  network_max_packet_size: 32750
+ 
+  # The slowdown is addedto the aperture max speed when the threshold is reached.
+  aperture_ice_amount: 8
+ 
+  # Use the old rendering method (slower, but slightly safer)
+  use_old_render_method: false
+ 
+  # Max block changes per chunk projection packet
+  projection_change_throttle: 16728
+ 
+  # Update portal information to players even if they are not moving, slowly
+  # This prevents visual artifacts if the viewer is not moving.
+  wormhole_idle_flush: 100
+ 
+  # The maximum partial chunks which can be sent in one interval
+  chunk_send_max: 12
+ 
+  # Send skylight chunk maps instead of multiple block changes for block projections to counteract client hitching due to lighting issues
+  # Note, this can cause loss of emitted light (such as torches etc) in and around the portal projection.
+  use_lightmaps: true
+ 
+  # High priority power threads used for block projections and map permutations. More threads can make projections faster for large populations, but could also use more processor cores.
+  wormhole_power_threads: 4
+ 
+  # The slowdown is addedto the aperture max speed when the threshold is reached.
+  aperture_slowdown_amount: 5
+ 
+  # If not forcing async, setting this too low will hit the timings pretty hard.
+  rtp_search_interval: 20
+ 
+  # Modify the distance blocks will be sampled
+  # Ensure this value matches across all servers.
+  projection_sample_radius: 16
+ 
+  # Time Threshold in milliseconds to push online servers
+  network_push_threshold: 5000
+ 
+  # Time Threshold in milliseconds to poll for servers and online status.
+  # Ensure it is at least half the time of the push threshold.
+  network_poll_threshold: 1000
+ 
+  # Brighten the projections to max skylight levels.
+  full_bright_projections: true
+ 
+  # Wormholes automatically caches new pending locations in case a lot of entities/players enter at the same time.
+  rtp_max_prequeue: 3
+ 
+  # Change the maximum tickrate projections can run
+  # Note: This is in place to prevent overprojecting faster than 1/4th of a second.
+  projection_max_speed: 25
+ 
+  # The ammount of entities/players projected threshold
+  # If the count is higher than this, the slowdown is applied
+  aperture_ice_threshold: 50
+ 
+  # Force async searching. WARNING: Can crash the server when using a custom generator, but it's much faster!
+  rtp_force_async_search: false
+ 
+  # Low usage worker threads for low priority tasks along with flushing the rasterer (sending packets & compression)
+  wormhole_worker_threads: 2
+ 
+  # This adds compression to projection packets through bungeecord.
+  # Increasing this past 4 increases processing time and slightly reduces the size
+  # Testing shows comp 4 shows the best improvement in size for compression time
+  # Must be from 1-9
+  network_compression_level: 4
+ 
+  # Time Threshold in milliseconds to push excess queue packets to players
+  network_flush_threshold: 250
+ 
+  # The ammount of entities/players projected threshold
+  # If the count is higher than this, the slowdown is applied
+  aperture_slowdown_threshold: 10
+ 
+  # Using worker threads, wormholes will communicate with the mojang api to get profile skins for players through portals.
+  wormhole_skin_flush: 100
+ 
+  # The interval in which wormholes will send a chunk packet to players. Must be higher than 0.
+  # Interval in ticks
+  chunk_send_rate: 2
+ 
+  # Modify the interval in which entities are updated, sent through bungee, and sent to players
+  # Must be 1 or higher
+  aperture_max_speed: 2

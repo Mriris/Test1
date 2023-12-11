@@ -1,0 +1,8 @@
+SURVIVAL: '{"potions":[],"inventory":{"size":41,"items":{"0":{"item":"ROTTEN_FLESH","quantity":2,"durability":0,"nbttags":null,"enchantments":{}},"1":{"item":"POTION","quantity":1,"durability":0,"nbttags":"NM#Nwqc5R29sZGVuIFRvb2w=#L#PGLOWING+3+800#PSPEED+1+1000#AUNCRAFTABLE+false+false#R0","enchantments":{}},"2":{"item":"POTION","quantity":1,"durability":0,"nbttags":"NM#NwqdlR2hvc3RseSBNYWRuZXNz#L#PBLINDNESS+3+1000#AUNCRAFTABLE+false+false#R0","enchantments":{}},"3":{"item":"SHIELD","quantity":1,"durability":252,"nbttags":"NM#NwqdjQXdrd2FyZCBDcnk=#LwqdiLSBIdW5nZXIgNw==-wqdlLSBIZWFsIDI=#R0","enchantments":{"enchants":[{"level":3,"id":"ARROW_DAMAGE"},{"level":4,"id":"ARROW_FIRE"}]}},"4":{"item":"IRON_INGOT","quantity":5,"durability":0,"nbttags":null,"enchantments":{}},"5":{"item":"EMERALD","quantity":4,"durability":0,"nbttags":null,"enchantments":{}},"6":{"item":"ENCHANTED_BOOK","quantity":1,"durability":0,"nbttags":"NM#NwqdiVW5ob2x5IFN3aWZ0bmVzcw==#L#EFIRE_ASPECT+8#EPROTECTION_PROJECTILE+7#EPROTECTION_FIRE+5#R0","enchantments":{}},"7":{"item":"ENCHANTED_BOOK","quantity":1,"durability":0,"nbttags":"NM#Nwqc5RW5jaGFudGVkIFN3aWZ0bmVzcw==#L#EWATER_WORKER+5#EPROTECTION_EXPLOSIONS+6#R0","enchantments":{}},"8":{"item":"BOOK","quantity":1,"durability":0,"nbttags":"NM#Nwqc24pePIMKnNMKnbOS5puacrOiPnOWNlSDCpzbil48=#Lwqc35Y+z6ZSu5omT5byA#R0","enchantments":{}},"9":{"item":"RED_ROSE","quantity":1,"durability":7,"nbttags":null,"enchantments":{}}}},"armour":{"size":4,"items":{}}}'
+experience: 0
+level: 1
+exp: 0.22
+gameMode: SURVIVAL
+health: 20.0
+hunger: 16
+saturation: 0.0

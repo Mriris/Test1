@@ -1,0 +1,21 @@
+java.lang.NullPointerException
+	at io.lumine.xikage.mythicmobs.skills.mechanics.MessageSkill.<init>(MessageSkill.java:27)
+	at io.lumine.xikage.mythicmobs.skills.SkillManager.getSkillMechanic(SkillManager.java:187)
+	at io.lumine.xikage.mythicmobs.mobs.MythicMob.<init>(MythicMob.java:337)
+	at io.lumine.xikage.mythicmobs.mobs.MobManager.loadMobs(MobManager.java:103)
+	at io.lumine.xikage.mythicmobs.io.ConfigManager.LoadAll(ConfigManager.java:90)
+	at io.lumine.xikage.mythicmobs.MythicMobs.onEnable(MythicMobs.java:137)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:402)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:384)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:333)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338)
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545)
+	at java.lang.Thread.run(Unknown Source)
+
+MythicMobs version: 4.2.0-SNAPSHOT
+Bukkit version: git-Spigot-7754231-94b0980 (MC: 1.12.2)

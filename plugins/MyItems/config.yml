@@ -1,0 +1,236 @@
+#-----=====[ 配置 ]=====-----#
+
+Hook_Message: true
+#控制台是否发送成功关联其他插件消息
+
+Utility_Pattern: "[^a-zA-Z]"
+#允许的字符(JAVA正确表达式)
+
+Enable_Vanilla_Modifier: true
+#设置为false, 武器默认攻击将无效
+
+Enable_Vanilla_Formula_Armor: true
+#设置为false, 装备默认防御将无效
+
+Enable_CustomLore_Modifier: true    
+#是否启用attribute(属性)功能
+
+Enable_Balancing_System: false       
+#是否开启伤害平衡
+
+Enable_Balancing_MobDamage: false    
+#是否开启对怪物的伤害平衡
+
+Enable_Particle_Potion: false
+#使用 Buff/药水 时是否显示原版粒子
+
+Enable_OffHand_Ability: true
+#设置为false, 副手装备attribute(属性)无效
+
+Enable_Item_Broken: false
+#设置为true, 物品耐久Lore为0时,装备消失
+
+Custom_Critical: true               
+#是否启用自定义暴击效果
+
+Critical_Attack: "Effect"
+#可用: Effect, Messages. (首先需要 custom_Critical: true)
+#- Effect: 暴击时有粒子和爆炸声音
+#- Messages: 造成暴击后发送消息给玩家
+
+Custom_Mob_Modifier: true
+#如果你的服务器使用其他插件修改了怪物属性 (高伤害), 就启用该选项.
+#启用后允许怪物使用自定义物品.
+#注意: 如果选项为false, 自定义防御属性的被攻击玩家不会受到影响, 但是 buffs/ability 属性依旧工作,
+#~~~~~ 这是为了避免纯护甲的怪物!.
+
+Interval: 100 
+#Buff效果间隔(ticks)
+
+Max_Level_Value: 2000        
+#物品最大等级
+
+Effect_Range: 50
+#最大的声音传播/粒子效果距离
+
+Modus_Value: 100
+#服务器中正常伤害值
+
+                    #例如,你的服务器大部分武器大约伤害为50,
+                    #因此你可以将 modus_Value 设置为50.   
+
+                    #这个选项非常重要,因为对服务器属性平衡有作用.
+                    #值改高或小取决你的服务器
+                    #因此该值用作默认伤害和自定义伤害的计算公式!
+
+                    #默认公式: "伤害 / (1+Math.log10(1+(10*防御/modus_Value))"
+                    #平衡公式: "伤害 * 10 / modus_Value"
+
+#-----=====[ 属性修改 ]=====-----#
+#1 = 100%
+Scale_Damage_Vanilla: 1.0  
+#造成原版伤害百分比  
+
+Scale_Damage_Custom: 1.0   
+#造成自定义伤害百分比
+
+Scale_Damage_Overall: 1.0  
+#造成最终伤害百分比
+
+Scale_Defense_Overall: 0.5 
+#基于防御造成伤害减少百分比
+Scale_OffHand_Value: 0.5   
+#伤害会从副手属性添加百分比
+
+Scale_Absorb_Effect: 0.5   
+#伤害吸收百分比,意味着50%伤害会被吸收
+
+Scale_Stats_Up: 0.05       
+#武器等级提升后,武器属性提升百分比
+
+Scale_Mob_Damage_Receive: 1.0
+#造成怪物伤害百分比
+
+Scale_Exp_OffHand: 0.5     
+#副手装备经验获得值
+
+Scale_Exp_Armor: 0.2       
+#身上装备经验获得值
+
+#-----=====[ 格式 ]=====-----#
+
+Stats_Format: "&7<stats>&f&l: <value>"
+# 变量:
+  # <stats> = 属性
+  # <value> = 数值
+  
+Stats_Exp_Format: "&7[&d<exp>&7/&d<up>&7]"
+# 变量:
+  # <exp> = 当前经验
+  # <up> = 升级经验
+
+Buffs_Format: "&dGrants <buffs>"
+# 变量:
+  # <buffs> = buff
+  
+Ability_Format: "&a有 <chance> 概率触发 <ability>"
+# 变量:
+  # <chance> = 概率
+  # <ability> = 能力
+  
+Power_Format: "&6<click>&f&l: &7<type> &8&l[&c<cooldown> Seconds&8&l]"
+# 变量:
+  # <click> : 点击类型
+  # <type> : 技能
+  # <cooldown> : 冷却
+
+Element_Format: "&7&l[&4&l!&7&l] &r<element>&f&l: <value>"
+# 变量:
+  # <element> = 元素
+  # <value> = 数值
+  
+Format_Socket: "&8&l- &7< <slot> >"
+# 变量:
+  # <slot> = 宝石槽
+
+#注意: 不要删除变量,不然效果失效!
+
+#-----=====[ 符号 ]=====-----#
+
+Positive_Value: "&a"
+Negative_Value: "&c"
+Range_Symbol: " &7➨ "
+Divider_Symbol: "&7/"
+Multiplier_Symbol: "&7x"
+
+#-----=====[ 物品经验掉落 ]=====-----#
+
+Exp_Player: 3
+Exp_Mobs: 1
+
+#-----=====[ 点击 ]=====-----#
+
+Left_Click: "左键"
+Right_Click: "右键"
+Shift_Left_Click: "Shift+左键"
+Shift_Right_Click: "Shift+右键"
+
+#-----=====[ 宝石槽 ]=====-----#
+
+Socket_Empty: "空"
+
+#-----=====[ 基本属性 ]=====-----#
+
+Damage: "攻击"
+Defense: "防御"
+Critical_Chance: "暴击几率"
+Critical_Damage: "暴击伤害"
+Hit_Rate: "命中率"
+Block_Rate: "格挡率"
+Dodge_Rate: "闪避率"
+Durability : "耐久"
+Level : "装备等级"
+
+#-----=====[ Buff ]=====-----#
+
+Strength: "力量"
+Protection: "保护"
+Vision: "夜视"
+Jump: "跳跃"
+Absorb: "伤害吸收"
+Fire_Resist: "防火"
+Invisibility: "隐身"
+Luck: "幸运"
+Health_Boost: "生命"
+Regeneration: "再生"
+Saturation: "饱食"
+Speed: "速度"
+Water_Breathing: "水下呼吸"
+Haste: "急迫"
+
+#-----=====[ 能力 ]=====-----#
+
+Poison: "剧毒"
+Wither: "凋零"
+Lightning: "雷击"
+Cannibalism: "同类相食"
+Vampirism: "吸血"
+Freeze: "冻结"
+Roots: "击落"
+Curse: "诅咒"
+Slowness: "缓慢"
+Fatigue: "疲倦"
+Nausea: "恶心"
+Weakness: "虚弱"
+Blind: "致盲"
+Hungry: "饥饿"
+Levitation: "漂浮"
+Bad_Luck: "厄运"
+Harm: "瞬间伤害"
+Flame_Wheel: "烈焰" 
+Air_Shock: "空气冲击"
+Dark_Flame: "暗黑火焰"
+Dark_Impact: "死亡缠绕"
+Venom_Spread: "毒液蔓延"
+Venom_Blast: "毒液爆破"
+Bubble_Deflector: "泡沫射击"
+
+#-----=====[ 弹射物 ]=====-----#
+
+Projectile_Arrow: "箭"
+Projectile_SnowBall: "雪球"
+Projectile_Egg: "蛋"
+Projectile_Flame_Arrow: "火·焰箭"
+Projectile_Flame_Ball: "火·雪球"
+Projectile_Flame_Egg: "火·蛋蛋"
+Projectile_Small_Fireball: "小火球"
+Projectile_Large_Fireball: "大火球"
+Projectile_WitherSkull: "凋零头"
+
+#-----=====[ 特殊技能 ]=====-----#
+
+Special_Blink: "闪现"
+Special_Fissure: "火焰冲击"
+Special_Ice_Spikes: "冰锥突刺"
+Special_Amaterasu: "暗黑烈焰"
+Special_Nero_Beam: "致缓射击"

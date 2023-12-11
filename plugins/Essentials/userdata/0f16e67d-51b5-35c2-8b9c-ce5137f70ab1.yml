@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: kongfujun
+timestamps:
+  login: 1500020562701
+  logout: 1500021037498
+  lastteleport: 1500020644552
+ipAddress: 182.109.239.157
+geolocation: China
+lastlocation:
+  world: plotworld
+  x: 88.30000001192093
+  y: 70.0
+  z: -13.730336891123192
+  yaw: -120.66101
+  pitch: -1.0491148
+logoutlocation:
+  world: plotworld
+  x: -22.193285488144344
+  y: 65.0
+  z: 20.402092808112066
+  yaw: -89.92163
+  pitch: 68.36404

@@ -1,0 +1,22 @@
+socialspy: false
+geolocation: China
+lastAccountName: skj_lg
+timestamps:
+  login: 1500019172492
+  lastteleport: 1500021448678
+  logout: 1500021572049
+ipAddress: 223.151.19.138
+lastlocation:
+  world: dy
+  x: -70.70343007091044
+  y: 56.0
+  z: 506.30000001192093
+  yaw: 211.48946
+  pitch: 13.200217
+logoutlocation:
+  world: plotworld
+  x: -97.52186011758417
+  y: 65.0
+  z: -23.02654089417702
+  yaw: 79.79208
+  pitch: 11.263341

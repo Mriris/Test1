@@ -1,0 +1,17 @@
+title:
+  Enable: true
+  Title: '&a&l%level%&c&l级'
+  SubTitle: '&e升级成功！'
+  FadeIn: 1
+  Time: 10
+  FadeOut: 1
+message:
+  Enable: true
+  Msg: '&c==============/n&a升级成功！/n&a新等级:%level%/n&c=============='
+limit:
+  chat: false
+  allow_chat_level: 30
+  deny_chat_msg: 'You cant speak!'
+chat:
+  enable: false
+  format: '&7[&eLv&c.&a{level}&7]'

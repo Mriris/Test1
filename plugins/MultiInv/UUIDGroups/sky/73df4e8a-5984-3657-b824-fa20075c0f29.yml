@@ -1,0 +1,8 @@
+SURVIVAL: '{"potions":[],"inventory":{"size":41,"items":{"0":{"item":"STONE_AXE","quantity":1,"durability":6,"nbttags":null,"enchantments":{}},"11":{"item":"STICK","quantity":4,"durability":0,"nbttags":null,"enchantments":{}},"1":{"item":"COAL","quantity":3,"durability":0,"nbttags":null,"enchantments":{}},"5":{"item":"LAVA_BUCKET","quantity":1,"durability":0,"nbttags":null,"enchantments":{}},"6":{"item":"STONE_PICKAXE","quantity":1,"durability":2,"nbttags":null,"enchantments":{}},"7":{"item":"STONE_PICKAXE","quantity":1,"durability":61,"nbttags":null,"enchantments":{}},"8":{"item":"BOOK","quantity":1,"durability":0,"nbttags":"NM#Nwqc24pePIMKnNMKnbOS5puacrOiPnOWNlSDCpzbil48=#Lwqc35Y+z6ZSu5omT5byA#R0","enchantments":{}},"10":{"item":"COBBLESTONE","quantity":57,"durability":0,"nbttags":null,"enchantments":{}}}},"armour":{"size":4,"items":{}}}'
+experience: 0
+level: 0
+exp: 0.0
+gameMode: SURVIVAL
+health: 20.0
+hunger: 13
+saturation: 0.0

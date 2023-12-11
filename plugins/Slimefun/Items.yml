@@ -1,0 +1,5686 @@
+ORE_CRUSHER:
+  double-ores: true
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Crusher
+  allow-disenchanting: true
+  allow-enchanting: true
+GRANDMAS_WALKING_STICK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Walking-Sticks
+  allow-disenchanting: true
+  allow-enchanting: true
+GRANDPAS_WALKING_STICK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Walking-Sticks
+  allow-disenchanting: true
+  allow-enchanting: true
+PORTABLE_CRAFTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Portable-Crafter
+  allow-disenchanting: true
+  allow-enchanting: true
+FORTUNE_COOKIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Fortune-Cookie
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_CRAFTING_TABLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table
+  allow-disenchanting: true
+  allow-enchanting: true
+PORTABLE_DUSTBIN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Portable-Dustbin
+  allow-disenchanting: true
+  allow-enchanting: true
+BEEF_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  Saturation: 20
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Beef-Jerky
+  allow-disenchanting: true
+  allow-enchanting: true
+GRIND_STONE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Grind-Stone
+  allow-disenchanting: true
+  allow-enchanting: true
+ARMOR_FORGE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Armor-Forge
+  allow-disenchanting: true
+  allow-enchanting: true
+COMPRESSOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Compressor
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGIC_LUMP_1:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGIC_LUMP_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGIC_LUMP_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_LUMP_1:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_LUMP_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_LUMP_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ender-Backpack
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGIC_EYE_OF_ENDER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGIC_SUGAR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  effects:
+    SPEED: 4
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Sugar
+  allow-disenchanting: true
+  allow-enchanting: true
+MONSTER_JERKY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Monster-Jerky
+  allow-disenchanting: true
+  allow-enchanting: true
+SLIME_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SLIME_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SLIME_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SLIME_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SWORD_OF_BEHEADING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  chance:
+    PLAYER: 70
+    SKELETON: 40
+    WITHER_SKELETON: 25
+    ZOMBIE: 40
+    CREEPER: 40
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sword-of-Beheading
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGICAL_BOOK_COVER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BASIC_CIRCUIT_BOARD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ADVANCED_CIRCUIT_BOARD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_PAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  chance:
+    FLINT: 47
+    CLAY: 28
+    SIFTED_ORE: 15
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan
+  allow-disenchanting: true
+  allow-enchanting: true
+SIFTED_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SMELTERY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  chance:
+    fireBreak: 34
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery
+  allow-disenchanting: true
+  allow-enchanting: true
+PRESSURE_CHAMBER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pressure-Chamber
+  allow-disenchanting: true
+  allow-enchanting: true
+BATTERY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GLOWSTONE_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GLOWSTONE_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GLOWSTONE_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GLOWSTONE_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+DAMASCUS_STEEL_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+DAMASCUS_STEEL_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+DAMASCUS_STEEL_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+DAMASCUS_STEEL_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Damascus-Steel-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_ALLOY_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_ALLOY_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_ALLOY_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_ALLOY_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+CACTUS_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cactus-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+CACTUS_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cactus-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+CACTUS_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cactus-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+CACTUS_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cactus-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_ALLOY_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+HARDENED_METAL_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+DAMASCUS_STEEL_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+STEEL_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+BRONZE_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+DURALUMIN_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+BILLON_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+BRASS_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+ALUMINUM_BRASS_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+ALUMINUM_BRONZE_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+CORINTHIAN_BRONZE_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLDER_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+SYNTHETIC_SAPPHIRE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+SYNTHETIC_DIAMOND:
+  enabled: true
+  can-be-used-in-workbenches: true
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+RAW_CARBONADO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+NICKEL_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+COBALT_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBONADO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+FERROSILICON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+IRON_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+COPPER_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+TIN_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+LEAD_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+SILVER_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+ALUMINUM_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+ZINC_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGNESIUM_DUST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts
+  allow-disenchanting: true
+  allow-enchanting: true
+COPPER_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+TIN_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+SILVER_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+LEAD_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+ALUMINUM_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+ZINC_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGNESIUM_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+SULFATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+WHEAT_FLOUR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+STEEL_PLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+COMPRESSED_CARBON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBON_CHUNK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+STEEL_THRUSTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+POWER_CRYSTAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+DURALUMIN_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLDER_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BILLON_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+STEEL_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+DAMASCUS_STEEL_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_ALLOY_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBONADO_JETPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PARACHUTE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CHAIN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+HOOK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GRAPPLING_HOOK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Grappling-Hook
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGIC_WORKBENCH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Workbench
+  allow-disenchanting: true
+  allow-enchanting: true
+STAFF_ELEMENTAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+STAFF_ELEMENTAL_WIND:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+STAFF_ELEMENTAL_WATER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+DURALUMIN_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  mode:
+    '0':
+      enabled: true
+      name: Portable Crafter
+      item: PORTABLE_CRAFTER
+    '1':
+      enabled: true
+      name: Magic Eye of Ender
+      item: MAGIC_EYE_OF_ENDER
+    '2':
+      enabled: true
+      name: Wind Staff
+      item: STAFF_ELEMENTAL_WIND
+    '3':
+      enabled: true
+      name: Grappling Hook
+      item: GRAPPLING_HOOK
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLDER_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  mode:
+    '0':
+      enabled: true
+      name: Portable Crafter
+      item: PORTABLE_CRAFTER
+    '1':
+      enabled: true
+      name: Magic Eye of Ender
+      item: MAGIC_EYE_OF_ENDER
+    '2':
+      enabled: true
+      name: Wind Staff
+      item: STAFF_ELEMENTAL_WIND
+    '3':
+      enabled: true
+      name: Grappling Hook
+      item: GRAPPLING_HOOK
+  allow-disenchanting: true
+  allow-enchanting: true
+BILLON_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  mode:
+    '0':
+      enabled: true
+      name: Portable Crafter
+      item: PORTABLE_CRAFTER
+    '1':
+      enabled: true
+      name: Magic Eye of Ender
+      item: MAGIC_EYE_OF_ENDER
+    '2':
+      enabled: true
+      name: Wind Staff
+      item: STAFF_ELEMENTAL_WIND
+    '3':
+      enabled: true
+      name: Grappling Hook
+      item: GRAPPLING_HOOK
+  allow-disenchanting: true
+  allow-enchanting: true
+STEEL_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  mode:
+    '0':
+      enabled: true
+      name: Portable Crafter
+      item: PORTABLE_CRAFTER
+    '1':
+      enabled: true
+      name: Magic Eye of Ender
+      item: MAGIC_EYE_OF_ENDER
+    '2':
+      enabled: true
+      name: Wind Staff
+      item: STAFF_ELEMENTAL_WIND
+    '3':
+      enabled: true
+      name: Grappling Hook
+      item: GRAPPLING_HOOK
+  allow-disenchanting: true
+  allow-enchanting: true
+DAMASCUS_STEEL_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  mode:
+    '0':
+      enabled: true
+      name: Portable Crafter
+      item: PORTABLE_CRAFTER
+    '1':
+      enabled: true
+      name: Magic Eye of Ender
+      item: MAGIC_EYE_OF_ENDER
+    '2':
+      enabled: true
+      name: Wind Staff
+      item: STAFF_ELEMENTAL_WIND
+    '3':
+      enabled: true
+      name: Grappling Hook
+      item: GRAPPLING_HOOK
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_ALLOY_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  mode:
+    '0':
+      enabled: true
+      name: Portable Crafter
+      item: PORTABLE_CRAFTER
+    '1':
+      enabled: true
+      name: Magic Eye of Ender
+      item: MAGIC_EYE_OF_ENDER
+    '2':
+      enabled: true
+      name: Wind Staff
+      item: STAFF_ELEMENTAL_WIND
+    '3':
+      enabled: true
+      name: Grappling Hook
+      item: GRAPPLING_HOOK
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBONADO_MULTI_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  mode:
+    '0':
+      enabled: true
+      name: Portable Crafter
+      item: PORTABLE_CRAFTER
+    '1':
+      enabled: true
+      name: Magic Eye of Ender
+      item: MAGIC_EYE_OF_ENDER
+    '2':
+      enabled: true
+      name: Wind Staff
+      item: STAFF_ELEMENTAL_WIND
+    '3':
+      enabled: true
+      name: Grappling Hook
+      item: GRAPPLING_HOOK
+    '4':
+      enabled: true
+      name: Gold Pan
+      item: GOLD_PAN
+  allow-disenchanting: true
+  allow-enchanting: true
+ORE_WASHER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_24K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_22K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_20K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_18K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_16K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_14K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_12K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_10K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_8K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_6K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_4K:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+STONE_CHUNK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SILICON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLAR_PANEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLAR_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  charge-amount: 0.1
+  allow-disenchanting: true
+  allow-enchanting: true
+LAVA_CRYSTAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+STAFF_ELEMENTAL_FIRE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SMELTERS_PICKAXE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smelters-Pickaxe
+  allow-disenchanting: true
+  allow-enchanting: true
+COMMON_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  recipe-requires-nether-stars: false
+  allow-disenchanting: true
+  allow-enchanting: true
+ANVIL_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_ANVIL_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+MINER_TALISMAN:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_MINER_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+HUNTER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_HUNTER_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+LAVA_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_LAVA_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+WATER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_WATER_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+ANGEL_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_ANGEL_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+FIRE_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_FIRE_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+MAGICIAN_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-enchantments:
+    PROTECTION_ENVIRONMENTAL:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+    PROTECTION_FIRE:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+    PROTECTION_FALL:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+    PROTECTION_EXPLOSIONS:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+    PROTECTION_PROJECTILE:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+    OXYGEN:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    WATER_WORKER:
+      level:
+        '1': true
+    MENDING:
+      level:
+        '1': true
+    THORNS:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    DEPTH_STRIDER:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    FROST_WALKER:
+      level:
+        '1': true
+        '2': true
+    DAMAGE_ALL:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+        '5': true
+    DAMAGE_UNDEAD:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+        '5': true
+    DAMAGE_ARTHROPODS:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+        '5': true
+    KNOCKBACK:
+      level:
+        '1': true
+        '2': true
+    FIRE_ASPECT:
+      level:
+        '1': true
+        '2': true
+    LOOT_BONUS_MOBS:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    DIG_SPEED:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+        '5': true
+    SILK_TOUCH:
+      level:
+        '1': true
+    DURABILITY:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    LOOT_BONUS_BLOCKS:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    ARROW_DAMAGE:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+        '5': true
+    ARROW_KNOCKBACK:
+      level:
+        '1': true
+        '2': true
+    ARROW_FIRE:
+      level:
+        '1': true
+    ARROW_INFINITE:
+      level:
+        '1': true
+    LUCK:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    LURE:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    VANISHING_CURSE:
+      level:
+        '1': true
+    BINDING_CURSE:
+      level:
+        '1': true
+    SWEEPING:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    SWEEPING_EDGE:
+      level:
+        '1': true
+        '2': true
+        '3': true
+    iControlUGlow:
+      level:
+        '1': true
+        '2': true
+        '3': true
+        '4': true
+        '5': true
+        '6': true
+        '7': true
+        '8': true
+        '9': true
+        '10': true
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_MAGICIAN_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+TRAVELLER_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_TRAVELLER_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+WARRIOR_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_WARRIOR_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+KNIGHT_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_KNIGHT_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+GILDED_IRON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+SYNTHETIC_EMERALD:
+  enabled: true
+  can-be-used-in-workbenches: true
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valuables
+  allow-disenchanting: true
+  allow-enchanting: true
+CHAIN_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+CHAIN_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+CHAIN_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+CHAIN_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chain-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+WHIRLWIND_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_WHIRLWIND_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+WIZARD_TALISMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  allow-enchanting: true
+ENDER_WIZARD_TALISMAN:
+  description:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
+  allow-disenchanting: true
+  hint:
+  - '&eEnder Talismans have the advantage'
+  - '&eof still working while they'
+  - '&eare in your Ender Chest'
+  allow-enchanting: true
+LUMBER_AXE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Lumber-Axe
+  allow-disenchanting: true
+  allow-enchanting: true
+SALT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+HEAVY_CREAM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CHEESE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BUTTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GILDED_IRON_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+GILDED_IRON_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+GILDED_IRON_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+GILDED_IRON_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+SCUBA_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hazmat-Suit
+  allow-disenchanting: true
+  allow-enchanting: true
+HAZMAT_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hazmat-Suit
+  allow-disenchanting: true
+  allow-enchanting: true
+HAZMAT_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hazmat-Suit
+  allow-disenchanting: true
+  allow-enchanting: true
+RUBBER_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hazmat-Suit
+  allow-disenchanting: true
+  allow-enchanting: true
+CRUSHED_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PULVERIZED_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PURE_ORE_CLUSTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+TINY_URANIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SMALL_URANIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+URANIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radioactive-Materials
+  allow-disenchanting: true
+  allow-enchanting: true
+REDSTONE_ALLOY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_12K_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_12K_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_12K_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_12K_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Armor
+  allow-disenchanting: true
+  allow-enchanting: true
+CLOTH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+RAG:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  allow-disenchanting: true
+  allow-enchanting: true
+BANDAGE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  enable-bleeding: true
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  allow-disenchanting: true
+  allow-enchanting: true
+SPLINT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  enable-broken-legs: true
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  allow-disenchanting: true
+  allow-enchanting: true
+TIN_CAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+VITAMINS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  allow-disenchanting: true
+  allow-enchanting: true
+MEDICINE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Medical-Supplies
+  allow-disenchanting: true
+  allow-enchanting: true
+NIGHT_VISION_GOGGLES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PICKAXE_OF_CONTAINMENT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pickaxe-Of-Containment
+  allow-disenchanting: true
+  allow-enchanting: true
+HERCULES_PICKAXE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hercules-Pickaxe
+  allow-disenchanting: true
+  allow-enchanting: true
+SAW_MILL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Saw-Mill
+  allow-disenchanting: true
+  allow-enchanting: true
+SAW_MILL2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SLIME_STEEL_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SLIME_STEEL_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SLIME_STEEL_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SLIME_STEEL_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BLADE_OF_VAMPIRES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Blade-of-Vampires
+  allow-disenchanting: true
+  allow-enchanting: true
+DIGITAL_MINER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners
+  allow-disenchanting: true
+  allow-enchanting: true
+ADVANCED_DIGITAL_MINER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLD_24K_BLOCK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+COMPOSTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Composter
+  allow-disenchanting: true
+  allow-enchanting: true
+FARMER_SHOES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+EXPLOSIVE_PICKAXE:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  unbreakable-blocks:
+  - BEDROCK
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Explosive-Pickaxe
+  allow-disenchanting: true
+  allow-enchanting: true
+AUTOMATED_PANNING_MACHINE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BOOTS_OF_THE_STOMPER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PICKAXE_OF_THE_SEEKER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pickaxe-Of-The-Seeker
+  allow-disenchanting: true
+  allow-enchanting: true
+SMALL_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  allow-disenchanting: true
+  allow-enchanting: true
+MEDIUM_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  allow-disenchanting: true
+  allow-enchanting: true
+LARGE_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  allow-disenchanting: true
+  allow-enchanting: true
+WOVEN_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  allow-disenchanting: true
+  allow-enchanting: true
+CRUCIBLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Crucible
+  allow-disenchanting: true
+  allow-enchanting: true
+GILDED_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  allow-disenchanting: true
+  allow-enchanting: true
+MAGNET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+INFUSED_MAGNET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+COBALT_PICKAXE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+NECROTIC_SKULL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ESSENCE_OF_AFTERLIFE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BOUND_BACKPACK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Backpacks
+  allow-disenchanting: true
+  allow-enchanting: true
+DURALUMIN_JETBOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLDER_JETBOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BILLON_JETBOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+STEEL_JETBOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+DAMASCUS_STEEL_JETBOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_ALLOY_JETBOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBONADO_JETBOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ARMORED_JETBOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SEISMIC_AXE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Seismic-Axe
+  allow-disenchanting: true
+  allow-enchanting: true
+PICKAXE_OF_VEIN_MINING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pickaxe-Of-Vein-Mining
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_SWORD:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Weapons
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_BOW:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Weapons
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_PICKAXE:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_AXE:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_SHOVEL:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_HOE:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_HELMET:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_CHESTPLATE:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_LEGGINGS:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_BOOTS:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+JUICER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juicer
+  allow-disenchanting: true
+  allow-enchanting: true
+APPLE_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  allow-disenchanting: true
+  allow-enchanting: true
+CARROT_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  allow-disenchanting: true
+  allow-enchanting: true
+MELON_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  allow-disenchanting: true
+  allow-enchanting: true
+PUMPKIN_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLDE_APPLE_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BROKEN_SPAWNER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_SPAWNER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+MILK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CHOCOLATE_MILK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+EGG_NOG:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+APPLE_CIDER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CHRISTMAS_COOKIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+FRUIT_CAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+APPLE_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_4:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_5:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_6:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_7:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_8:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_9:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_10:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ENHANCED_FURNACE_11:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_FURNACE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBONADO_EDGED_FURNACE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRO_MAGNET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_MOTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+HEATING_COIL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BLOCK_PLACER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  unplaceable-blocks:
+  - STRUCTURE_BLOCK
+  allow-enchanting: true
+HOT_CHOCOLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CHRISTMAS_CAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SCROLL_OF_DIMENSIONAL_TELEPOSITION:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARAMEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARAMEL_APPLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CHOCOLATE_APPLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PRESENT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+EXPLOSIVE_BOW:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Special-Bows
+  allow-disenchanting: true
+  allow-enchanting: true
+ICY_BOW:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Special-Bows
+  allow-disenchanting: true
+  allow-enchanting: true
+TOME_OF_KNOWLEDGE_SHARING:
+  enabled: false
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+FLASK_OF_KNOWLEDGE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+REINFORCED_PLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+HARDENED_GLASS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLAR_ARRAY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARROT_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+EASTER_EGG:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+COOLING_UNIT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+COOLER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cooler
+  allow-disenchanting: true
+  allow-enchanting: true
+WITHER_PROOF_OBSIDIAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANCIENT_PEDESTAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/mx2Y5DP8uZI
+  allow-disenchanting: true
+  allow-enchanting: true
+ANCIENT_ALTAR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/mx2Y5DP8uZI
+  allow-disenchanting: true
+  allow-enchanting: true
+BIRTHDAY_CAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ENERGY_REGULATOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/QvSUfBYagXk
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator
+  allow-disenchanting: true
+  allow-enchanting: true
+DUCT_TAPE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SMALL_CAPACITOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  allow-disenchanting: true
+  allow-enchanting: true
+MEDIUM_CAPACITOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  allow-disenchanting: true
+  allow-enchanting: true
+BIG_CAPACITOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  allow-disenchanting: true
+  allow-enchanting: true
+LARGE_CAPACITOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBONADO_EDGED_CAPACITOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitor
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLAR_GENERATOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLAR_GENERATOR_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLAR_GENERATOR_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator
+  allow-disenchanting: true
+  allow-enchanting: true
+SOLAR_GENERATOR_4:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator
+  allow-disenchanting: true
+  allow-enchanting: true
+CHARGING_BENCH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Charging-Station
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_FURNACE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Furnace
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_FURNACE_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Furnace
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_FURNACE_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Furnace
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_GOLD_PAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/A6OuK7sfnaI
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Gold-Pan
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_GOLD_PAN_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Gold-Pan
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_GOLD_PAN_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Gold-Pan
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_DUST_WASHER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/A6OuK7sfnaI
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_DUST_WASHER_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_DUST_WASHER_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_INGOT_FACTORY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/A6OuK7sfnaI
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_INGOT_FACTORY_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_INGOT_FACTORY_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_ORE_GRINDER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/A6OuK7sfnaI
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_ORE_GRINDER_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+HEATED_PRESSURE_CHAMBER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+HEATED_PRESSURE_CHAMBER_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+COAL_GENERATOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BIO_REACTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+AUTO_ENCHANTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Auto-Enchanter
+  allow-disenchanting: true
+  allow-enchanting: true
+AUTO_DISENCHANTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Auto-Disenchanter
+  allow-disenchanting: true
+  allow-enchanting: true
+AUTO_ANVIL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+AUTO_ANVIL_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+MULTIMETER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/QvSUfBYagXk
+  allow-disenchanting: true
+  allow-enchanting: true
+PLASTIC_SHEET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANDROID_MEMORY_CORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_TRANSMITTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_TRANSMITTER_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_TRANSMITTER_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_TRANSMITTER_4:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_CONTROL_PANEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/kOopBkiRzjs
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_MARKER_TOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_EMERGENCY_TRANSMITTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_MINER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_FARMER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_WOODCUTTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/AGLsWSMs6A0
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_FISHERMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_BUTCHER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/G-re3qV-LJQ
+  allow-disenchanting: true
+  allow-enchanting: true
+ANDROID_INTERFACE_ITEMS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANDROID_INTERFACE_FUEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_2_FISHERMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_2_BUTCHER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/G-re3qV-LJQ
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_3_FISHERMAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_3_BUTCHER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+BLANK_RUNE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANCIENT_RUNE_AIR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANCIENT_RUNE_EARTH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANCIENT_RUNE_FIRE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANCIENT_RUNE_WATER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANCIENT_RUNE_ENDER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ANCIENT_RUNE_RAINBOW:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+INFERNAL_BONEMEAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/gKxWqMlJDXY
+  allow-disenchanting: true
+  allow-enchanting: true
+ELYTRA_SCALE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ELYTRA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+INFUSED_ELYTRA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+SOULBOUND_ELYTRA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_WOOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/csvb0CxofdA
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_GLASS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/csvb0CxofdA
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_GLASS_PANE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/csvb0CxofdA
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_CLAY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/csvb0CxofdA
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_WOOL_XMAS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/l4pKk4SDE
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_GLASS_XMAS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/l4pKk4SDE
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_GLASS_PANE_XMAS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/l4pKk4SDE
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_CLAY_XMAS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/l4pKk4SDE
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_WOOL_VALENTINE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_GLASS_VALENTINE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_GLASS_PANE_VALENTINE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+RAINBOW_CLAY_VALENTINE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+WITHER_PROOF_GLASS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_GEO_SCANNER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/_XmJ6hrv9uY
+  allow-disenchanting: true
+  allow-enchanting: true
+OIL_PUMP:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/_XmJ6hrv9uY
+  allow-disenchanting: true
+  allow-enchanting: true
+BUCKET_OF_OIL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/_XmJ6hrv9uY
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Oil
+  allow-disenchanting: true
+  allow-enchanting: true
+BUCKET_OF_FUEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/_XmJ6hrv9uY
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Oil
+  allow-disenchanting: true
+  allow-enchanting: true
+REFINERY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/_XmJ6hrv9uY
+  allow-disenchanting: true
+  allow-enchanting: true
+LAVA_GENERATOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+COMBUSTION_REACTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/QvSUfBYagXk
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_TELEPORTER_PYLON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/ZnEhG8Kw6zU
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_TELEPORTATION_MATRIX:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/ZnEhG8Kw6zU
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_ACTIVATION_DEVICE_SHARED:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GPS_ACTIVATION_DEVICE_PERSONAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+HOLOGRAM_PROJECTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+INFUSED_HOPPER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/_H2HGwkfBh8
+  allow-disenchanting: true
+  allow-enchanting: true
+BLISTERING_INGOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/mPhKUv4JR_Y
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+BLISTERING_INGOT_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/mPhKUv4JR_Y
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+BLISTERING_INGOT_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/mPhKUv4JR_Y
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+  allow-disenchanting: true
+  allow-enchanting: true
+ELEVATOR_PLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/OdKMjo6vNIs
+  allow-disenchanting: true
+  allow-enchanting: true
+FOOD_FABRICATOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+FOOD_FABRICATOR_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ORGANIC_FOOD_WHEAT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+ORGANIC_FOOD_CARROT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+ORGANIC_FOOD_POTATO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+ORGANIC_FOOD_SEEDS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+ORGANIC_FOOD_BEETROOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+ORGANIC_FOOD_MELON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+ORGANIC_FOOD_APPLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+AUTO_BREEDER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/qJdFfvTGOmI
+  allow-disenchanting: true
+  allow-enchanting: true
+ANIMAL_GROWTH_ACCELERATOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/bV4wEaSxXFw
+  allow-disenchanting: true
+  allow-enchanting: true
+XP_COLLECTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/fHtJDPeLMlg
+  allow-disenchanting: true
+  allow-enchanting: true
+FOOD_COMPOSTER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+FOOD_COMPOSTER_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+FERTILIZER_WHEAT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+FERTILIZER_CARROT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+FERTILIZER_POTATO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+FERTILIZER_SEEDS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+FERTILIZER_BEETROOT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+FERTILIZER_MELON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+FERTILIZER_APPLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+CROP_GROWTH_ACCELERATOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/LjzUlFKAHCI
+  allow-disenchanting: true
+  allow-enchanting: true
+CROP_GROWTH_ACCELERATOR_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+FREEZER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+FREEZER_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+REACTOR_COOLANT_CELL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+NEPTUNIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radioactive-Materials
+  allow-disenchanting: true
+  allow-enchanting: true
+PLUTONIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radioactive-Materials
+  allow-disenchanting: true
+  allow-enchanting: true
+BOOSTED_URANIUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radioactive-Materials
+  allow-disenchanting: true
+  allow-enchanting: true
+NUCLEAR_REACTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARGO_MOTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Motor
+  allow-enchanting: true
+CARGO_MANAGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/Lt2aGw5lQPI
+  allow-disenchanting: true
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Manager
+  allow-enchanting: true
+CARGO_NODE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Nodes
+  allow-enchanting: true
+CARGO_NODE_INPUT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/Lt2aGw5lQPI
+  allow-disenchanting: true
+  allow-enchanting: true
+CARGO_NODE_OUTPUT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/Lt2aGw5lQPI
+  allow-disenchanting: true
+  allow-enchanting: true
+CARGO_NODE_OUTPUT_ADVANCED:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+AUTOMATED_CRAFTING_CHAMBER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  youtube: https://youtu.be/FZj7nu9sOYA
+  allow-disenchanting: true
+  allow-enchanting: true
+REACTOR_ACCESS_PORT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+FLUID_PUMP:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+TRASH_CAN_BLOCK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBON_PRESS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBON_PRESS_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+CARBON_PRESS_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+ELECTRIC_SMELTERY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+WITHER_ASSEMBLER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+  allow-enchanting: true
+GOLDEN_APPLE_JUICE:
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices
+HARDENED_METAL:
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+REDSTONE_ALLOY_INGOT:
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots
+ICE_CUBE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRAPE_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRAPE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRAPE_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRAPE_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRAPE_JELLY_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRAPE_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY_JELLY_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ELDERBERRY_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ELDERBERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ELDERBERRY_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ELDERBERRY_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ELDERBERRY_JELLY_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ELDERBERRY_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+RASPBERRY_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+RASPBERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+RASPBERRY_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+RASPBERRY_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+RASPBERRY_JELLY_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+RASPBERRY_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLACKBERRY_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLACKBERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLACKBERRY_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLACKBERRY_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLACKBERRY_JELLY_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLACKBERRY_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CRANBERRY_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CRANBERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CRANBERRY_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CRANBERRY_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CRANBERRY_JELLY_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CRANBERRY_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COWBERRY_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COWBERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COWBERRY_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COWBERRY_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COWBERRY_JELLY_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COWBERRY_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+STRAWBERRY_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+STRAWBERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+STRAWBERRY_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+STRAWBERRY_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+STRAWBERRY_JELLY_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+STRAWBERRY_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TOMATO_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TOMATO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LETTUCE_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LETTUCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TEA_LEAF_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TEA_LEAF:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CABBAGE_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CABBAGE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SWEET_POTATO_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SWEET_POTATO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+MUSTARD_SEED_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+MUSTARD_SEED:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CORN_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CORN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PINEAPPLE_BUSH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PINEAPPLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+APPLE_OAK_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+APPLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+APPLE OAK_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COCONUT_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COCONUT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COCONUT_MILK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHERRY_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHERRY_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHERRY_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+POMEGRANATE_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+POMEGRANATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+POMEGRANATE_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+POMEGRANATE_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LEMON_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LEMON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LEMON_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LEMON_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PLUM_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PLUM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PLUM_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PLUM_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LIME_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LIME:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LIME_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LIME_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ORANGE_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ORANGE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ORANGE_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ORANGE_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEACH_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEACH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEACH_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEACH_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEAR_SAPLING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEAR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEAR_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEAR_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LIME_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TOMATO_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+WINE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LEMON_ICED_TEA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+RASPBERRY_ICED_TEA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PEACH_ICED_TEA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+STRAWBERRY_ICED_TEA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHERRY_ICED_TEA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+THAI_TEA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PUMPKIN_BREAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+MAYO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+MUSTARD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BBQ_SAUCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CORNMEAL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHOCOLATE_BAR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+POTATO_SALAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHICKEN_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+FISH_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+EGG_SALAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TOMATO_SOUP:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+STRAWBERRY_SALAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRAPE_SALAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHEESECAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHERRY_CHEESECAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY_CHEESECAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PUMPKIN_CHEESECAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SWEETENED_PEAR_CHEESECAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BISCUIT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLACKBERRY_COBBLER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PAVLOVA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CORN_ON_THE_COB:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CREAMED_CORN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BACON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LEAFY_CHICKEN_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LEAFY_FISH_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+HAMBURGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHEESEBURGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BACON_CHEESEBURGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+DELUXE_CHEESEBURGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CARROT_CAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHICKEN_BURGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHICKEN_CHEESEBURGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BACON_BURGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BACON_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TACO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+FISH_TACO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+JAMMY_DODGER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PANCAKES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY_PANCAKES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+FRIES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+POPCORN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SWEET_POPCORN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SALTY_POPCORN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SHEPARDS_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHICKEN_POT_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHOCOLATE_CAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CREAM_COOKIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BLUEBERRY_MUFFIN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PUMPKIN_MUFFIN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHOCOLATE_CHIP_MUFFIN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BOSTON_CREAM_PIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+HOT_DOG:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BBQ_BACON_WRAPPED_HOT_DOG:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SWEETENED_TEA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PINACOLADA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHOCOLATE_STRAWBERRY:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LEMONADE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LAMINGTON:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+WAFFLES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CLUB_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+BURRITO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHICKEN_BURRITO:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRILLED_SANDWICH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LASAGNA:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ICE_CREAM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PINEAPPLE_JUICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+PINEAPPLE_SMOOTHIE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TIRAMISU:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TIRAMISU_WITH_STRAWBERRIES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TIRAMISU_WITH_RASPBERRIES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+TIRAMISU_WITH_BLACKBERRIES:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CHOCOLATE_PEAR_CAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+APPLE_PEAR_CAKE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COAL_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+COAL_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+IRON_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+IRON_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GOLD_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GOLD_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+REDSTONE_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+REDSTONE_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LAPIS_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+LAPIS_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ENDER_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ENDER_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+QUARTZ_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+QUARTZ_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+DIAMOND_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+DIAMOND_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+EMERALD_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+EMERALD_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GLOWSTONE_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GLOWSTONE_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+OBSIDIAN_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+OBSIDIAN_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SLIME_PLANT:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+SLIME_ESSENCE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+CROOK:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+GRASS_SEEDS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''
+  allow-disenchanting: true
+ELECTRIFIED_CRUCIBLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+ELECTRIFIED_CRUCIBLE_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+ELECTRIFIED_CRUCIBLE_3:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+ELECTRIC_INGOT_PULVERIZER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+PROGRAMMABLE_ANDROID_2_FARMER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+NETHER_DRILL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+NETHER_ICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+ENRICHED_NETHER_ICE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+NETHER_ICE_COOLANT_CELL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+NETHERSTAR_REACTOR:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+ELECTRIC_SMELTERY_2:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+  allow-enchanting: true
+COPPER_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COPPER_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COPPER_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COPPER_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COPPER_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+TIN_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+TIN_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+TIN_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+TIN_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+TIN_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SILVER_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SILVER_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SILVER_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SILVER_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SILVER_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ALUMINUM_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ALUMINUM_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ALUMINUM_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ALUMINUM_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ALUMINUM_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+LEAD_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+LEAD_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+LEAD_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+LEAD_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+LEAD_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ZINC_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ZINC_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ZINC_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ZINC_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ZINC_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+MAGNESIUM_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+MAGNESIUM_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+MAGNESIUM_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+MAGNESIUM_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+MAGNESIUM_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+STEEL_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+STEEL_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+STEEL_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+STEEL_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+STEEL_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+BRONZE_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+DURALUMIN_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+BILLON_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+BRASS_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ALUMINUM_BRASS_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ALUMINUM_BRONZE_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+CORINTHIAN_BRONZE_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SOLDER_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+DAMASCUS_STEEL_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HARDENED_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+REINFORCED_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+FERROSILICON_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GILDED_IRON_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+NICKEL_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COBALT_SWORD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COBALT_HELMET:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COBALT_CHESTPLATE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COBALT_LEGGINGS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COBALT_BOOTS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_PIG:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_CHICKEN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_MOOSHROOM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_COW:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_SQUID:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_SPIDER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_IRON_GOLEM:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_ENDER_MAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_CREEPER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_FISH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_MAGMA_CUBE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_WITHER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_BLAZE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_BED:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_ENDER_CHEST:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_WORKBENCH:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_SLIME:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_PURPLICIOUS_COW:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_MRCOOKIESLIME:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_WALSHRUS:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HOTBAR_PET_EYAMAZ:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+WEAPON_BOX:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUN_HANDLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUN_BARREL_SHORT_STEEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUN_BARREL_MEDIUM_STEEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUN_BARREL_LONG_STEEL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUN_BARREL_SHORT_GOLD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUN_BARREL_MEDIUM_GOLD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUN_BARREL_LONG_GOLD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+AMMO_PISTOL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+AMMO_SHOTGUN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+AMMO_RIFLE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+AMMO_SNIPER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SOUND_MUFFLER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+FLASH_HIDER:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GRIP:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUN_PISTOL:
+  guns:
+    '0':
+      name: '&7M-9'
+      ammo-capacity: 3
+      damage: 4.5
+      speed: 2.0
+      type: IRON_BARDING
+      clip-size: 8
+GUN_SHOTGUN:
+  guns:
+    '0':
+      name: '&7Spas-12'
+      ammo-capacity: 4
+      damage: 5.0
+      speed: 4.0
+      type: IRON_BARDING
+      clip-size: 3
+GUN_RIFLE:
+  guns:
+    '0':
+      name: '&7UMP-45'
+      ammo-capacity: 5
+      damage: 5.0
+      speed: 3.0
+      type: IRON_BARDING
+      clip-size: 24
+GUN_SNIPER:
+  guns:
+    '0':
+      name: '&7M-200 Intervention'
+      ammo-capacity: 2
+      damage: 20.0
+      speed: 6.0
+      type: IRON_BARDING
+      clip-size: 1
+M-9:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SPAS-12:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+UMP-45:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+M-200_INTERVENTION:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SF_COAL_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SF_IRON_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SF_GOLD_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SF_DIAMOND_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SF_EMERALD_ORE:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+TOME_OF_ANALIZING:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+BLAZE_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+CAVE_SPIDER_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GHAST_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+PIG_ZOMBIE_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ENDERMAN_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+MAGMA_CUBE_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SLIME_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SPIDER_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+CHICKEN_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+PIG_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+COW_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+SQUID_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+VILLAGER_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+IRON_GOLEM_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+MUSHROOM_COW_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+OCELOT_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+HORSE_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+GUARDIAN_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+WITHER_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+ENDER_DRAGON_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+WITCH_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+RABBIT_HEAD:
+  enabled: true
+  can-be-used-in-workbenches: false
+  allow-disenchanting: true
+  required-permission: ''
+TRASHCAN:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+INFERNALDUST:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+PAINTCAN:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+MULTIBUILDER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENERGIZEDGOLDDUST:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ANGELICBLOCK:
+  enabled: false
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+HYPERSENDERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+FIFTYKENERGYCELL:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+VACUUMMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+EJECTORUPGRADE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ELEVATOR:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+CIRCUITBOARD:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+DROPPERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+MOISTURECHECKER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+PAINTROLLER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SENDERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+DISTRIBUTORMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+HYPERSTORAGEUNIT:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SPEEDMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+INTEGRATEDCIRCUIT:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+HEATENGINE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENERGIZEDGOLDINGOT:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SORTERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+PVCELL:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+FIFTYKBATTERYBOX:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+BIGSTORAGEUNIT:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+BAGOFHOLDING:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+TOUGHMACHINEFRAME:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+GOLDCOMBINEHOE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+RECEIVERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+TENKENERGYCELL:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+AUTOBUILDER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SMELTER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENDERBOX:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ADVANCEDSENDERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+QUARTZDUST:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+BIOENGINE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SAWMILL:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+DENSESOLAR:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+BASICSOLARCELL:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SCURELAY:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENDERLEASH:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+LANDMARKER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ITEMROUTER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+DIAMONDCOMBINEHOE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENERGIZEDIRONINGOT:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+WOODCOMBINEHOE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SILKYBREAKERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+MAGMATICENGINE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+BREAKERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENERGIZEDIRONDUST:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+REDSTONECLOCK:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ADVANCEDMOISTURECHECKER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+POWERMONITOR:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+UNLINKEDSCURELAY:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+BLOCKUPDATEDETECTOR:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+REGULATORUPGRADE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+THOROUGHNESSUPGRADE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+TAPEMEASURE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ELECTRICALENERGIZER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+TENKBATTERYBOX:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+MASHER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+PUMP:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+PULLERMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENERGIZEDQUARTZ:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ADVANCEDRECIPEBOOK:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+RECIPEBOOK:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SILICONWAFER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+WATERINGCAN:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SUBSPACETRANSPONDER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENDERBAG:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SIMPLECIRCUIT:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+IRONDUST:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+MACHINEFRAME:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+SPEEDUPGRADE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+STACKMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+PAINTBRUSH:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+GOLDDUST:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+IRONCOMBINEHOE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ENDERTUNER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+BLANKMODULE:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+ADVANCEDFARM:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+AUTOFORESTER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+AUTOFARM:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+AUTOFARM2:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+FERMENTER:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+FISHINGNET:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+FISHBAIT:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+INFERNALFARM:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+REACTOR_COOLANT_PORT:
+  description:
+  - '&e1: Place this on the Bottom Side of a Reactor'
+  - '&e2: Fill it with Coolant Cells'
+  - '§e3: Make sure to supply more Coolant Cells'
+  - '&e since they get consumed over time'
+HOLOGRAPHICMONITOR:
+  enabled: true
+  can-be-used-in-workbenches: true
+  allow-disenchanting: true
+  required-permission: ''
+CARGO_INPUT:
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Nodes
+CARGO_OUTPUT:
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Nodes
+CARGO_OUTPUT_ADVANCED:
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Nodes
+TRASH_CAN:
+  wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Trash-Can

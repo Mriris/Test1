@@ -1,0 +1,14 @@
+onEnable:
+  - '&cEpicPick Running'
+epNoPermissions: '&cYou dont have the permission!'
+ephelp:
+  - '&a/ep help for help'
+  - '&e/ep setting to setting yourself'
+  - '&e/ep changemode change your pick up mode'
+  - '&cfor admin'
+  - '&c/ep setting [player name] setting others'
+  - '&c/ep changemode [player name] setting others'
+epNoPlayer: '&cYou must be a player'
+epChangetofalse: '&cThe mode turn false'
+epChangetotrue: '&cThe mode turn true'
+epLine0: '&cThe player has not permission'

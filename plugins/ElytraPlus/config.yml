@@ -1,0 +1,152 @@
+# ElytraPlus by de.kinglol12345
+# Version 1.7.6
+
+Enable: true
+Acceleration: 1.1
+Max-Speed: 1
+disabled-worlds:
+- disabled_world1
+- disabled_world2
+- disabled_world3
+
+# Should every Elytra Speed-UP or only Updated ones(/ep update)
+All-Elytras: true
+
+# Elytra Shift Activation
+shift-start: true
+
+# Use Fuel
+# Fuel true automatic disables All-Elytras
+Fuel: false
+Fuel_Use: 80
+Max_Fuel: 16000
+StartUp_Cost: 100
+
+# available Particles:
+# EXPLOSION_NORMAL EXPLOSION_LARGE EXPLOSION_HUGE FIREWORKS_SPARK WATER_BUBBLE WATER_SPLASH WATER_WAKE SUSPENDED
+# SUSPENDED_DEPTH CRIT CRIT_MAGIC SMOKE_NORMAL SMOKE_LARGE SPELL SPELL_INSTANT SPELL_MOB SPELL_MOB_AMBIENT SPELL_WITCH
+# DRIP_WATER DRIP_LAVA VILLAGER_ANGRY VILLAGER_HAPPY TOWN_AURA NOTE PORTAL ENCHANTMENT_TABLE FLAME LAVA FOOTSTEP
+# CLOUD REDSTONE SNOWBALL SNOW_SHOVEL SLIME HEART WATER_DROP DRAGON_BREATH END_ROD DAMAGE_INDICATOR
+
+Standard-Particle: FLAME
+
+# Edit the Particle GUI Command: /elytraplus alias /ep
+# Enabled: Enable/Disable the shown Particle
+# Item: Edit the shown Item in the Particle GUI
+EXPLOSION_NORMAL:
+  Enabled: true
+  Item: '46'
+EXPLOSION_LARGE:
+  Enabled: false
+  Item: '46'
+EXPLOSION_HUGE:
+  Enabled: false
+  Item: '46'
+FIREWORKS_SPARK:
+  Enabled: true
+  Item: '401'
+WATER_BUBBLE:
+  Enabled: true
+  Item: '326'
+WATER_SPLASH:
+  Enabled: true
+  Item: '326'
+WATER_WAKE:
+  Enabled: true
+  Item: '326'
+SUSPENDED:
+  Enabled: true
+  Item: '373'
+SUSPENDED_DEPTH:
+  Enabled: true
+  Item: '61'
+CRIT:
+  Enabled: true
+  Item: '276'
+CRIT_MAGIC:
+  Enabled: true
+  Item: '310'
+SMOKE_NORMAL:
+  Enabled: true
+  Item: '351:15'
+SMOKE_LARGE:
+  Enabled: true
+  Item: '351:7'
+SPELL:
+  Enabled: true
+  Item: '288'
+SPELL_INSTANT:
+  Enabled: true
+  Item: '406'
+SPELL_MOB:
+  Enabled: true
+  Item: '86'
+SPELL_MOB_AMBIENT:
+  Enabled: true
+  Item: '171:15'
+SPELL_WITCH:
+  Enabled: true
+  Item: '438'
+DRIP_WATER:
+  Enabled: true
+  Item: '326'
+DRIP_LAVA:
+  Enabled: true
+  Item: '327'
+VILLAGER_ANGRY:
+  Enabled: true
+  Item: '351:1'
+VILLAGER_HAPPY:
+  Enabled: true
+  Item: '388'
+TOWN_AURA:
+  Enabled: true
+  Item: '99'
+NOTE:
+  Enabled: true
+  Item: '25'
+PORTAL:
+  Enabled: true
+  Item: '368'
+ENCHANTMENT_TABLE:
+  Enabled: true
+  Item: '116'
+FLAME:
+  Enabled: true
+  Item: '51'
+LAVA:
+  Enabled: true
+  Item: '327'
+FOOTSTEP:
+  Enabled: true
+  Item: '208'
+CLOUD:
+  Enabled: true
+  Item: '38:6'
+REDSTONE:
+  Enabled: true
+  Item: '331'
+SNOWBALL:
+  Enabled: true
+  Item: '332'
+SNOW_SHOVEL:
+  Enabled: true
+  Item: '277'
+SLIME:
+  Enabled: true
+  Item: '341'
+HEART:
+  Enabled: true
+  Item: '38'
+WATER_DROP:
+  Enabled: true
+  Item: '326'
+DRAGON_BREATH:
+  Enabled: true
+  Item: '397:5'
+END_ROD:
+  Enabled: true
+  Item: '198'
+DAMAGE_INDICATOR:
+  Enabled: true
+  Item: '40'

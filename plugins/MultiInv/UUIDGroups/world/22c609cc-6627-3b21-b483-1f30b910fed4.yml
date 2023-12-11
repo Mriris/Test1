@@ -1,0 +1,8 @@
+SURVIVAL: '{"potions":[],"inventory":{"size":41,"items":{"0":{"item":"ENCHANTED_BOOK","quantity":1,"durability":0,"nbttags":"NM#Nwqdh57KY5ray56eR5oqA5oyH5Y2XIMKnNyjnrrHlrZAgR1VJKQ==#L-wqdl5Y+z6ZSuIMKnOOKHqCDCpzfmtY\/op4jnianlk4E=-wqdlU2hpZnQgKyDlj7PplK4gwqc44oeoIMKnN+aJk+W8gOiuvue9riAvIOS9nOiAheWIl+ihqA==#R0","enchantments":{}},"8":{"item":"BOOK","quantity":1,"durability":0,"nbttags":"NM#Nwqc24pePIMKnNMKnbOS5puacrOiPnOWNlSDCpzbil48=#Lwqc35Y+z6ZSu5omT5byA#R0","enchantments":{}}}},"armour":{"size":4,"items":{}}}'
+experience: 0
+level: 0
+exp: 0.0
+gameMode: SURVIVAL
+health: 20.0
+hunger: 20
+saturation: 4.0

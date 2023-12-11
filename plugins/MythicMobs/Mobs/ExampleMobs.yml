@@ -1,0 +1,416 @@
+# 
+# These example files show you some of the basic attributes and
+# skills MythicMobs can use. Far more is possible!
+SkeletalKnight:
+  Type: WITHER_SKELETON
+  Display: '&2Skeletal Knight'
+  Health: 40
+  Damage: 8
+  Drops:
+  - gold_nugget 2 0.5
+  DropsPerLevel:
+  - gold_nugget 1 0.5
+  LevelModifiers:
+  - health 5
+  - damage 0.5
+  Options:
+    MovementSpeed: 0.1
+StaticallyChargedSheep:
+  Type: SHEEP
+  Display: '&bStatically Charged Sheep'
+  Health: 100
+  Damage: 2
+  Options:
+    MovementSpeed: 0.3
+  DamageModifiers:
+  - LIGHTNING 0
+  - FIRE 0.5
+  Skills:
+  - lightning @LivingInRadius{r=10} ~onTimer:100
+AngrySludge:
+  Type: SLIME
+  Display: Angry Sludge
+  Health: 100
+  Damage: 2
+  Options:
+    Size: 20
+    MovementSpeed: 0.1
+    PreventSlimeSplit: true
+    PreventOtherDrops: true
+    MaxCombatDistance: 30
+    KnockbackResistance: 1
+  Skills:
+  - skill{s=AngrySludgePoison} 0.2
+SkeletonKing:
+  Type: WITHER_SKELETON
+  Display: '&6Skeleton King'
+  Health: 500
+  Damage: 10
+  Skills:
+  - message{cooldown=20;m="<mob.name><&co> None may challenge the Skeleton King!"} @PlayersInRadius{r=40} ~onCombat >0 0.2
+  - message{m="<mob.name><&co> Ahahahahah! Die, <trigger.name>!"} @PlayersInRadius{r=40} ~onPlayerKill >0 1
+  - skill{s=SummonSkeletons} @Self 0.1
+  - skill{s=SmashAttack} @Target >0 0.2
+  Equipment:
+  - KingsCrown:4
+  - SkeletonKingSword:0
+  Drops:
+  - SkeletonKingDrops
+  Options:
+    AlwaysShowName: true
+    MovementSpeed: 0.2
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+SkeletalMinion:
+  Type: SKELETON
+  Display: '&2Skeletal Minion'
+  Health: 10
+  Damage: 2
+  Options:
+    MovementSpeed: 0.1
+1:
+  Mobtype: pig
+  Display: '&4&l[等级:1]&c普通的猪'
+  Health: 15
+  Damage: 1
+  Skills: 
+  Drops: 
+  - D1 1-2 1
+  - exp 5 1
+  - hb 1-3 0.5
+  Equipment: 
+  Options: 
+   PreventOtherDrops: true
+   AlwaysShowName: true
+   MovementSpeed: 0.3
+2:
+  Mobtype: wolf
+  Display: '&4&l[等级:3]&2三狼'
+  Health: 40
+  Damage: 5
+  Drops: 
+  - D2 1-2 0.5
+  - HYZ 1 0.2
+  - exp 10 1
+  Options: 
+   PreventOtherDrops: true
+   AlwaysShowName: true
+4:
+  Mobtype: zombie
+  Display: '&4&l[等级:13]&5屠夫'
+  Health: 120
+  Damage: 4
+  Drops: 
+  - HYZ 2 0.3
+  - W3 2-3 0.4
+  - exp 25 1
+  - X2 1 1
+  Equipment:
+  - GWWQ1
+  Options: 
+   PreventOtherDrops: true
+   AlwaysShowName: true
+   MovementSpeed: 0.1
+B2:
+  Mobtype: zombie
+  Display: '&4&l[等级:15]&4蟾蜍'
+  Health: 1500
+  Damage: 4
+  Drops: 
+  - HYZ 10 0.9
+  - exp 120 1
+  - X2 1 1
+  Equipment:
+  - GWZB1:4 
+  - GWZB2:3 
+  - GWZB3:2 
+  - GWZB4:1 
+  - GWWQ1:0 
+  Options: 
+   PreventOtherDrops: true
+   AlwaysShowName: true
+B1:
+  Mobtype: spider
+  Display: '&4&l[等级:10]&4血瞳蛛王'
+  Health: 2000
+  Damage: 5
+  Drops: 
+  - HYZ 5 0.9
+  - W1 1 1
+  - exp 100 1
+  Options: 
+   PreventOtherDrops: true
+   AlwaysShowName: true
+JS1:
+  Type: zombie
+  Display: '&4&l[等级:5]&2绿魔怪'
+  Health: 40
+  Damage: 6
+  Drops:
+  - exp 10 1
+  - W3 1 0.8
+  Options:
+    AlwaysShowname : true
+    MovementSpeed: 0.2
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+JS2:
+  Type: zombie
+  Display: '&a[等级:10]绿魔怪精英'
+  Health: 50
+  Damage: 7
+  Equipment: 
+  - GWZB1:4 
+  - GWZB2:3 
+  - GWZB3:2 
+  - GWZB4:1 
+  - GWWQ1:0 
+  Drops:
+  - WJWQ3 1 0.02
+  - WJZB1 1 0.05
+  - WJZB2 1 0.05
+  - WJZB3 1 0.05
+  - WJZB4 1 0.05
+  - exp 20 1
+  - money 20 1
+  Options:
+    AlwaysShowname : true
+    MovementSpeed: 0.2
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+JS3:
+  Type: zombie
+  Display: '&b[等级:20]绿魔怪头领'
+  Health: 60
+  Damage: 8
+  Drops:
+  - exp 30 1
+  - money 30 1
+  - WJWQ2 1 0.05
+  Equipment: 
+  - GWZB5:4 
+  - GWZB6:3 
+  - GWZB7:2 
+  - GWZB8:1 
+  - GWWQ2:0 
+  Options:
+    AlwaysShowname : true
+    MovementSpeed: 0.3
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+DL1:
+  Type: witherskeleton
+  Display: '&b[等级：30]堕落之殿守护者'
+  Health: 150
+  Damage: 15
+  Skills:
+  - potion 10:Blindness:400:3 =80% 1
+  - equip GWZB5:4 =70% 1
+  - equip GWZB6:3 =70% 1
+  - equip GWZB7:2 =70% 1
+  - equip GWZB8:1 =70% 1
+  - equip GWWQ2:0 =100% 1
+  Drops:
+  - exp 100 1
+  - money 100 1
+  Equipment: 
+  Options:
+    AlwaysShowname : true
+    MovementSpeed: 0.3
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+BOSS1:
+  Type: witch
+  Display: '&4[等级：70]暗黑乌雷法师'
+  Health: 2000
+  Damage: 30 
+  Skills:
+  - equip GWZB10:3 =20% 1
+  - equip GWZB11:2 =20% 1
+  - equip GWZB12:1 =20% 1
+  - msg 0:'&d[&4创世神&d]&a突然闪电轰鸣，原来是BOSS暗黑乌雷法师出现了！&3位置：堕落之殿入口。' =100% 1
+  - msg 0:'&d[&4创世神&d]&a经过一番血战，暗黑乌雷法师终于被击败了！' =0% 1 
+  - lightning 20:20 ~onTimer:100 >0% 1
+  - healself 1000 =40% 1
+  - explosion 10:2:false:false >0 0.5
+  - potion 10:Blindness:200:3 <0% 1
+  Drops:
+  - exp 1000 1
+  - money 1000 1
+  - BOSSZB 1 0.05
+  Equipment: 
+  Options:
+    AlwaysShowname : true
+    MovementSpeed: 0.3
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+BOSS2:
+  Type: witherskeleton
+  Display: '&c[等级：80]死亡守护者'
+  Health: 1500
+  Damage: 30
+  Skills:
+  - explosion 5:10:true:false <30% 0.25
+  - effect boss ender >0% 1
+  - potion 10:Blindness:200:3 =80% 1
+  - KnockbackResistance:1
+  - msg 0:'&d[&4创世神&d]&a世界在颤动,原来是死亡守护者又出现了，赶快去击杀他！&b位置：堕落之殿' =100% 1
+  - msg 0:'&d[&4创世神&d]&a经过一番血战，远古死亡守护者终于被击杀了！' =0% 1 
+  - healself 300 =40% 1
+  - healself 500 =25% 1
+  - equip GWZB9:4 =65% 1
+  - equip GWZB10:3 =65% 1
+  - equip GWZB11:2 =65% 1
+  - equip GWZB12:1 =65% 1
+  Drops:
+  - exp 150 1
+  - money 150 1
+  - D1
+  - D2
+  Options:
+    AlwaysShowname : true
+    MovementSpeed: 0.3
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+    KnockbackResistance: 1
+3:
+  Type: sheep
+  Display: '&4[等级:5]&l血羊'
+  Health: 40
+  Drops:
+  - W1 1-2 0.5
+  Options:
+   PreventOtherDrops: true
+   AlwaysShowName: true
+3:
+  Type: CaveSpider
+  Display: '&4[等级:8]&2血瞳蜘蛛'
+  Health: 70
+  Damage: 4
+  Drops:
+  - W2 1 0.5
+  - HYZ 1 0.3
+  - exp 15 1
+  Options:
+   PreventOtherDrops: true
+   AlwaysShowName: true
+5:
+  Type: creeper
+  Display: '&4[等级:35]&a甘蔗精'
+  Health: 50
+  Damage: 80
+  Drops:
+  - X3 1 0.5
+  Options:
+   PreventOtherDrops: true
+   AlwaysShowName: true
+N1:
+  Type: pig
+  Display: '&4[等级:1]&c粉嫩猪'
+  Health: 10
+  Drops:
+  - N1 1 0.3
+  - D1 1 0.5
+  Options:
+   PreventOtherDrops: true
+   AlwaysShowName: true
+X1:
+  Type: cow
+  Display: '&4[等级:10]&b有煞气的牛'
+  Health: 40
+  Drops:
+  - X1 1 0.5
+  - X2 1 0.3
+  Options:
+   PreventOtherDrops: true
+   AlwaysShowName: true
+N2:
+  Type: ZOMBIE
+  Display: '&4[等级:5]&2活死人'
+  Health: 30
+  Damage: 7
+  Drops: 
+  - W3 1 0.5
+  - W4 1 0.5
+  Options: 
+   PreventOtherDrops: true
+   AlwaysShowName: true
+   MovementSpeed: 0.2
+  Equipment:
+  - 298:4 1
+  - 269:0 1
+c1:
+  Type: zombie
+  Display: '&7次级生化幽灵'
+  Health: 20
+  Damage: 4
+  Options:
+   PreventOtherDrops: true
+   AlwaysShowName: true
+  Drops:
+  - N1 1 0.3
+  Equipment:
+  - 298:4 1
+c2:
+  Type: zombie
+  Display: '&2迅捷幽灵'
+  Health: 25
+  Damage: 5
+  Options:
+   PreventOtherDrops: true
+   MovementSpeed: 0.4
+   AlwaysShowName: true
+  Drops:
+  - N1 1-2 0.4
+  Equipment:
+  - 373:0 1
+  - 302:4 1
+c3:
+  Type: pigzombie
+  Display: '&a绿巨人'
+  Health: 100
+  Damage: 6
+  Options:
+   PreventOtherDrops: true
+   AlwaysShowName: true
+  Drops:
+  - N1 1-2 0.6
+  - N2 1 0.5
+  - N3 1 0.4
+c4:
+  Type: cavespider
+  Display: '&4生化狂徒'
+  Health: 100
+  Damage: 3
+  Options:
+   PreventOtherDrops: true
+   MovementSpeed: 0.4
+   AlwaysShowName: true
+  Drops:
+  - W2 1 0.5
+c5:
+  Type: skeleton
+  Display: '&5剧毒蛇女'
+  Health: 13
+  Damage: 3
+  Options:
+   PreventOtherDrops: true
+   AlwaysShowName: true
+  Drops:
+  - N1 1-2 0.3
+  Equipment:
+  - 0:0 1
+  - 314:4 1
+sg1:
+  Mobtype: zombie
+  Display: '&4&l[等级:1]&2僵尸'
+  Health: 15
+  Damage: 1
+  Skills: 
+  Drops: 
+  - exp 15 1
+  Equipment: 
+  Options: 
+   PreventOtherDrops: true
+   AlwaysShowName: true
+   MovementSpeed: 0.3

@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Advantace
+timestamps:
+  login: 1517368104882
+  logout: 1517367763276
+  lastteleport: 1517368264362
+ipAddress: 110.251.108.28
+geolocation: China
+lastlocation:
+  world: sc
+  x: -111.44851512862093
+  y: 48.19290479189462
+  z: 236.68706804072752
+  yaw: 33.780685
+  pitch: 5.446845
+logoutlocation:
+  world: sc
+  x: -27.642701505836953
+  y: 94.0
+  z: 272.70140635307615
+  yaw: -271.00488
+  pitch: -2.4636595

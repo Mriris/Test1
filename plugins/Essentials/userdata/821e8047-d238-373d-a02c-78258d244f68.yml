@@ -1,0 +1,22 @@
+socialspy: false
+geolocation: China
+lastAccountName: long_shao
+timestamps:
+  login: 1500121665422
+  logout: 1500121781328
+  lastteleport: 1500120155048
+ipAddress: 123.134.1.235
+lastlocation:
+  world: sc
+  x: 62.678463245645545
+  y: 63.0
+  z: 194.69999998807907
+  yaw: 91.20641
+  pitch: -12.679167
+logoutlocation:
+  world: plotworld
+  x: -20.0
+  y: 65.0
+  z: -76.0
+  yaw: -154.49028
+  pitch: 1.4144028

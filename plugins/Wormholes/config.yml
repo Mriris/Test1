@@ -1,0 +1,262 @@
+wormholes:
+ 
+  # Toggle this to toggle particles
+  enable_particles: true
+  aperture_entitiy_types:
+  - DROPPED_ITEM
+  - EXPERIENCE_ORB
+  - AREA_EFFECT_CLOUD
+  - ELDER_GUARDIAN
+  - WITHER_SKELETON
+  - STRAY
+  - EGG
+  - LEASH_HITCH
+  - PAINTING
+  - ARROW
+  - SNOWBALL
+  - FIREBALL
+  - SMALL_FIREBALL
+  - ENDER_PEARL
+  - ENDER_SIGNAL
+  - SPLASH_POTION
+  - THROWN_EXP_BOTTLE
+  - ITEM_FRAME
+  - WITHER_SKULL
+  - PRIMED_TNT
+  - FALLING_BLOCK
+  - FIREWORK
+  - HUSK
+  - SPECTRAL_ARROW
+  - SHULKER_BULLET
+  - DRAGON_FIREBALL
+  - ZOMBIE_VILLAGER
+  - SKELETON_HORSE
+  - ZOMBIE_HORSE
+  - ARMOR_STAND
+  - DONKEY
+  - MULE
+  - EVOKER_FANGS
+  - EVOKER
+  - VEX
+  - VINDICATOR
+  - ILLUSIONER
+  - MINECART_COMMAND
+  - BOAT
+  - MINECART
+  - MINECART_CHEST
+  - MINECART_FURNACE
+  - MINECART_TNT
+  - MINECART_HOPPER
+  - MINECART_MOB_SPAWNER
+  - CREEPER
+  - SKELETON
+  - SPIDER
+  - GIANT
+  - ZOMBIE
+  - SLIME
+  - GHAST
+  - PIG_ZOMBIE
+  - ENDERMAN
+  - CAVE_SPIDER
+  - SILVERFISH
+  - BLAZE
+  - MAGMA_CUBE
+  - ENDER_DRAGON
+  - WITHER
+  - BAT
+  - WITCH
+  - ENDERMITE
+  - GUARDIAN
+  - SHULKER
+  - PIG
+  - SHEEP
+  - COW
+  - CHICKEN
+  - SQUID
+  - WOLF
+  - MUSHROOM_COW
+  - SNOWMAN
+  - OCELOT
+  - IRON_GOLEM
+  - HORSE
+  - RABBIT
+  - POLAR_BEAR
+  - LLAMA
+  - LLAMA_SPIT
+  - PARROT
+  - VILLAGER
+  - ENDER_CRYSTAL
+  - LINGERING_POTION
+  - FISHING_HOOK
+  - LIGHTNING
+  - WEATHER
+  - PLAYER
+  - COMPLEX_PART
+  - TIPPED_ARROW
+  - UNKNOWN
+ 
+  # Set this to false to disable portal wands
+  wand_enabled: true
+ 
+  # Particle Effect used for making lightning
+  # Particle Types: https://volmit.com/docs/particle-types/
+  particle_type_lightning: CRIT_MAGIC
+ 
+  # The max distance a portal will start raycasting players to determine velocity intersections.
+  max_velocity_capture_range: 36
+ 
+  # Particle Effect used for making ambient meshes
+  # Particle Types: https://volmit.com/docs/particle-types/
+  particle_type_ambient: SUSPENDED_DEPTH
+ 
+  # Particle Effect used for making teleport ripples
+  # Particle Types: https://volmit.com/docs/directional-particle-types/
+  particle_type_ripple: CRIT_MAGIC
+ 
+  # Portal Auto Refresh interval (in ticks)
+  rtp_auto_refresh_interval: 200
+ 
+  # Should Local Wormholes allow non-player entities to pass through?
+  allow_entities: true
+ 
+  # Particle Effect used for making deny ripples
+  # Particle Types: https://volmit.com/docs/directional-particle-types/
+  particle_type_deny_ripple: CRIT
+ 
+  # Should Wormholes project blocks from the other side?
+  enable_projections: true
+ 
+  # Show tips to people who can create and configure wormholes
+  show_tips: true
+ 
+  # The time (in ticks) a player must wait to use any portal after using any portal.
+  portal_cooldown: 100
+ 
+  # The default frame material for placing frames with the wand
+  wand_default_material: COAL_BLOCK
+ 
+  # Just send the player and let the other server handle where to spawn the player
+  bungeecord_send_only: false
+ 
+  # Toggle this to toggle sounds
+  enable_sound: true
+ 
+  # Define the default minimum distance for rtp portals
+  rtp_default_min_distance: 1000
+ 
+  # Drop key blocks as item drops when portal is broken
+  wormholes_drop_key_on_break: true
+ 
+  # In Ticks, Prevent block spam from portal wands (quickly at least)
+  wand_cooldown: 36
+ 
+  # Should Wormholes project entities from the other side?
+  enable_aperture: true
+ 
+  # The max size (width/height) a portal can be.
+  # Must be an odd number
+  max_portal_size: 9
+ 
+  # The max days a skin can be cached before being purged
+  skin_cache_purge_threshold: 30
+  allow_entitiy_types:
+  - DROPPED_ITEM
+  - EXPERIENCE_ORB
+  - AREA_EFFECT_CLOUD
+  - ELDER_GUARDIAN
+  - WITHER_SKELETON
+  - STRAY
+  - EGG
+  - LEASH_HITCH
+  - PAINTING
+  - ARROW
+  - SNOWBALL
+  - FIREBALL
+  - SMALL_FIREBALL
+  - ENDER_PEARL
+  - ENDER_SIGNAL
+  - SPLASH_POTION
+  - THROWN_EXP_BOTTLE
+  - ITEM_FRAME
+  - WITHER_SKULL
+  - PRIMED_TNT
+  - FALLING_BLOCK
+  - FIREWORK
+  - HUSK
+  - SPECTRAL_ARROW
+  - SHULKER_BULLET
+  - DRAGON_FIREBALL
+  - ZOMBIE_VILLAGER
+  - SKELETON_HORSE
+  - ZOMBIE_HORSE
+  - ARMOR_STAND
+  - DONKEY
+  - MULE
+  - EVOKER_FANGS
+  - EVOKER
+  - VEX
+  - VINDICATOR
+  - ILLUSIONER
+  - MINECART_COMMAND
+  - BOAT
+  - MINECART
+  - MINECART_CHEST
+  - MINECART_FURNACE
+  - MINECART_TNT
+  - MINECART_HOPPER
+  - MINECART_MOB_SPAWNER
+  - CREEPER
+  - SKELETON
+  - SPIDER
+  - GIANT
+  - ZOMBIE
+  - SLIME
+  - GHAST
+  - PIG_ZOMBIE
+  - ENDERMAN
+  - CAVE_SPIDER
+  - SILVERFISH
+  - BLAZE
+  - MAGMA_CUBE
+  - ENDER_DRAGON
+  - WITHER
+  - BAT
+  - WITCH
+  - ENDERMITE
+  - GUARDIAN
+  - SHULKER
+  - PIG
+  - SHEEP
+  - COW
+  - CHICKEN
+  - SQUID
+  - WOLF
+  - MUSHROOM_COW
+  - SNOWMAN
+  - OCELOT
+  - IRON_GOLEM
+  - HORSE
+  - RABBIT
+  - POLAR_BEAR
+  - LLAMA
+  - LLAMA_SPIT
+  - PARROT
+  - VILLAGER
+  - ENDER_CRYSTAL
+  - LINGERING_POTION
+  - FISHING_HOOK
+  - LIGHTNING
+  - WEATHER
+  - COMPLEX_PART
+  - TIPPED_ARROW
+  - UNKNOWN
+ 
+  # Should wormholes splash the console window on enable?
+  splash: true
+ 
+  # Define the default maximum distance for rtp portals
+  rtp_default_max_distance: 8000
+ 
+  # Automatically light portals when the last color block is placed
+  # Permission is still needed for this to work.
+  autobuild_portals: false

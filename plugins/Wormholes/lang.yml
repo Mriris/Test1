@@ -1,0 +1,294 @@
+lang:
+  menu:
+    rtp:
+ 
+      # Default: 'Auto Refresh'
+      autorefresh: Auto Refresh
+ 
+      # Default: 'Min Distance'
+      min: Min Distance
+ 
+      # Default: 'Target Biome'
+      target: Target Biome
+ 
+      # Default: 'Max Distance'
+      max: Max Distance
+ 
+      # Default: 'Random Teleport'
+      randomtp: Random Teleport
+ 
+    # Default: 'Actions'
+    actions: Actions
+ 
+    # Default: 'Destroy'
+    destroy: Destroy
+ 
+    # Default: 'Uni-Directional'
+    unidirectional: Uni-Directional
+ 
+    # Default: 'Entities'
+ 
+    # Default: 'Toggle the permission for entities to use this portal'
+    entities: Entities
+ 
+    # Default: 'Options'
+    options: Options
+ 
+    # Default: 'Project Entities'
+ 
+    # Default: 'Toggle entity projections'
+    aperture: Project Entities
+    random:
+ 
+      # Default: 'Random TP'
+ 
+      # Default: 'TP'
+      tp: Random TP
+ 
+    # Default: 'Project Blocks'
+ 
+    # Default: 'Toggle block projections'
+    project: Project Blocks
+ 
+    # Default: 'Exit'
+ 
+    # Default: 'Exit this menu (or just walk away from it)'
+    exit: Exit
+ 
+    # Default: 'Other'
+    other: Other
+ 
+    # Default: 'Bi-Directional'
+    bidirectional: Bi-Directional
+ 
+    # Default: 'Reverse Polarity'
+    reverse: Reverse Polarity
+ 
+    # Default: 'Set'
+    set: Set
+  description:
+ 
+    # Default: 'Position Cancelled'
+    poscancel: Position Cancelled
+ 
+    # Default: 'Left Click'
+    leftclick: Left Click
+    menu:
+ 
+      # Default: 'Entities'
+ 
+      # Default: 'Toggle the permission for entities to use this portal'
+      entities: Toggle the permission for entities to use this portal
+ 
+      # Default: 'Destroy this portal?'
+      destroyportal: Destroy this portal?
+ 
+      # Default: 'Reverse the 'front facing' direction of this portal.'
+ 
+      # Default: 'Polarity'
+      polarity: Reverse the 'front facing' direction of this portal.
+ 
+      # Default: 'Project Blocks'
+ 
+      # Default: 'Toggle block projections'
+      project: Toggle block projections
+ 
+      # Default: 'Setting portals to omni-directional will hide the destination.'
+      directional: Setting portals to omni-directional will hide the destination.
+ 
+      # Default: 'Project Entities'
+ 
+      # Default: 'Toggle entity projections'
+      aperture: Toggle entity projections
+ 
+      # Default: 'Exit'
+ 
+      # Default: 'Exit this menu (or just walk away from it)'
+      exit: Exit this menu (or just walk away from it)
+ 
+    # Default: 'Updated Portal Name'
+    updatename: Updated Portal Name
+ 
+    # Default: 'All Wormholes & Configs Reloaded'
+    reloaded: All Wormholes & Configs Reloaded
+ 
+    # Default: 'Lists all portals & links'
+    list: Lists all portals & links
+ 
+    # Default: 'Left click to confirm & place'
+    leftclickconfirm: Left click to confirm & place
+ 
+    # Default: 'Realtime sample information'
+    debug: Realtime sample information
+ 
+    # Default: 'Duplicate Portal Key'
+    dupekey: Duplicate Portal Key
+ 
+    # Default: 'Remove dead holograms within 6 blocks of you.'
+    wipeholo: Remove dead holograms within 6 blocks of you.
+ 
+    # Default: 'System Information'
+    system: System Information
+ 
+    # Default: 'Portal Wand'
+    portalwand: Portal Wand
+ 
+    # Default: 'Unable to Configure'
+    unabletoconfigure: Unable to Configure
+ 
+    # Default: 'Reloads Wormholes & Configs'
+    reload: Reloads Wormholes & Configs
+ 
+    # Default: 'Version Information'
+    version: Version Information
+ 
+    # Default: 'Position Selected'
+    posselect: Position Selected
+ 
+    # Default: 'Teleport to this portal'
+    teleport: Teleport to this portal
+ 
+    # Default: 'Please Wait...'
+    pleasewait: Please Wait...
+ 
+    # Default: 'You must wait before teleporting.'
+    waitforteleport: You must wait before teleporting.
+ 
+    # Default: 'Lists all portals & links'
+ 
+    # Default: 'Delete'
+    delete: Lists all portals & links
+ 
+    # Default: 'Invalid Portal Position'
+    invalidpos: Invalid Portal Position
+ 
+    # Default: 'Ingame (player) only'
+    ingameonly: Ingame (player) only
+ 
+    # Default: 'Invalid Portal Key'
+    invalidkey: Invalid Portal Key
+ 
+    # Default: 'Someone else is configuring this portal.'
+    someoneelseconfiguring: Someone else is configuring this portal.
+ 
+    # Default: 'Frame Placed'
+    frameplaced: Frame Placed
+ 
+    # Default: 'Shift + Scroll'
+    shiftscroll: Shift + Scroll
+ 
+    # Default: 'Get a Portal Building Wand'
+    wand: Get a Portal Building Wand
+ 
+    # Default: 'Click to hide tips for just you.'
+ 
+    # Default: 'HIDE TIPS'
+    hidetips: Click to hide tips for just you.
+ 
+    # Default: 'Place frame'
+    placeframe: Place frame
+ 
+    # Default: 'Change portal size'
+    changesize: Change portal size
+ 
+    # Default: 'No Permission'
+    nopermission: No Permission
+ 
+    # Default: 'Cooldown Active'
+    cooldownactive: Cooldown Active
+ 
+    # Default: 'Pull internal timings data'
+    timings: Pull internal timings data
+  status:
+ 
+    # Default: 'PRJ'
+    prj: PRJ
+ 
+    # Default: 'APV'
+    apv: APV
+ 
+    # Default: 'MCV'
+    mcv: MCV
+ 
+    # Default: 'BNJ'
+    bnj: BNJ
+ 
+    # Default: 'NET'
+    net: NET
+ 
+    # Default: 'LPV'
+    lpv: LPV
+ 
+    # Default: 'WRK'
+    wrk: WRK
+ 
+    # Default: 'POW'
+    pow: POW
+  word:
+ 
+    # Default: 'Worker'
+    worker: Worker
+ 
+    # Default: 'Async'
+    async: Async
+ 
+    # Default: 'Utilization'
+    utilization: Utilization
+ 
+    # Default: 'Threads'
+    threads: Threads
+ 
+    # Default: 'Local'
+    local: Local
+ 
+    # Default: 'Mutex'
+    mutex: Mutex
+    'no': 'No'
+ 
+    # Default: 'Endpoint'
+    endpoint: Endpoint
+ 
+    # Default: 'Reverse the 'front facing' direction of this portal.'
+ 
+    # Default: 'Polarity'
+    polarity: Polarity
+ 
+    # Default: 'Link'
+    link: Link
+ 
+    # Default: 'Portal'
+    portal: Portal
+ 
+    # Default: 'Running'
+    running: Running
+ 
+    # Default: 'Effective TPS'
+    effectivetps: Effective TPS
+ 
+    # Default: 'Portals'
+    portals: Portals
+ 
+    # Default: 'Sync'
+    sync: Sync
+ 
+    # Default: 'Random TP'
+ 
+    # Default: 'TP'
+    tp: TP
+ 
+    # Default: 'Lists all portals & links'
+ 
+    # Default: 'Delete'
+    delete: Delete
+ 
+    # Default: 'Size'
+    size: Size
+ 
+    # Default: 'Power'
+    power: Power
+  button:
+ 
+    # Default: 'Click to hide tips for just you.'
+ 
+    # Default: 'HIDE TIPS'
+    hidetips: HIDE TIPS

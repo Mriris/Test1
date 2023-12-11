@@ -1,0 +1,206 @@
+signs:
+  text: '[interesting]'
+  NeedPermissionToCreateSign: true
+shop:
+  marry:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - marry
+    MenuItem:
+    - id:38
+    - amount:1
+    - name:&c&l结婚
+    - lore:&5&l请自行百度！
+    - amount:1
+    InventoryLocation: 1
+    ExtraPermission: ''
+  trail:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - trails
+    MenuItem:
+    - id:50
+    - amount:1
+    - name:&b&l粒子特效
+    - lore:&5&l限时免费！
+    - amount:1
+    InventoryLocation: 2
+    ExtraPermission: ''
+  FPS:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - lr lagg
+    MenuItem:
+    - id:339
+    - amount:1
+    - name:&e&l延迟检测
+    - lore:&5&l20说明无延迟#&6&l越低说明延迟越高
+    - amount:1
+    InventoryLocation: 3
+    ExtraPermission: ''
+  glow:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - glow
+    MenuItem:
+    - id:76
+    - amount:1
+    - name:&e&lVIP发光
+    - lore:&5&lVIP说光#&4于是世界上便有了光
+    - amount:1
+    InventoryLocation: 4
+    ExtraPermission: ''
+  friends:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - f
+    MenuItem:
+    - id:260
+    - amount:1
+    - name:&a&l好友
+    - lore:&5&l输入&n/f add 名字&5可以发送好友请求哦~
+    - amount:1
+    InventoryLocation: 5
+    ExtraPermission: ''
+  blood:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - blood
+    MenuItem:
+    - id:351:1
+    - amount:1
+    - name:&4&l血液效果
+    - lore:&5溅血
+    - amount:1
+    InventoryLocation: 6
+    ExtraPermission: ''
+  points:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - p me
+    MenuItem:
+    - id:388
+    - amount:1
+    - name:&a&l点券查询
+    - lore:&e&l看看自己攒了多少点券啦~
+    - amount:1
+    InventoryLocation: 7
+    ExtraPermission: ''
+  fuhao:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - emotichat
+    MenuItem:
+    - id:41
+    - amount:1
+    - name:&e&l特殊符号
+    - lore:&b&l查看特殊符号使用方法#&5&l点一下就行！
+    - amount:1
+    InventoryLocation: 8
+    ExtraPermission: ''
+  biaoqing1:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mfc first
+    MenuItem:
+    - id:35:1
+    - amount:1
+    - name:&e&l表情1号
+    - amount:1
+    InventoryLocation: 9
+    ExtraPermission: ''
+  biaoqing2:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mfc second
+    MenuItem:
+    - id:35:2
+    - amount:1
+    - name:&e&l表情2号
+    - amount:1
+    InventoryLocation: 10
+    ExtraPermission: ''
+  biaoqing3:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mfc color
+    MenuItem:
+    - id:35:3
+    - amount:1
+    - name:&e&l表情3号
+    - amount:1
+    InventoryLocation: 11
+    ExtraPermission: ''
+  biaoqing4:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mfc zero_xilo
+    MenuItem:
+    - id:35:4
+    - amount:1
+    - name:&e&l表情插件作者大大
+    - amount:1
+    InventoryLocation: 12
+    ExtraPermission: ''
+  gjon:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - gj on
+    - gj help
+    MenuItem:
+    - id:95:5
+    - amount:1
+    - name:&a&l开始挂机
+    - lore:&e&l&n输入/gj off结束挂机
+    - amount:1
+    InventoryLocation: 13
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&c返回
+    - lore:&e点击返回主菜单
+    Message: '&6已返回到主菜单...'
+    InventoryLocation: 18
+    ExtraPermission: ''
+# 配置文件版本,重要,请勿修改
+# 插件升级配置的时候需要用到
+version: '1.2'
+Setting:
+  # 进入商店时的消息,如果留空,则不显示消息
+  EnterMessage: ''
+  # 离开商店时的消息,如果留空,则不显示消息
+  LeaveMessage: ''
+  # 如果为true,则该商店为抽奖商店
+  ShopTypeSpecial: false
+  # 右击物品时,商品默认的购买数量
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  RightClickBuyCount: 1
+  # 玩家是否可以设置右键购买数量
+  # 免费物品强制不能设置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  AllowChangeRightClickBuyCount: false
+  # 当右键购买数量大于1时,显示右键购买数量
+  # 物品设置为false可以用来自定义右键购买数量Lore消息
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  ShowRightClickBuyCount: true
+  # 商品属性显示配置,说明参考配置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  HideItemFlag: 63

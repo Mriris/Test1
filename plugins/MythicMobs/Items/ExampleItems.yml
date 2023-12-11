@@ -1,0 +1,122 @@
+SkeletonKingSword:
+  Id: 276
+  Data: 0
+  Display: '&3Greatsword of the Skeleton King'
+  Lore:
+  - '&6A powerful sword used by'
+  - '&6the King of Skeletons.'
+  Enchantments:
+  - DAMAGE_ALL:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  Options:
+    Health: 10
+    MovementSpeed: 0.1
+KingsCrown:
+  Id: 314
+  Data: 0
+  Amount: 1
+  Display: '&dCrown of the King'
+  Lore:
+  - '&6A kingly crowl that grants'
+  - '&6the wearer unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:2
+  - PROTECTION_PROJECTILE:2
+  - PROTECTION_FIRE:2
+  - PROTECTION_EXPLOSIONS:2
+  Options:
+    Health: 10
+    KnockbackResistance: 10
+BanditTunic:
+  Id: 299
+  Display: '&aBandit Tunic'
+  Lore:
+  - '&6A leather tunic taken from'
+  - '&6the corpse of a bandit.'
+  Options:
+    Color: 255,40,40
+D1:
+  Id: 319
+  Display: '&c生猪肉'
+  Lore: 
+  - '&a新鲜无污染的猪肉'
+D2:
+  Id: 411
+  Display: '&4野狼肉'
+D3:
+  Id: 336
+  Display: '&4血肉'
+hb:
+  Id: 353
+  Display: '&c有机物'
+  Lore:
+  - '&6货币'
+yb:
+  Id: 265
+  Display: '&7银币'
+jb:
+  Id: 266
+  Display: '&e金币'
+D5:
+  Id: 338
+  Display: '&5有些阴森的甘蔗'
+N1:
+  Id: 368
+  Display: '&b末影之心'
+N2:
+  Id: 381
+  Display: '&5末影核心'
+N3:
+  Id: 399
+  Display: '&e下届核心'
+X1:
+  Id: 364
+  Display: '&b有煞气的牛肉'
+X2:
+  Id: 397:3
+  Display: '&5&l蟾蜍头颅'
+X3:
+  Id: 353
+  Display: '&f浓缩的甘蔗'
+W1:
+  Id: 381
+  Display: '&4&l蛛王之眼'
+  Lore:
+  - '&c杀死蛛王的证明！'
+W2:
+  Id: 375
+  Display: '&c血瞳之眼'
+  Lore:
+  - '&4好像还残留着仇恨'
+W3:
+  Id: 367
+  Display: '&2碎尸'
+  Lore:
+  - '&4恶心'
+W4:
+  Id: 367
+  Display: '&2断臂'
+  Lore:
+  - '&5还是恶心QAQ'
+HYZ:
+  Id: 353
+  Display: '&f&l化合物'
+  Lore:
+  - '&6国际通用货币'
+  - '&5几乎可以在任何地方使用'
+1:
+  Id: 320
+  Display: '&a核注入&c猪肉'
+  Lore:
+  - '&5防伪标志'
+R1:
+  Id: 175
+  Display: '&c&l生态核心'
+  Lore:
+  - '&a生态球动物的内核'
+R2:
+  Id: 320
+  Display: '&c美味猪肉'
+  Lore:
+  - '&6点燃有机物烤得外焦里嫩的猪肉'

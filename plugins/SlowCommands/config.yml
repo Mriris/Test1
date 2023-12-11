@@ -1,0 +1,3 @@
+SlowCommands:
+  tp:
+    message: 请输入坐标

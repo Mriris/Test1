@@ -1,0 +1,1041 @@
+USP:
+    Item_Information:
+        Item_Name: "&eUSP"
+        Item_Type: 269
+        Item_Lore: "&6特种部队使用的手枪|&6配装有通用型探照灯|&6右键瞄准时可夜视|&b弹夹容量较高，但威力偏小。"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Recoil_Amount: 1
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 30
+        Projectile_Damage: 3
+        Bullet_Spread: 1
+        Sounds_Shoot: ZOMBIE_WOOD-1-1-0,GHAST_FIREBALL-1-1-0
+    Custom_Death_Message:
+        Normal: "&e<victim> 被 <shooter> 使用USP击毙"
+    Scope:
+        Enable: true
+        Night_Vision: true
+        Zoom_Amount: 5
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 361     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 15
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 35
+        Sounds_Reloading: LEVEL_UP-1-1-10,FIRE_IGNITE-1-2-28
+西部左轮:
+    Item_Information:
+        Item_Name: "&e柯尔特M1873[新手枪]"
+        Item_Type: 280
+        Item_Lore: "&6单动式转轮手枪|&6一把传奇式的左轮枪|&6是西部牛仔管用的左轮手枪|&b[无限子弹]换弹较慢|&a伤害较高|&6生死全在一瞬间!"
+        Sounds_Acquired: ENTITY_BAT_TAKEOFF-1-1-0
+    Shooting:
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Recoil_Amount: 1
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 30
+        Projectile_Damage: 6
+        Bullet_Spread: 1
+        Sounds_Shoot: block_NOTE_PLING-0.1-1-0,ENTITY_ZOMBIE_HORSE_HURT-1-2-0
+    Custom_Death_Message:
+        Normal: "&e<victim> 被 <shooter> 使用柯尔特击毙"
+    Scope:
+        Enable: true
+        Night_Vision: false
+        Zoom_Amount: 5
+    Reload:
+        Enable: true
+        Reload_Amount: 6
+        Reload_Bullets_Individually: true
+        Reload_Duration: 20
+        Sounds_Reloading: IRONGOLEM_THROW-1-2-0
+燧发枪:
+    Item_Information:
+        Item_Name: "&0&l燧发枪"
+        Item_Type: 0417
+        Item_Lore: "一种威力适中，连发性弱,射程低的枪械。"
+        Sounds_Acquired: ENTITY_BAT_TAKEOFF-1-1-0
+    Shooting:
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Recoil_Amount: 17
+        Projectile_Amount: 1
+        Projectile_Type: fireball
+        Projectile_Speed: 20
+        Projectile_Damage: 12
+        Bullet_Spread: 8
+        Sounds_Shoot: ENTITY_BLAZE_HIT-1-2-0,ENTITY_ZOMBIE_WOOD-1-2-0
+    Custom_Death_Message:
+        Normal: "&b<shooter> 使用 xxx 把 <victim> 枪毙"
+    Scope:
+        Enable: true
+        Night_Vision: true
+        Zoom_Amount: 2
+    Ammo:
+        Enable: true
+        Ammo_Item_ID: 0318
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 1
+        Take_Ammo_On_Reload: true
+        Reload_Bullets_Individually: true
+        Reload_Duration: 0.6
+        Sounds_Reloading: IRONGOLEM_THROW-1-2-0
+
+redeemer:
+    Item_Information:
+        Item_Name: "&e?救世主?"
+        Item_Type: 293
+        Item_Lore: "&c有10%几率造成暴击.|&5左键切换为榴弹|&6右键切换为机枪|&b武器切换0.25秒."
+        Attachments:
+            Type: main
+            Info: "M320"
+            Toggle_Delay: 5
+            Sounds_Toggle: NOTE_STICKS-1-2-0
+        Sounds_Acquired: ENTITY_BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Interactions: true
+        Cancel_Right_Click_Block_Damage: true
+        Delay_Between_Shots: 3
+        Recoil_Amount: 1
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 40
+        Projectile_Damage: 5
+        Bullet_Spread: 0.5
+        Sounds_Shoot: BLAZE_HIT-1-2-0,ZOMBIE_WOOD-1-2-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 0.4
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 2
+        Delay_Between_Shots_In_Burst: 5
+    Reload:
+        Enable: true
+        Reload_Amount: 70
+        Reload_Duration: 30
+        Sounds_Reloading: SKELETON_IDLE-1-0-0,FIRE_IGNITE-1-1-14,DOOR_OPEN-1-2-16,FIRE_IGNITE-1-1-26,HURT_FLESH-1-0-27,DOOR_CLOSE-1-2-28
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Sound_Close: CLICK-1-1-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Particles:
+        Enable: true
+        Particle_Impact_Anything: BLOCK_BREAK-80
+        Particle_Critical: BLOCK_BREAK-55
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Critical_Hits:
+        Enable: true
+        Bonus_Damage: 10
+        Chance: 10
+        Sounds_Shooter: ORB_PICKUP-1-2-0
+    Custom_Death_Message:
+        Normal: "&e<victim> 拜倒在了 <shooter> 的武器救世主面前!"
+
+Deagle:
+    Item_Information:
+        Item_Name: "&f双持沙鹰"
+        Item_Type: 256
+        Item_Lore: "&e沙漠之鹰，于1980年由MRI发布.|&e沙鹰本身就是一种重型手枪.|&e在双持之后更是弥补了弹药上的缺陷|&e只是后坐力稍大，双倍威力，双倍耗弹。"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Dual_Wield: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 2
+        Recoil_Amount: 2
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 40
+        Projectile_Damage: 5
+        Bullet_Spread: 1
+        Sounds_Shoot: ZOMBIE_WOOD-1-1-0,GHAST_FIREBALL-1-1-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 0.75
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 361     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 7
+        Reload_Duration: 40
+        Take_Ammo_On_Reload: true
+        Sounds_Out_Of_Ammo: CLICK-1-1-0
+        Sounds_Reloading: DOOR_OPEN-1-2-4,DOOR_OPEN-1-2-8,DOOR_CLOSE-1-2-23,DOOR_CLOSE-1-2-38
+        Dual_Wield:
+            Single_Reload_Duration: 25
+            Sounds_Single_Reload: DOOR_OPEN-1-2-4,DOOR_CLOSE-1-2-23
+            Sounds_Shoot_With_No_Ammo: CLICK-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Backstab:
+        Enable: true
+        Bonus_Damage: 2
+        Sounds_Shooter: ORB_PICKUP-1-2-0
+    Particles:
+        Enable: true
+        Particle_Backstab: BLOCK_BREAK-55
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Custom_Death_Message:
+        Normal: "&b<victim>被<shooter>使用武器&b[双持沙鹰]&b当场击毙"
+
+RPG:
+    Item_Information:
+        Item_Name: "&eRPG"
+        Item_Type: 417
+        Item_Lore: "&e肩扛式火箭发射器.|&e拥有火灭性的破坏力|&e爆炸范围6米.|&e枪械类型：火箭筒."
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+        Inventory_Control: Group_Bazookas
+    Shooting:
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Recoil_Amount: 2
+        Projectile_Amount: 1
+        Projectile_Type: fireball
+        Projectile_Speed: 10
+        Sounds_Shoot: ZOMBIE_WOOD-1-0-0,FIZZ-1-1-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+    Abilities:
+        No_Fall_Damage: true
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 396     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 1
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 55
+        Sounds_Reloading: SKELETON_IDLE-1-0-10,PISTON_EXTEND-1-0-28,SKELETON_WALK-1-0-48
+    Particles:
+        Enable: true
+        Particle_Player_Shoot: BLOCK_BREAK-35
+    Shrapnel:
+        Enable: true
+        Block_Type: 77
+        Amount: 14
+        Speed: 7
+    Explosions:
+        Enable: true
+        Knockback: 5
+        Damage_Multiplier: 20
+        Enable_Friendly_Fire: true
+        Explosion_No_Grief: false
+        Explosion_Radius: 6
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Custom_Death_Message:
+        Normal: "&e<victim> 被 <shooter> 的武器RPG轰成了渣!"
+
+Python:
+    Item_Information:
+        Item_Name: "&c沙鹰—修罗"
+        Item_Type: 273
+        Item_Lore: "&e专属武器沙鹰—修罗|&f右键开枪，左键可拔出匕首击杀敌人（秒杀）|枪械类型：手枪"
+        Melee_Attachment: Tactical_Knife
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 2
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 40
+        Projectile_Damage: 6
+        Bullet_Spread: 0.5
+        Sounds_Shoot: IRONGOLEM_HIT-1-2-0,ZOMBIE_METAL-1-2-0
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 361     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 7
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 35
+        Sounds_Reloading: LEVEL_UP-1-1-10,FIRE_IGNITE-1-2-28
+    Firearm_Action:
+        Type: revolver
+        Open_Duration: 5
+        Close_Duration: 5
+        Sound_Open: DOOR_OPEN-1-2-0
+        Sound_Close: DOOR_CLOSE-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Custom_Death_Message:
+        Normal: "&e<victim> 被 <shooter> 的武器沙鹰—修罗秒杀!"
+
+Riotshield:
+    Item_Information:
+        Item_Name: "&e防暴盾牌"
+        Item_Type: 267
+        Item_Lore: "&e右键可阻挡正面的枪械伤害.|&e右键可阻挡正面的伤害.|&e枪械类型：震暴防具."
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+        Remove_Unused_Tag: true
+    Riot_Shield:
+        Enable: true
+        Durability_Loss_Per_Hit: 1
+        Sounds_Blocked: GLASS-2-2-0
+        Sounds_Break: ITEM_BREAK-2-1-0
+
+Olympia:
+    Item_Information:
+        Item_Name: "&e双管猎枪"
+        Item_Type: 270
+        Item_Lore: "&e双管猎枪前身为镇暴枪|&e这种武器采用中折式装填的原理，每次只能装填两发霰弹。|&e枪械类型：散弹枪."
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 3
+        Recoil_Amount: 5
+        Projectile_Amount: 8
+        Projectile_Type: snowball
+        Removal_Or_Drag_Delay: 4-false
+        Projectile_Speed: 30
+        Projectile_Damage: 5
+        Projectile_Incendiary:
+            Enable: true
+            Duration: 80
+        Bullet_Spread: 1
+        Reset_Fall_Distance: true
+        Sounds_Shoot: ZOMBIE_WOOD-1-1-0,EXPLODE-1-2-0,GHAST_FIREBALL-1-1-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 362     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 2
+        Take_Ammo_On_Reload: true
+        Reload_Bullets_Individually: true
+        Reload_Duration: 15
+        Sounds_Reloading: NOTE_STICKS-1-1-0,NOTE_SNARE_DRUM-1-6-1
+    Firearm_Action:
+        Type: break
+        Open_Duration: 10
+        Close_Duration: 15
+        Sound_Open: DOOR_OPEN-1-2-0
+        Sound_Close: DOOR_CLOSE-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+        No_Fall_Damage: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Damage_Based_On_Flight_Time:
+        Enable: true
+        Bonus_Damage_Per_Tick: -1
+        Maximum_Damage: -4
+    Particles:
+        Enable: true
+        Particle_Player_Shoot: FLAMES-1
+        Particle_Impact_Anything: BLOCK_BREAK-51
+    Custom_Death_Message:
+        Normal: "&e<victim> 被 <shooter> 的武器双管猎枪打成了筛子!"
+
+Brratter:
+    Item_Information:
+        Item_Name: "&e&m巴雷特-极光"
+        Item_Type: 258
+        Item_Lore: "&e爆头必杀，集中其他部位也会造成高额的伤害|&6击中头部后会有一道烟花"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 100
+        Projectile_Damage: 12
+        Sounds_Shoot: ZOMBIE_WOOD-1-1.5-0,ZOMBIE_METAL-1-2-0,EXPLODE-1-0-0,DOOR_OPEN-1-0-15,HURT_FLESH-1-2-32
+    Custom_Death_Message:
+        Normal: "&e<victim> 被狙击手 <shooter> 的武器巴雷特狙杀!"
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 318     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Starting_Amount: 0
+        Reload_Amount: 5
+        Take_Ammo_On_Reload: true
+        Reload_Bullets_Individually: true
+        Reload_Duration: 10
+        Sounds_Reloading: NOTE_STICKS-1-1-0
+    Firearm_Action:
+        Type: bolt
+        Open_Duration: 8
+        Close_Duration: 7
+        Close_Shoot_Delay: 6
+        Sound_Open: NOTE_STICKS-1-0-0,PISTON_RETRACT-1-2-2
+        Sound_Close: PISTON_EXTEND-1-2-0
+    Headshot:
+        Enable: true
+        Bonus_Damage: 50
+        Sounds_Shooter: NOTE_PLING-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+        Knockback: 3
+    Particles:
+        Enable: true
+        Particle_Player_Shoot: BLOCK_BREAK-1
+        Particle_Terrain: true
+    Fireworks:
+        Enable: true
+        Firework_Headshot: STAR-TRUE-TRUE-250-0-0
+    Scope:
+        Enable: true
+        Night_Vision: true
+        Zoom_Amount: 5
+        Sounds_Toggle_Zoom: NOTE_STICKS-1-2-0
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+
+Type95:
+    Item_Information:
+        Item_Name: "&eType 95"
+        Item_Type: 291
+        Item_Lore: "&e国产95-1式自动步枪|&e枪械类型：步枪[3点发式]"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    SignShops:
+        Enable: true
+        Price: 266-10
+        Sign_Gun_ID: 95
+    Shooting:
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 7
+        Recoil_Amount: 1
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 40
+        Projectile_Damage: 4
+        Bullet_Spread: 2
+        Sounds_Shoot: ITEM_BREAK-1-2-2,NOTE_SNARE_DRUM-1-0-2
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 3
+        Delay_Between_Shots_In_Burst: 2
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 295     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 30
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 40
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-2
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Custom_Death_Message:
+        Normal: "&e<victim> 被 <shooter> 的武器国产95式步枪击杀!"
+
+AK-47:
+    Item_Information:
+        Item_Name: "&e[AK-47]"
+        Item_Type: 292
+        Item_Lore: "&eAK-47是由苏联设计的自动步枪|&e与第二次世界大战时期的步枪相比|&e射程较短适合较近距离的战斗|&e枪械类型：步枪"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 4
+        Recoil_Amount: 1
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 40
+        Projectile_Damage: 4
+        Bullet_Spread: 2
+        Sounds_Shoot: IRONGOLEM_HIT-1-2-0,SKELETON_HURT-1-2-0,ZOMBIE_WOOD-1-2-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 2
+        Delay_Between_Shots_In_Burst: 3
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 295     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 30
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 40
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Close_Shoot_Delay: 12
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-3
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Custom_Death_Message:
+        Normal: "&e<victim> 被 <shooter> 的武器AK-47击杀!"
+
+能量飞行器:
+    Item_Information:
+        Item_Name: "&d能量飞行装置"
+        Item_Type: 288
+        Item_Lore: "&6|&4能量飞行装置。|&6能量飞行装置无摔落伤害速度提升能量增加。|&6[&4★&6威力：？]|&6[&4★&6后坐力：？]|&6[&4★&6射速：？]"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 0
+        Recoil_Amount: -24
+        Projectile_Amount: 2
+        Projectile_Type: Energy
+        Projectile_Subtype: 1-1-0-0
+        Projectile_Damage: 3.2
+        Bullet_Spread: 7
+        Sounds_Shoot: ENDERDRAGON_WINGS-1-1-0,GHAST_FIREBALL-1-2-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 2
+        Delay_Between_Shots_In_Burst: 3
+    Reload:
+        Enable: true
+        Reload_Amount: 300
+        Reload_Bullets_Individually: true
+        Reload_Duration: 15
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-3
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+        No_Fall_Damage: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+激光:
+    Item_Information:
+        Item_Name: "&d等离子激光步枪"
+        Item_Type: 369
+        Item_Lore: "&6|&4等离子激光步枪。|&6精英特殊武器系列枪械系列的天敌爆炸属性和无敌的射速。|&6[&4★&6威力：C+]|&6[&4★&6后坐力：3]|&6[&4★&6射速：无限]"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 0
+        Recoil_Amount: 0
+        Projectile_Amount: 1
+        Projectile_Type: arrow
+        Projectile_Speed: 10000
+        Projectile_Damage: 1
+        Bullet_Spread: 0.01
+        Sounds_Shoot: IRONGOLEM_HIT-1-2-0,ZOMBIE_METAL-1-2-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 1
+        Delay_Between_Shots_In_Burst: 3
+    Reload:
+        Enable: true
+        Reload_Amount: 50
+        Reload_Duration: 100
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-3
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Particles:
+        Enable: true
+        Particle_Player_Shoot: BLOCK_BREAK-90
+        Particle_Impact_Anything: BLOCK_BREAK-55
+    Shrapnel:
+        Enable: true
+        Block_Type: 119
+        Amount: 100
+        Speed: 10
+    Explosions:
+        Enable: true
+        Knockback: 5
+        Damage_Multiplier: 20
+        Explosion_No_Grief: true
+        Explosion_Radius: 2
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+追踪炮:
+    Item_Information:
+        Item_Name: "&0生物追踪器"
+        Item_Type: 378
+        Item_Lore: "&d生物追踪器 危险级别：SSS"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 4
+        Recoil_Amount: 0
+        Projectile_Amount: 1
+        Projectile_Type: arrow
+        Projectile_Speed: 10000
+        Projectile_Damage: 0
+        Bullet_Spread: 0.01
+        Sounds_Shoot: IRONGOLEM_HIT-1-2-0,SKELETON_HURT-1-2-0,ZOMBIE_WOOD-1-2-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 2
+        Delay_Between_Shots_In_Burst: 3
+    Reload:
+        Enable: true
+        Reload_Amount: 100
+        Reload_Duration: 120
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-3
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: IRONGOLEM_HIT-1-2-0,ZOMBIE_METAL-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Spawn_Entity_On_Hit:
+        Enable: true
+        Chance: 100
+        Mob_Name: Zombie
+        EntityType_Baby_Explode_Amount: Zombie-TRUE-TRUE-3 
+        Timed_Death: 100
+炮台:
+    Item_Information:
+        Item_Name: "&b半自动炮台"
+        Item_Type: 345
+        Item_Lore: "&b半自动炮台|&b可设置三个炮台|&b炮台会统一攻击你所指的地方!"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Projectile_Amount: 1
+        Delay_Between_Shots: 60
+        Projectile_Type: snowball
+        Projectile_Flames: true
+        Projectile_Damage: 4
+        Bullet_Spread: 1.2
+        Projectile_Speed: 32
+        Sounds_Shoot: WITHER_SHOOT-1-2-0,EXPLODE-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 300
+        Reload_Bullets_Individually: false
+        Reload_Duration: 100
+        Sounds_Reloading: IRONGOLEM_THROW-1-2-0
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 300
+        Delay_Between_Shots_In_Burst: 3
+M203-钢铁:
+    Item_Information:
+        Item_Name: "&dM203-钢铁"
+        Item_Type: 418
+        Item_Lore: "&6|&4M203-钢铁。|&6精英特殊武器系列枪械系列的天敌范围爆炸属性中远程攻击。|&6[&4★&6威力：A++]|&6[&4★&6后坐力：3]|&6[&4★&6射速：20]"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 4
+        Recoil_Amount: 0
+        Projectile_Amount: 1
+        Projectile_Type: egg
+        Projectile_Speed: 20
+        Projectile_Damage: 5
+        Bullet_Spread: 0.01
+        Sounds_Shoot: IRONGOLEM_HIT-1-2-0,ZOMBIE_METAL-1-2-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 1
+        Delay_Between_Shots_In_Burst: 3
+    Ammo:
+        Enable: true
+        Ammo_Item_ID: 396
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 7
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 100
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-3
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Shrapnel:
+        Enable: true
+        Block_Type: 119
+        Amount: 100
+        Speed: 25
+    Explosions:
+        Enable: true
+        Damage_Multiplier: 22
+        Explosion_No_Grief: true
+        Explosion_Radius: 4
+        On_Impact_With_Anything: true
+        Projectile_Activation_Time: 5
+        Sounds_Shooter: SHOOT_ARROW-2-2-0
+白龙炮:
+    Item_Information:
+        Item_Name: "&d白龙炮"
+        Item_Type: 419
+        Item_Lore: "&6|&4白龙袍。|&6精英特殊武器系列枪械系列的天敌范围爆炸属性中远程大范围攻击。|&6[&4★&6威力：S+]|&6[&4★&6后坐力：3]|&6[&4★&6射速：20]"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 4
+        Recoil_Amount: 0
+        Projectile_Amount: 5
+        Projectile_Type: egg
+        Projectile_Speed: 17
+        Projectile_Damage: 10
+        Projectile_Flames: true
+        Bullet_Spread: 1
+        Sounds_Shoot: IRONGOLEM_HIT-1-2-0,ZOMBIE_METAL-1-2-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 1
+        Delay_Between_Shots_In_Burst: 3
+    Ammo:
+        Enable: true
+        Ammo_Item_ID: 396
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 2
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 100
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-3
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Explosions:
+        Enable: true
+        Damage_Multiplier: 15
+        Explosion_No_Grief: true
+        Explosion_Radius: 4
+        On_Impact_With_Anything: true
+        Projectile_Activation_Time: 5
+        Sounds_Shooter: SHOOT_ARROW-2-2-0
+TSB:
+    Item_Information:
+        Item_Name: "&d&l巴雷特-天煞"
+        Item_Type: 279
+        Item_Lore: "&7|&f由神域工匠打造的一把毁灭性武器|&f子弹的收集完全由自然提供|&f拥有恐怖的破坏力和取之不尽的弹药|&7[威力：30]|&7[后坐力：4]|&7[射速:500]"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: false
+        Delay_Between_Shots: 36
+        Recoil_Amount: 4
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 600
+        Projectile_Damage: 30
+        Bullet_Spread: 0.1
+        Sounds_Shoot: ZOMBIE_WOOD-1-1.5-0,ZOMBIE_METAL-1-2-0,EXPLODE-1-0-0,DOOR_OPEN-1-0-15,HURT_FLESH-1-2-32
+    Reload:
+        Enable: true
+        Take_Ammo_On_Reload: true
+        Reload_Amount: 8
+        Reload_Duration: 70
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-8,DOOR_OPEN-1-2-20,ZOMBIE_METAL-1-0-35,FIRE_IGNITE-1-1-42,DOOR_CLOSE-1-2-55,DOOR_OPEN-1-0-60,HURT_FLESH-1-2-77
+    Firearm_Action:
+        Type: slide
+        Open_Duration: 5
+        Close_Duration: 5
+        Sound_Open: DOOR_OPEN-1-2-0
+        Sound_Close: DOOR_CLOSE-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 1
+        Delay_Between_Shots_In_Burst: 2
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: HURT_FLESH-1-1-0
+    Particles:
+        Enable: true
+        Particle_Player_Shoot: BLOCK_BREAK-51
+        Particle_Impact_Anything: BLOCK_BREAK-90
+        Particle_Hit: BLOCK_BREAK-55
+        Particle_Headshot: BLOCK_BREAK-152
+    Ammo:
+        Enable: false
+        Ammo_Item_ID: 264
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Scope:
+        Enable: true
+        Zoom_Amount: 10
+        Zoom_Bullet_Spread: 0
+        Night_Vision: false
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Headshot:
+        Enable: true
+        Bonus_Damage: 40
+        Sounds_Shooter: ORB_PICKUP-2-2-0
+        Sounds_Victim: ZOMBIE_WOODBREAK-1-1-0
+    Potion_Effects:
+        Activation: head,hit
+        Potion_Effect_Shooter: HUNGER-120-1
+        Potion_Effect_Victim: CONFUSION-90-1,BLINDNESS-90-1,HARM-90-2
+M1216:
+    Item_Information:
+        Item_Name: "&d&lM1216-水晶风暴"
+        Item_Type: 277
+        Item_Lore: "&e|&f非常容易上手的枪，但效果翻倍增强。|&f子弹增加威力提升射速提升。|&7[威力：5]|&7[后坐力：1]|&7[射速：无限]"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 4
+        Recoil_Amount: 1
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 70
+        Projectile_Damage: 5
+        Bullet_Spread: 0.1
+        Sounds_Shoot: ZOMBIE_WOOD-1-1-0,EXPLODE-1-2-0,GHAST_FIREBALL-1-1-0
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 2
+        Delay_Between_Shots_In_Burst: 3
+    Ammo:
+        Enable: true
+        Ammo_Item_ID: 361
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 45
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 45
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-3
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Particles:
+        Enable: true
+        Particle_Player_Shoot: BLOCK_BREAK-11
+        Particle_Impact_Anything: BLOCK_BREAK-55
+    Potion_Effects:
+        Activation: head,hit
+        Potion_Effect_Shooter: JUMP-120-3,SPEED-120-3
+        Potion_Effect_Victim: POISON-90-1,WEAKNESS-90-1
+jinAK:
+    Item_Information:
+        Item_Name: "&e黄金AK-47"
+        Item_Type: 294
+        Item_Lore: "&e黄金AK与其说是一种武器|&e倒不如说是一种奢侈品|&e最早出现在伊拉卡一代|&e是反叛军的一种奢侈品|&e枪械类型：步枪"
+        Sounds_Acquired: BAT_TAKEOFF-1-1-0
+    Shooting:
+        Right_Click_To_Shoot: true
+        Cancel_Left_Click_Block_Damage: true
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 4
+        Recoil_Amount: 1
+        Projectile_Amount: 1
+        Projectile_Type: snowball
+        Projectile_Speed: 40
+        Projectile_Damage: 7
+        Bullet_Spread: 2
+        Sounds_Shoot: IRONGOLEM_HIT-1-2-0,SKELETON_HURT-1-2-0,ZOMBIE_WOOD-1-2-0
+    Sneak:
+        Enable: true
+        No_Recoil: true
+        Bullet_Spread: 1
+    Burstfire:
+        Enable: true
+        Shots_Per_Burst: 2
+        Delay_Between_Shots_In_Burst: 3
+    Ammo:      
+        Enable: false    
+        Ammo_Item_ID: 295     
+        Sounds_Out_Of_Ammo: NOTE_PLING-1-2-0      
+        Sounds_Shoot_With_No_Ammo: NOTE_STICKS-1-2-0
+    Reload:
+        Enable: true
+        Reload_Amount: 30
+        Take_Ammo_On_Reload: true
+        Reload_Duration: 40
+        Sounds_Out_Of_Ammo: ITEM_BREAK-1-1-0
+        Sounds_Reloading: FIRE_IGNITE-1-1-4,DOOR_OPEN-1-2-6,FIRE_IGNITE-1-1-36,HURT_FLESH-1-0-37,DOOR_CLOSE-1-2-38
+    Firearm_Action:
+        Type: slide
+        Close_Duration: 10
+        Close_Shoot_Delay: 12
+        Sound_Close: PISTON_RETRACT-1-2-0,PISTON_RETRACT-1-2-3
+    Scope:
+        Enable: true
+        Zoom_Amount: 5
+        Zoom_Bullet_Spread: 0
+        Sounds_Toggle_Zoom: ENDERDRAGON_WINGS-1-2-0
+    Abilities:
+        Reset_Hit_Cooldown: true
+    Hit_Events:
+        Enable: true
+        Sounds_Shooter: SHOOT_ARROW-1-2-0
+    Custom_Death_Message:
+        Normal: "&e<victim> 被 <shooter> 的武器黄金AK-47击杀!"

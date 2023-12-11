@@ -1,0 +1,90 @@
+[19:04:38] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:04:38] [Server thread/INFO]: Loading properties
+[19:04:38] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-4bd94dc-015bda4 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[19:04:38] [Server thread/INFO]: Debug logging is disabled
+[19:04:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:04:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:04:38] [Server thread/INFO]: Generating keypair
+[19:04:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:04:38] [Server thread/INFO]: Using default channel type
+[19:04:39] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:04:39] [Server thread/ERROR]: Could not load 'plugins\NewItems-4.2.0.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.ClassFormatError: Duplicate method name&signature in class file com/evill4mer/NewItems/Main
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:133) ~[spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:327) ~[spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:248) [spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.loadPlugins(CraftServer.java:305) [spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:205) [spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
+Caused by: java.lang.ClassFormatError: Duplicate method name&signature in class file com/evill4mer/NewItems/Main
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_131]
+	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_131]
+	at java.security.SecureClassLoader.defineClass(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:148) ~[spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_131]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:78) ~[spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:129) ~[spigot-1.12.2.jar:git-Spigot-4bd94dc-015bda4]
+	... 6 more
+[19:04:39] [Server thread/INFO]: [SlimefunBugFixer] Loading SlimefunBugFixer v1.3
+[19:04:39] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.8.2
+[19:04:39] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.4
+[19:04:39] [Server thread/INFO]: [GrItemTags] Loading GrItemTags v1.0.8
+[19:04:39] [Server thread/INFO]: [EpicMobs] Loading EpicMobs v1.0
+[19:04:39] [Server thread/INFO]: [YourInventory] Loading YourInventory v1.0.6 -beta
+[19:04:39] [Server thread/INFO]: [Friends3_0] Loading Friends3_0 v3.0.2.5
+[19:04:39] [Server thread/INFO]: [ChineseNickName] Loading ChineseNickName v0.0.3
+[19:04:39] [Server thread/INFO]: [Yum] Loading Yum v2.7.10-git-fcf06780f0196bfb77ed26d9c792cda10547bfb4
+[19:04:39] [Server thread/INFO]: [0;33;22m[[0;32;1mÍøÂç¹ÜÀí[0;33;22m] [0;32;1m×¢ÈëÍøÂç¹ÜÀíÏµÍ³ ½«ÍÐ¹Ü·þÎñÆ÷ÍøÂç![m
+[19:04:39] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.1.7
+[19:04:39] [Server thread/INFO]: [AT] Loading AT v0.3
+[19:04:39] [Server thread/INFO]: [BossShop] Loading BossShop v2.4.83
+[19:04:39] [Server thread/INFO]: [KarBowShot] Loading KarBowShot v1.0
+[19:04:39] [Server thread/INFO]: [PlayerEmotesPro] Loading PlayerEmotesPro v1.7.3
+[19:04:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[19:04:39] [Server thread/INFO]: [AdminFun] Loading AdminFun v2.5.0
+[19:04:39] [Server thread/INFO]: [OpenInv] Loading OpenInv v3.3.0
+[19:04:39] [Server thread/INFO]: [GameEffect] Loading GameEffect v1.0.0
+[19:04:39] [Server thread/INFO]: [VeinMiner] Loading VeinMiner v1.11.3
+[19:04:39] [Server thread/INFO]: [AgarthaLib] Loading AgarthaLib vMysthoria
+[19:04:39] [Server thread/INFO]: [GuiShopManager] Loading GuiShopManager v1.3.4
+[19:04:39] [Server thread/INFO]: [EpicPick] Loading EpicPick v0.2
+[19:04:39] [Server thread/INFO]: [ActionHealth] Loading ActionHealth v3.1.9
+[19:04:39] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
+[19:04:39] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[19:04:39] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v9.5.0-SNAPSHOT
+[19:04:39] [Server thread/INFO]: [ResourcePackApi] Loading ResourcePackApi v2.2.1
+[19:04:39] [Server thread/WARN]: java.lang.ClassNotFoundException: org.inventivetalent.rpapi.packet.PacketPlayResourcePackStatus_v1_12_R1
+[19:04:39] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[19:04:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:152)
+[19:04:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100)
+[19:04:39] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[19:04:39] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[19:04:39] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[19:04:39] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[19:04:39] [Server thread/WARN]: 	at org.inventivetalent.rpapi.RPApiPlugin.onLoad(RPApiPlugin.java:51)
+[19:04:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.loadPlugins(CraftServer.java:310)
+[19:04:39] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:205)
+[19:04:39] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545)
+[19:04:39] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:04:39] [Server thread/ERROR]: [RPApi] Can't find compatible Packet class! (Version: v1_12_R1)
+[19:04:39] [Server thread/INFO]: [Notbuild] Loading Notbuild v1.5
+[19:04:39] [Server thread/INFO]: [LevelChat] Loading LevelChat v1.8.3
+[19:04:39] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[19:04:39] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[19:04:39] [Server thread/INFO]: [Effect Library] Loading EffectLib v5.4
+[19:04:39] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.16
+[19:04:39] [Server thread/INFO]: [ElytraPlus] Loading ElytraPlus v1.8
+[19:04:39] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[19:04:39] [Server thread/INFO]: [MyPlayer] Loading MyPlayer v1.0.0
+[19:04:39] [Server thread/INFO]: [DeadlyStick] Loading DeadlyStick v1.0
+[19:04:39] [Server thread/INFO]: [iControlU] Loading iControlU v2.3.7
+[19:04:39] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[19:04:39] [Server thread/INFO]: [Slimefun] Loading Slimefun v4.1.10
+[19:04:39] [Server thread/INFO]: [Wormholes] Loading Wormholes v2.0.2p
+[19:04:43] [Thread-3/INFO]: Stopping server

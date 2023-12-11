@@ -1,0 +1,23 @@
+fnz4:
+  MobName: '1'
+  World: fuben4
+  X: -36
+  Y: 63
+  Z: 114
+  Radius: 0
+  UseTimer: true
+  MaxMobs: 5
+  MobLevel: 1
+  MobsPerSpawn: 1
+  Cooldown: 1
+  CooldownTimer: 0
+  Warmup: 0
+  WarmupTimer: 0
+  ActivationRange: 40
+  LeashRange: 20
+  HealOnLeash: false
+  ResetThreatOnLeash: false
+  ShowFlames: false
+  Breakable: false
+  Conditions: []
+  ActiveMobs: 5

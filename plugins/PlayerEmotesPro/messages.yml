@@ -1,0 +1,105 @@
+cooldown-message: "&9Y你现在在冷却中!"
+reload-message: "&a插件成功重载! 汉化 by 秋风残叶"
+noPermissions: "&c你没有权限这么做!"
+bad-usage: "&c错误用法, 请使用 &o/<emote指令> [目标玩家]"
+bad-usage-remove: "&c&o/emotes <remove> [玩家]"
+not-online: "&c%target%&c 玩家不存在或者不在线!"
+give-usage: "&c/emotes give <玩家>"
+forcegive-usage: "&c/emotes forcegive <player>"
+emotes-help:
+  - "&6如何使用emotes"
+  - "    &e&m---------"
+  - "&6你可以使用以下指令来使用emotes"
+  - "&6 &e/<emote>"
+  - "&6你可以对目标玩家使用emotes"
+  - "&6 &e/<emote> [玩家]"
+  - "&6*-* &eGUI - &o/em &6*-*"
+cannot-emote-vchat: "&c你现在不能使用表情!"
+
+ignore-on: "&a已忽略表情!"
+ignore-off: "&a不再忽略表情!"
+
+
+## Emotes
+# %player% - 使用表情的玩家
+# %target% - 表情的目标玩家
+
+highfive:
+  self: "&b%player%&b 做了一个击掌!"
+  other: "&b%player%&b 朝 %target%&b 击了个掌!"
+
+hug:
+  self: "&b%player%&b 做了一个拥抱!"
+  other: "&b%player%&b 拥抱了 %target%&b"
+  
+kiss:
+  self: "&b%player%&b 做了一个亲吻!"
+  other: "&b%player%&b 亲吻了 %target%&b!"
+  
+slap:
+  self: "&b%player%&b 扇了一耳光!"
+  other: "&b%player%&b 扇了 %target%&b 一耳光!"
+  
+flirt:
+  self: "&b%player%&b 开始眉来眼去"
+  other: "&b%player%&b 对着 %target%&b 挤眉弄眼"
+  
+dance:
+  self: "&b%player%&b 在跳舞!"
+  other: "&b%player%&b 和 %target%&b 跳了支舞!"
+  
+smile:
+  self: "&b%player%&b 在微笑"
+  other: "&b%player%&b 朝 %target%&b 微笑了."
+  
+raspberry:
+  self: "&b%player%&b 吐了吐舌头!"
+  other: "&b%player%&b 朝着 %target%&b 吐了吐舌头!"
+  
+thumbsup:
+  self: "&b%player%&b 竖起了大拇指!"
+  other: "&b%player%&b 朝 %target%&b 竖起了大拇指!"
+  
+applaud:
+  self: "&b%player%&b 在鼓掌!"
+  other: "&b%player%&b 朝着 %target%&b 鼓掌!"
+  
+bark:
+  self: "&b%player%&b 在尖叫!"
+  other: "&b%player%&b 朝着 %target%&b 尖叫!"
+  
+beg:
+  self: "&b%player%&b 在祈求!"
+  other: "&b%player%&b 对着 %target%&b 祈求!"
+  
+bow:
+  self: "&b%player%&b 正在鞠躬!"
+  other: "&b%player%&b 朝着 %target%&b 鞠躬!"
+  
+cheer:
+  self: "&b%player%&b 正在加油鼓劲!"
+  other: "&b%player%&b 正在为 %target%&b 加油!"
+  
+cry:
+  self: "&b%player%&b 正在哭泣"
+  other: "&b%player%&b 朝着 %target%&b 哭泣."
+  
+eat:
+  self: "&b%player%&b 正在吃零食!"
+  other: "&b%player%&b 正在和 %target%&b 吃零食"
+  
+greet:
+  self: "&b%player%&b 欢迎着每个人!"
+  other: "&b%player%&b 正在欢迎 %target%&b!"
+  
+poke:
+  self: "&b%player%&b 正在戳!"
+  other: "&b%player%&b 戳了一下 %target%&b!"
+  
+wink:
+  self: "&b%player%&b 眨了下眼!"
+  other: "&b%player%&b 朝 %target%&b 眨了下眼!"
+  
+laugh:
+  self: "&b%player%&b 在大笑!"
+  other: "&b%player%&b 朝着 %target%&b 大笑!"

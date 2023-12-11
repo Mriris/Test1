@@ -1,0 +1,520 @@
+#################################################################
+#																#
+#	This plugin was made by HyChrod(@Spigot: Flocrafter77)		#
+#	You're not authorised to re-publish or sell this plugin		#
+#																#
+#################################################################
+#                      好友插件(Friends3_0)                     #
+#                       汉化: Ghost灬幽冥                       #
+#  PS: 该汉化配置文件是以插件版本3.0.2.3汉化,若无法使用请删除.  #
+#################################################################
+Friends:
+  Prefix: "&e好友系统 &7|"
+  CheckForUpdates: true
+  # 如果开启, 插件每次更新后将会自动在服务器更新
+  AutoUpdate: false
+  
+  # 这个选项用于 BungeeCord 服务器
+  # 使用 BungeeMode 前你必须安装 "Friends - BungeeAddon" 作为前置
+  # 你可以在这里找到插件并进行下载:
+  # <https://www.spigotmc.org/resources/friends2-0-mc1-8-1-10-bungeecord-addon.28909/>
+  BungeeMode: false
+  # If this is enabled the server the player is currently on will be shown under their name in the GUI!
+  # Only available if BungeeMode is activated
+  ShowServer:
+    Enable: true
+    Lore: "&3服务器: &f%SERVER%"
+    
+  FriendChat:
+    Enable: true
+    # 开始好友聊天时必须要写的聊天前缀!
+    Code: "@friends"
+    # 是否允许好友之间发送私人(私聊)消息 '/f msg <Player> <Message>'!
+    FriendMSG: true
+    # 如果启用该选项，管理员或拥有该权限的玩家可以看到其他玩家的好友聊天内容
+    # 这可以有管理员控制好友聊天
+    # 所需权限:
+    # - Friends.Commands.SpyChat
+    SpyChat:
+      Enable: true
+      Format: "&3%PLAYER% &6[好友聊天] &f| %MESSAGE%"
+    
+  # 是否开启派对插件
+  # 开启前你需要安装 PartySystem 插件作为前置
+  # 请确保你也开启了 bungeemode!
+  # 你可以在这里找到插件并进行下载:
+  # <https://www.spigotmc.org/resources/party.30609/>
+  PartySystem:
+    Enable: false
+  
+  Options:
+    MaxFriends:
+      # 正常情况下可以拥有的最大好友数量
+      Normal: 25
+      # 拥有特殊权限情况下可以拥有的最大好友数量
+      # 权限: - Friends.FriendLimit.Extended
+      Extended: 50
+    # 你可以禁用跳转功能（好友间是否可以传送到所在方位/服务器）
+    # 建议禁用该模式，否则可能会造成一些头疼的问题
+    EnableJumping: false
+    # 如果禁用该功能，好友之间将无法伤害对方!
+    FriendCanPvP: true
+    # 如果启用该功能，好友可以通过好友项目来发送请求!
+    HitToRequest: true
+    # 如果启用该功能，玩家将无法扔掉好友功能菜单!
+    CanDropItem: true
+    # 如果启用该功能，玩家将无法防止好友功能菜单!
+    CanPlaceItem: true
+    # 如果启用该功能，玩家将在背包内无法移动好友功能菜单!
+    CanMoveItem: true
+    # 如果启用该功能，好友上线或离线时您将会收到通知!
+    JoinQuitMessages: true
+    # 如果启用该功能，好友所在的世界将会以该世界名称的形式显示!
+    # 这仅在 BungeeMode 中被禁用!
+    # 如果启用该功能，则在玩家发送好友请求时，会在上线时收到通知
+    # 该信息可以在 messages.yml 文件修改!
+    RequestNotification: true
+    ShowWorld:
+      Enable: true
+      Lore: "&3世界: &f%WORLD%"
+    LastOnline:
+      Enable: true
+      # 变量: %days% %hours% %minutes% %seconds%
+      Format: "&c离线时长: &3%days% 天, %hours% 小时 %minutes% 分钟前"
+    Nicknames:
+      # 如果启用此功能，所有的消息都将替换为好友的昵称
+      # 例如一些自定义昵称插件，开启后将显示玩家的自定义昵称
+      ReplaceChatMessages: true
+      # 如果启用此功能，玩家将在好友界面中显示真实的昵称
+      ShowRealName: true
+      Lore: "//&7&o(%NAME%)"
+    # 玩家可以在GUI界面的状态下设置他们的名字
+    Status:
+      Delay:
+        # 启用或关闭状态刷新的延迟
+        Enable: true
+        # 延迟时间(以秒为单位)
+        TimeStamp: 600
+# =========================================================================================== #
+#   下面的大部分备注信息就懒得汉化了，仅汉化了一些重要的备注信息和物品显示部分，凑合着用吧~   #
+# =========================================================================================== #
+  FriendItem:
+    # 如果启用此功能, 每位玩家加入时会获得打开好友界面的物品(推荐在服务器大厅开启)
+    GiveOnJoin: true
+    # 如果启用此功能，物品为玩家头颅时，将会显示出玩家的皮肤
+    PlayersHead: true
+    Item:
+      ItemID: "397:3"
+      Name: "&e好友系统 &7(右键打开)"
+      # You can split the lines with "//"!
+      Lore: "&7右键打开好友GUI界面"
+      InventorySlot: 8
+      
+  GUI:
+    # If you disable this, all possibilities to open the gui will be removed
+    Enable: true
+    Title: "&e你的好友:"
+    # Available sizes are: 9, 18, 27, 36, 45, 54!
+    # WARNING! If you use another number as above, the gui will not work!!
+    InventorySize: 54
+    FriendHead:
+      # If this is enabled the players head in your friend-inventory will change to a skeleton if he turns offline!
+      ChangeHeadIfOffline: true
+      # If you are using PermissionsEx oder zPermissions, the placeholders %PREFIX% and %SUFFIX% will be replaced
+      NameOnline: "%PREFIX%%NAME%%SUFFIX% &a(在线)"
+      NameOffline: "%PREFIX%%NAME%%SUFFIX% &8(离线)"
+    Items:
+      RequestsItem:
+        ItemID: "388:0"
+        Name: "&2好友请求"
+        # You can split the lines with "//"!
+        Lore: "&7点击查看所有好友请求//&7当前数量: &a%REQUESTS%"
+        InventorySlot: 46
+      BlockedPlayers:
+        ItemID: "46:0"
+        Name: "&c黑名单"
+        # You can split the lines with "//"!
+        Lore: "&7点击查看好友黑名单//&7当前数量: &a%BLOCKED%"
+        InventorySlot: 47
+      OptionsItem:
+        ItemID: "404:0"
+        Name: "&3选项"
+        # You can split the lines with "//"
+        Lore: "&7点击更改一些设置"
+        InventorySlot: 48
+      NextPage:
+        ItemID: "262:0"
+        Name: "&6下一页"
+        # You can split the lines with "//"!
+        Lore: "&7点击打开下一页"
+        InventorySlot: 54
+      PreviousPage:
+        ItemID: "262:0"
+        Name: "&6上一页"
+        # You can split the lines with "//"!
+        Lore: "&7点击打开上一页"
+        InventorySlot: 53
+      InventorySorting:
+        Enable: true
+        Item:
+          ItemID: "399:0"
+          Name: "&e排序: &3%SORTING%"
+          # You can split the lines with "//"!
+          Lore: "%SORTING_DESCRIPTION%//&7点击更改排序方式"
+          InventorySlot: 50
+        # Available sortings: Nothing, Online_Offline, Favorites, Alphabetic
+        DefaultSorting: "Nothing"
+        SortingMethods:
+          Online_Offline:
+            Name: "&7在线 & 离线"
+            # You can split the lines with "//"!
+            Description: "&7你的好友将按照在线 / 离线来排序"
+          Favorites:
+            Name: "&7亲密的"
+            # You can split the lines with "//"!
+            Description: "&7显示你最亲密的好友"
+          Nothing:
+            Name: "&7无排序"
+            # You can split the lines with "//"!
+            Description: "&7无任何排序"
+          Alphabetic:
+            Name: "&7字母排序"
+            # You can split the lines with "//"!
+            Description: "&7将按照好友名字中//&7字母优先顺序排序"
+      Placeholders:
+        ItemID: "160:7"
+        Name: " "
+        Lore: ""
+        # Put in the number of slots, the placeholder should be placed on
+        InventorySlots:
+        - 49
+        - 51
+        - 52
+    FriendEditInventory:
+      InventorySize: 9
+      Items:
+        Nickname:
+          Enable: true
+          ItemID: "421:0"
+          Name: "&d更改名称"
+          # You can split the lines with "//"!
+          Lore: "&7左键编辑它, 右键进行删除//&e目前昵称: &f%NICKNAME%"
+          InventorySlot: 6
+        RemoveItem:
+          ItemID: "35:14"
+          Name: "&c删除好友"
+          # You can split the lines with "//"!
+          Lore: "&7从你的好友列表中删除 &a%NAME% &7这个好友"
+          InventorySlot: 9
+        FavoriteItem:
+          ItemID: "399:0"
+          Name: "&6Favorite &7(%VALUE%&7)"
+          # You can split the lines with "//"!
+          Lore: "&7添加或删除 &a%NAME% //&7在你的亲密列表中"
+          InventorySlot: 7
+          Values:
+            Activated: "&a添加"
+            Deactivated: "&c删除"
+        JumpItem:
+          ItemID: "368:0"
+          Name: "&3好友跳转"
+          # You can split the lines with "//"!
+          Lore: "&7跳转到 &a%NAME% &7所在方位 / 服务器"
+          InventorySlot: 4
+        PartyItem:
+          ItemID: "401:0"
+          Name: "&d派对"
+          # You can split the lines with "//"!
+          Lore: "&7邀请 &a%NAME% &7参加你的派对"
+          InventorySlot: 3
+        BackItem:
+          ItemID: "330:0"
+          Name: "&7返回好友界面"
+          # You can split the lines with "//"!
+          Lore: ""
+          InventorySlot: 1
+        Placeholders:
+          ItemID: "160:7"
+          Name: " "
+          # You can split the lines with "//"!
+          Lore: ""
+          # Put in the number of slots, the placeholder should be placed on
+          InventorySlots:
+          - 2
+          - 3
+          - 5
+          - 8
+    
+    RequestsInventory:
+      Title: "&好友请求:"
+      InventorySize: 54
+      Items:
+        AcceptAll:
+          ItemID: "35:5"
+          Name: "&a同意所有请求"
+          # You can split the lines with "//"!
+          Lore: "&7点击同意 &a&3%REQUESTS% &7条好友请求!"
+          InventorySlot: 49
+        DenyAll:
+          ItemID: "35:14"
+          Name: "&c拒绝请求"
+          # You can split the lines with "//"!
+          Lore: "&7点击拒绝 &a&3%REQUESTS% &7条好友请求!"
+          InventorySlot: 50
+        BackItem:
+          ItemID: "330:0"
+          Name: "&7返回好友界面"
+          # You can split the lines with "//"!
+          Lore: ""
+          InventorySlot: 46
+        NextPage:
+          ItemID: "262:0"
+          Name: "&6下一页"
+          # You can split the lines with "//"!
+          Lore: ""
+          InventorySlot: 54
+        PreviousPage:
+          ItemID: "262:0"
+          Name: "&6上一页"
+          # You can split the lines with "//"!
+          Lore: ""
+          InventorySlot: 53
+        Placeholders:
+          ItemID: "160:7"
+          Name: " "
+          # You can split the lines with "//"!
+          Lore: ""
+          # Put in the number of slots, the placeholder should be placed on
+          InventorySlots:
+          - 47
+          - 48
+          - 51
+          - 52
+      RequestEditInventory:
+        InventorySize: 9
+        Items:
+          AcceptItem:
+            ItemID: "35:5"
+            Name: "&a同意请求"
+            # You can split the lines with "//"!
+            Lore: "&7接受来自 &a%NAME% 的好友请求"
+            InventorySlot: 4
+          DenyItem:
+            ItemID: "35:14"
+            Name: "&c拒绝请求"
+            # You can split the lines with "//"!
+            Lore: "&7拒绝来自 &a%NAME% 的好友请求"
+            InventorySlot: 6
+          BackItem:
+            ItemID: "330:0"
+            Name: "&7返回好友请求界面"
+            # You can split the lines with "//"!
+            Lore: ""
+            InventorySlot: 1
+          Placeholders:
+            ItemID: "160:7"
+            Name: " "
+            # You can split the lines with "//"!
+            Lore: ""
+            InventorySlots:
+            - 2
+            - 3
+            - 5
+            - 7
+            - 8
+            - 9    
+          
+    BlockedInventory:
+      Title: "&c黑名单:"
+      InventorySize: 54
+      Items:
+        UnblockAll:
+          ItemID: "35:5"
+          Name: "&a删除所有黑名单"
+          # You can split the lines with "//"!
+          Lore: "&7点击删除 &a%BLOCKED% &7个黑名单玩家!"
+          InventorySlot: 50
+        NextPage:
+          ItemID: "262:0"
+          Name: "&6下一页"
+          # You can split the lines with "//"!
+          Lore: ""
+          InventorySlot: 54
+        PreviousPage:
+          ItemID: "262:0"
+          Name: "&6上一页"
+          # You can split the lines with "//"!
+          Lore: ""
+          InventorySlot: 53
+        BackItem:
+          ItemID: "330:0"
+          Name: "&7返回好友界面"
+          # You can split the lines with "//"!
+          Lore: ""
+          InventorySlot: 46
+        Placeholders:
+          ItemID: "160:7"
+          Name: " "
+          # You can split the lines with "//"!
+          Lore: ""
+          # Put in the number of slots, the placeholder should be placed on
+          InventorySlots:
+          - 47
+          - 48
+          - 49
+          - 51
+          - 52
+      BlockedEditInventory:
+        InventorySize: 9
+        Items:
+          UnblockItem:
+            ItemID: "35:5"
+            Name: "&a删除黑名单"
+            # You can split the lines with "//"!
+            Lore: "&7点击从黑名单删除 &a%NAME%"
+            InventorySlot: 5
+          BackItem:
+            ItemID: "330:0"
+            Name: "&7返回黑名单界面"
+            # You can split the lines with "//"!
+            Lore: ""
+            InventorySlot: 1
+          Placeholders:
+            ItemID: "160:7"
+            Name: " "
+            # You can split the lines with "//"!
+            Lore: ""
+            # Put in the number of slots, the placeholder should be placed on
+            InventorySlots:
+            - 2
+            - 3
+            - 4
+            - 6
+            - 7
+            - 8
+            - 9
+    OptionsInventory:
+      Title: "&3选项:"
+      # Available sizes are: 9, 18, 27, 36, 45, 54!
+      # WARNING! If you use another number as above, the gui will not work!!
+      InventorySize: 45
+      RequestsItems:
+        Name: "&a好友请求"
+        ItemID: "397:3"
+        # You can separate the lines with "//"!
+        Lore: "&7如果禁用此功能//&7玩家将无法向你发送请求!"
+        InventorySlot: 11
+        ButtonInventorySlot: 20
+      MessagesItems:
+        Name: "&3好友聊天"
+        ItemID: "339:0"
+        # You can separate the lines with "//"!
+        Lore: "&7如果禁用此功能//&7你将无法看见好友聊天!"
+        InventorySlot: 12
+        ButtonInventorySlot: 21
+      JumpingItem:
+        Name: "&d跳转功能"
+        ItemID: "368:0"
+        # You can separate the lines with "//"!
+        Lore: "&7如果禁用此功能//&7你的好友将无法跳转至你!"
+        InventorySlot: 13
+        ButtonInventorySlot: 22
+      PrivateMessages:
+        Name: "&6私人信息"
+        ItemID: "288:0"
+        # You can separate the lines with "//"!
+        Lore: "&7如果禁用此功能//&7你将不能收到任何私人信息"
+        InventorySlot: 14
+        ButtonInventorySlot: 23
+      PartyInvites:
+        Name: "&9派对邀请"
+        ItemID: "401:0"
+        # You can separate the lines with "//"!
+        Lore: "&7如果禁用此功能//&7你将不能收到任何派对邀请"
+        InventorySlot: 15
+        ButtonInventorySlot: 24
+      PrivateModeItem:
+        Name: "&4隐身模式"
+        ItemID: "355:0"
+        # You can separate the lines with "//"!
+        Lore: "&7如果开启此功能//&7其他好友的界面显示您是离线状态//&7(类似于QQ中的隐身模式)"
+        InventorySlot: 16
+        ButtonInventorySlot: 25
+      StatusItem:
+        Enable: true
+        Name: "&7你的目前状况:"
+        ItemID: "421:0"
+        # You can separate the lines with "//"!
+        NoStatusLore: "&c无任何状况设置!"
+        InventorySlot: 37
+      ButtonOff:
+        Name: "&7目前 (&c关闭&7)"
+        ItemID: "351:8"
+        # You can separate the lines with "//"!
+        Lore: ""
+      ButtonOn:
+        Name: "&7目前 (&a启用&7)"
+        ItemID: "351:10"
+        # You can separate the lines with "//"!
+        Lore: ""
+      BackItem:
+        Name: "&8返回主界面!"
+        ItemID: "330:0"
+        # You can separate the lines with "//"!
+        Lore: "&7点击返回至主界面!"
+        InventorySlot: 45
+      Placeholders:
+        ItemID: "160:7"
+        Name: " "
+        # You can split the lines with "//"!
+        Lore: ""
+        # Put in the number of slots, the placeholder should be placed on
+        InventorySlots:
+        - 44
+        - 43
+        - 42
+        - 41
+        - 40
+        - 39
+        - 38
+        - 37
+        
+  # Put in the name of worlds where players should not use the friend-item!
+  # If this feature is enabled you have to disable 'EnabledWorlds'!
+  DisabledWorlds:
+    Enable: true
+    Worlds:
+    - world_nether
+    
+  # Put in the name of worlds where players can use the friend-item!
+  # The friend-item will be removed on all other worlds!
+  # If this feature is enabled you have to disable 'DisabledWorlds'!
+  EnabledWorlds:
+    Enable: false
+    Worlds:
+    - world_nether
+  
+  # Put in the name of servers players should not jump to
+  # This list has only affect to the jumping feature of the plugin
+  # Only works for BungeeMode!
+  # If you want to use this feature you have to disable "EnabledServers"!
+  DisabledServers:
+    Enable: true
+    Servers:
+    - silent_hub
+    - premium_lobby
+  
+  # Put in the name of servers players can jump to
+  # This list has only affect to the jumping feature of the plugin
+  # Only workds for BungeeMode!
+  # If you want to use this feature you have to disable "DisabledServer"!
+  EnabledServers:
+    Enable: false
+    Servers:
+    - lobby_1
+  
+#################################################################
+#																#
+#	All rigths reserved by HyChrod(@Spigot: Flocrafter77)		#
+#																#
+#################################################################

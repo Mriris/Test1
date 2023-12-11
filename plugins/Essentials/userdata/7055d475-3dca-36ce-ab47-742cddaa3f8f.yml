@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: blue_lonely
+timestamps:
+  login: 1500012020325
+  logout: 1500014770333
+  lastteleport: 1500013761907
+ipAddress: 27.202.57.136
+geolocation: China
+logoutlocation:
+  world: hsc
+  x: 279.4609723715313
+  y: 69.0
+  z: 166.51270507810062
+  yaw: -123.97409
+  pitch: 25.249369
+lastlocation:
+  world: sc
+  x: -2.450199431806504E7
+  y: 124.0
+  z: -8790452.325190209
+  yaw: -247.7752
+  pitch: 13.779372

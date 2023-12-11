@@ -1,0 +1,110 @@
+#  ______   ______   ______    ________   ___________________
+# |  __  | /  ____| |  ___ \  |__    __| |                   |
+# | |__| | | |      | |   \ |    |  |    |  PluginsCDTribe   |
+# |  ____| | |      | |   | |    |  |    |     秋风残叶      |
+# | |      | |____  | |___/ |    |  |    | 专注插件搬运&汉化 |
+# |_|      \______| |______/     |__|    |___________________|
+#
+
+
+## 没有特殊权限的玩家每次使用表情的冷却时间
+emote-cooldown: 5
+## 你是否让自己的表情只有自己能看到，别人看不到
+only-see-own: false
+## 仅当上面那项only-see-own是true的时候生效, 如果下面这项是true，只有你和目标玩家能看到表情，他人看不到
+target-see-emote: true
+## 每个动作持续的时间
+## (包括Actionbar消息, 面部表情, 悬浮字等等)
+emote-length: 4
+
+## 下面这些设置需要预先安装 Action Bar API 前置
+action-bar:
+  use: false
+  ## 每个表情显示Actionbar消息的时间
+  time: 3
+  ## 如果这项是 false, 只有拥有 emotes.actionbar 权限的玩家使用表情时会在Actionbar中显示
+  all-emotes-use: false
+  ## 这项是true会让全服拥有 emotes.hear 权限的玩家可以看到你的表情Actionbar信息
+  broadcast: true
+  ## 如果上面那项是 false, 下面这两项决定了哪些人能看到表情Actionbar
+  ## 分别是表情发送者和目标玩家
+  sender-see: true
+  target-see: true
+  ## 使用冷却时间？
+  use-cooldown: false
+  ## 冷却时间
+  ## 如果冷却时间比表情持续时间还要短，新的表情会替换掉上一个表情
+  cooldown: 5
+  
+interact-menu:
+  use: false
+  shift-right-click: true
+  right-click: true
+
+## 如果下面的use设置成true，本插件所有GUI中空白的格子都会填充入下面设置的物品
+fill-gui:
+  use: true
+  item: "160"
+  data: "3"
+  ## 哪些GUI你不想填充进物品？请选择 ( typeselect pickplayer selfemote otheremote )
+  exlude:
+    - pickplayer
+
+
+##### 下面这些设置只在插件版本 1.7 以后生效
+tracking:
+  # 记录玩家使用的表情
+  use: false
+  use-mysql: false
+  # mysql设置
+  mysql:
+    # Your username to connect to your MySQL
+    username: root
+    # Password for database
+    password: password
+    # Address for database
+    address: 127.0.0.1
+    # Name of the database
+    name: Emotes
+
+    
+item:
+  use: false
+  ## 这个设置，当玩家进服而且没有菜单时，会给玩家一个菜单
+  ## 下面这些都是废话，我不建议开启此项   ————by 汉化者
+  ## There is also 2 in game commands to give the item, one forces them to take the item, 
+  ## one gives them they item if they don't have it. This doesn't handle dropping the item
+  ## and relogging, simply gives the player the item if it isn't in their inventory
+  give: true
+  material: emerald
+  name: "&6表情"
+  lore:
+    - "&6&o点我开启"
+    - "&6&l表情菜单"
+    
+venturechat:
+  use: false
+  use-whitelist: false
+  whitelist:
+    - global
+    - 'local'
+    - "VIP"
+
+# 下面四大项分别是使用表情时出现声音 头上戴上表情头颅 出现粒子特效 头顶出现全息字    
+sound:
+  use: true
+  ## 如果下面这项是true 表情的目标玩家会听到声音 谨记熊孩子玩家可能会滥用这点
+  target: false
+
+face:
+  use: true
+  ## 如果玩家头上已经戴了头盔什么的，面部表情将失效
+  ## 如果你把下面这项开启，将强行替换玩家原有的头盔
+  replace-helmets: false
+
+particles:
+  use: true
+  radius: 50
+  
+holograms:
+  use: true

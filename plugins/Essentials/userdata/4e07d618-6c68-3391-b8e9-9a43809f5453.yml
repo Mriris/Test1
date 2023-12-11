@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: Bei_Cheng_Nian
+timestamps:
+  login: 1500001943974
+  logout: 1500005011226
+  lastteleport: 1500004794675
+ipAddress: 111.16.27.36
+lastlocation:
+  world: spawn
+  x: 3692.472838089605
+  y: 6.0
+  z: -804.0367941927461
+  yaw: -176.1014
+  pitch: 4.6499906
+geolocation: China
+logoutlocation:
+  world: plotworld
+  x: -43.13825463357099
+  y: 65.0
+  z: -78.51258352962216
+  yaw: -217.49998
+  pitch: 20.849998
+afk: false

@@ -1,0 +1,209 @@
+signs:
+  text: '[Warps]'
+  NeedPermissionToCreateSign: true
+shop:
+  Spawn:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - spawn
+    MenuItem:
+    - type:COMPASS
+    - amount:1
+    - name:&e&l回主城
+    - lore:&5传送到主城
+    - amount:1
+    InventoryLocation: 1
+    ExtraPermission: ''
+  hsc:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp hsc
+    MenuItem:
+    - id:14
+    - amount:1
+    - name:&6生存
+    - lore:&5传送到&b&l黑爪界
+    - amount:1
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Shop:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp shop
+    MenuItem:
+    - type:CHEST
+    - amount:1
+    - name:&a商店
+    - lore:&5传送到快捷商店
+    - amount:1
+    InventoryLocation: 12
+    ExtraPermission: ''
+  nether:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp dy
+    MenuItem:
+    - type:netherrack
+    - amount:1
+    - name:&4&l地狱
+    - lore:&5传送到地狱
+    - amount:1
+    InventoryLocation: 4
+    ExtraPermission: ''
+  end:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp myzd
+    MenuItem:
+    - id:121
+    - amount:1
+    - name:&5&l末影之地
+    - lore:&5传送到末影之地
+    - amount:1
+    InventoryLocation: 5
+    ExtraPermission: ''
+  city:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp city
+    MenuItem:
+    - id:42
+    - amount:1
+    - name:&7&l城市
+    - lore:&5传送到城市
+    - amount:1
+    InventoryLocation: 6
+    ExtraPermission: ''
+  skycity:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp skycity
+    MenuItem:
+    - id:35
+    - amount:1
+    - name:&r&l空中城市
+    - lore:&5传送到天空之城
+    - amount:1
+    InventoryLocation: 7
+    ExtraPermission: ''
+  plotworld:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp plotme
+    MenuItem:
+    - id:29
+    - amount:1
+    - name:&a&l地皮世界
+    - lore:&5传送到地皮世界
+    - amount:1
+    InventoryLocation: 8
+    ExtraPermission: ''
+  hoth:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp hoth
+    MenuItem:
+    - id:79
+    - amount:1
+    - name:&b&l极地世界
+    - lore:&5也叫冰原世界
+    - amount:1
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Run:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp pk
+    MenuItem:
+    - id:35:1
+    - amount:1
+    - name:&c&l跑酷
+    - lore:&5无聊的时候跑一跑，没有记录点
+    - amount:1
+    InventoryLocation: 10
+    ExtraPermission: ''
+  RPG1:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp rpg2
+    MenuItem:
+    - id:399
+    - amount:1
+    - name:&5&l&nRPG
+    - lore:&e&l已开放
+    - amount:1
+    InventoryLocation: 11
+    ExtraPermission: ''
+  sg1:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp sg1
+    MenuItem:
+    - id:384
+    - amount:1
+    - name:&a&l刷经验
+    - lore:&e&l经验刷刷的来！
+    - amount:1
+    InventoryLocation: 3
+    ExtraPermission: ''
+  rtp:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - rtp
+    MenuItem:
+    - id:288
+    - amount:1
+    - name:&a&l随机传送
+    - lore:&5&l不会传送到岩浆等危险地带！
+    - amount:1
+    InventoryLocation: 17
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&c返回
+    - lore:&e点击返回主菜单
+    Message: '&6已返回到主菜单...'
+    InventoryLocation: 18
+    ExtraPermission: ''
+# 配置文件版本,重要,请勿修改
+# 插件升级配置的时候需要用到
+version: '1.2'
+Setting:
+  # 进入商店时的消息,如果留空,则不显示消息
+  EnterMessage: ''
+  # 离开商店时的消息,如果留空,则不显示消息
+  LeaveMessage: ''
+  # 如果为true,则该商店为抽奖商店
+  ShopTypeSpecial: false
+  # 右击物品时,商品默认的购买数量
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  RightClickBuyCount: 1
+  # 玩家是否可以设置右键购买数量
+  # 免费物品强制不能设置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  AllowChangeRightClickBuyCount: false
+  # 当右键购买数量大于1时,显示右键购买数量
+  # 物品设置为false可以用来自定义右键购买数量Lore消息
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  ShowRightClickBuyCount: true
+  # 商品属性显示配置,说明参考配置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  HideItemFlag: 63

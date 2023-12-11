@@ -1,0 +1,126 @@
+08-25-2017 18:43 [INFO] [§2MyPet§r] Enabling MyPet v2.3.0
+08-25-2017 18:43 [INFO] [§2MyPet§r] Citizens (2.0.22-SNAPSHOT (build 1487)) hook activated.
+08-25-2017 18:43 [INFO] [§2MyPet§r] mcMMO (1.5.08-SNAPSHOT) hook activated.
+08-25-2017 18:43 [INFO] [§2MyPet§r] MythicMobs (4.2.0-SNAPSHOT) hook activated.
+08-25-2017 18:43 [INFO] [§2MyPet§r] Residence (4.7.1.2) hook activated.
+08-25-2017 18:43 [INFO] [§2MyPet§r] Vault (1.5.6-b49) hook activated.
+08-25-2017 18:43 [INFO] [§2MyPet§r] WorldGuard (6.2.1;84bc322) hook activated.
+08-25-2017 18:43 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 18:43 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 18:43 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 18:43 [INFO] [§2MyPet§r] Compat mode for v1_12_R1 loaded.
+08-25-2017 18:43 [INFO] [§2MyPet§r] Default skilltree file created (default.st).
+08-25-2017 18:43 [INFO] [§2MyPet§r] No groups found. Everything will be in 'default' group.
+08-25-2017 18:43 [INFO] [§2MyPet§r] --- Loading WorldGroups ---------------------------
+08-25-2017 18:43 [INFO] [§2MyPet§r] added §6world§r to 'default' group.
+08-25-2017 18:43 [INFO] [§2MyPet§r] added §6world_nether§r to 'default' group.
+08-25-2017 18:43 [INFO] [§2MyPet§r] added §6world_the_end§r to 'default' group.
+08-25-2017 18:43 [INFO] [§2MyPet§r] added §6world_herobrine_graveyard§r to 'default' group.
+08-25-2017 18:43 [INFO] [§2MyPet§r] added §6plotworld§r to 'default' group.
+08-25-2017 18:43 [INFO] [§2MyPet§r] added §6spawn§r to 'default' group.
+08-25-2017 18:43 [INFO] [§2MyPet§r] -------------------------------------------------
+08-25-2017 18:43 [INFO] [§2MyPet§r] version 2.3.0-b1156§a ENABLED
+08-25-2017 18:43 [INFO] [§2MyPet§r] Disabling MyPet v2.3.0
+08-25-2017 18:43 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 18:43 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 18:43 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 19:10 [INFO] [§2MyPet§r] Enabling MyPet v2.3.0
+08-25-2017 19:10 [INFO] [§2MyPet§r] Citizens (2.0.22-SNAPSHOT (build 1487)) hook activated.
+08-25-2017 19:10 [INFO] [§2MyPet§r] mcMMO (1.5.08-SNAPSHOT) hook activated.
+08-25-2017 19:10 [INFO] [§2MyPet§r] MythicMobs (4.2.0-SNAPSHOT) hook activated.
+08-25-2017 19:10 [INFO] [§2MyPet§r] ProtocolLib (4.3.0) hook activated.
+08-25-2017 19:10 [INFO] [§2MyPet§r] Residence (4.7.1.2) hook activated.
+08-25-2017 19:10 [INFO] [§2MyPet§r] Vault (1.5.6-b49) hook activated.
+08-25-2017 19:10 [INFO] [§2MyPet§r] WorldGuard (6.2.1;84bc322) hook activated.
+08-25-2017 19:10 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 19:10 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 19:10 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 19:10 [INFO] [§2MyPet§r] Compat mode for v1_12_R1 loaded.
+08-25-2017 19:10 [INFO] [§2MyPet§r] --- Loading WorldGroups ---------------------------
+08-25-2017 19:10 [INFO] [§2MyPet§r]    added 'world' to 'default'
+08-25-2017 19:10 [INFO] [§2MyPet§r]    added 'world_nether' to 'default'
+08-25-2017 19:10 [INFO] [§2MyPet§r]    added 'world_the_end' to 'default'
+08-25-2017 19:10 [INFO] [§2MyPet§r]    added 'world_herobrine_graveyard' to 'default'
+08-25-2017 19:10 [INFO] [§2MyPet§r]    added 'plotworld' to 'default'
+08-25-2017 19:10 [INFO] [§2MyPet§r]    added 'spawn' to 'default'
+08-25-2017 19:10 [INFO] [§2MyPet§r] -------------------------------------------------
+08-25-2017 19:10 [INFO] [§2MyPet§r] version 2.3.0-b1156§a ENABLED
+08-25-2017 19:11 [INFO] [§2MyPet§r] Disabling MyPet v2.3.0
+08-25-2017 19:11 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 19:11 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 19:11 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 19:36 [INFO] [§2MyPet§r] Enabling MyPet v2.3.0
+08-25-2017 19:36 [INFO] [§2MyPet§r] Citizens (2.0.22-SNAPSHOT (build 1487)) hook activated.
+08-25-2017 19:36 [INFO] [§2MyPet§r] mcMMO (1.5.08-SNAPSHOT) hook activated.
+08-25-2017 19:36 [INFO] [§2MyPet§r] MythicMobs (4.2.0-SNAPSHOT) hook activated.
+08-25-2017 19:36 [INFO] [§2MyPet§r] ProtocolLib (4.3.0) hook activated.
+08-25-2017 19:36 [INFO] [§2MyPet§r] Residence (4.7.1.2) hook activated.
+08-25-2017 19:36 [INFO] [§2MyPet§r] Vault (1.5.6-b49) hook activated.
+08-25-2017 19:36 [INFO] [§2MyPet§r] WorldGuard (6.2.1;84bc322) hook activated.
+08-25-2017 19:36 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 19:36 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 19:36 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 19:36 [INFO] [§2MyPet§r] Compat mode for v1_12_R1 loaded.
+08-25-2017 19:36 [INFO] [§2MyPet§r] --- Loading WorldGroups ---------------------------
+08-25-2017 19:36 [INFO] [§2MyPet§r]    added 'world' to 'default'
+08-25-2017 19:36 [INFO] [§2MyPet§r]    added 'world_nether' to 'default'
+08-25-2017 19:36 [INFO] [§2MyPet§r]    added 'world_the_end' to 'default'
+08-25-2017 19:36 [INFO] [§2MyPet§r]    added 'world_herobrine_graveyard' to 'default'
+08-25-2017 19:36 [INFO] [§2MyPet§r]    added 'plotworld' to 'default'
+08-25-2017 19:36 [INFO] [§2MyPet§r]    added 'spawn' to 'default'
+08-25-2017 19:36 [INFO] [§2MyPet§r] -------------------------------------------------
+08-25-2017 19:36 [INFO] [§2MyPet§r] version 2.3.0-b1156§a ENABLED
+08-25-2017 19:37 [INFO] [§2MyPet§r] Disabling MyPet v2.3.0
+08-25-2017 19:37 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 19:37 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 19:37 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 19:38 [INFO] [§2MyPet§r] Enabling MyPet v2.3.0
+08-25-2017 19:38 [INFO] [§2MyPet§r] Citizens (2.0.22-SNAPSHOT (build 1487)) hook activated.
+08-25-2017 19:38 [INFO] [§2MyPet§r] mcMMO (1.5.08-SNAPSHOT) hook activated.
+08-25-2017 19:38 [INFO] [§2MyPet§r] MythicMobs (4.2.0-SNAPSHOT) hook activated.
+08-25-2017 19:38 [INFO] [§2MyPet§r] ProtocolLib (4.3.0) hook activated.
+08-25-2017 19:38 [INFO] [§2MyPet§r] Residence (4.7.1.2) hook activated.
+08-25-2017 19:38 [INFO] [§2MyPet§r] Vault (1.5.6-b49) hook activated.
+08-25-2017 19:38 [INFO] [§2MyPet§r] WorldGuard (6.2.1;84bc322) hook activated.
+08-25-2017 19:38 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 19:38 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 19:38 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 19:38 [INFO] [§2MyPet§r] Compat mode for v1_12_R1 loaded.
+08-25-2017 19:38 [INFO] [§2MyPet§r] --- Loading WorldGroups ---------------------------
+08-25-2017 19:38 [INFO] [§2MyPet§r]    added 'world' to 'default'
+08-25-2017 19:38 [INFO] [§2MyPet§r]    added 'world_nether' to 'default'
+08-25-2017 19:38 [INFO] [§2MyPet§r]    added 'world_the_end' to 'default'
+08-25-2017 19:38 [INFO] [§2MyPet§r]    added 'world_herobrine_graveyard' to 'default'
+08-25-2017 19:38 [INFO] [§2MyPet§r]    added 'plotworld' to 'default'
+08-25-2017 19:38 [INFO] [§2MyPet§r]    added 'spawn' to 'default'
+08-25-2017 19:38 [INFO] [§2MyPet§r] -------------------------------------------------
+08-25-2017 19:38 [INFO] [§2MyPet§r] version 2.3.0-b1156§a ENABLED
+08-25-2017 19:38 [INFO] [§2MyPet§r] Disabling MyPet v2.3.0
+08-25-2017 19:38 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 19:38 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 19:38 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 19:39 [INFO] [§2MyPet§r] Enabling MyPet v2.3.0
+08-25-2017 19:39 [INFO] [§2MyPet§r] Citizens (2.0.22-SNAPSHOT (build 1487)) hook activated.
+08-25-2017 19:39 [INFO] [§2MyPet§r] mcMMO (1.5.08-SNAPSHOT) hook activated.
+08-25-2017 19:39 [INFO] [§2MyPet§r] MythicMobs (4.2.0-SNAPSHOT) hook activated.
+08-25-2017 19:39 [INFO] [§2MyPet§r] ProtocolLib (4.3.0) hook activated.
+08-25-2017 19:39 [INFO] [§2MyPet§r] Residence (4.7.1.2) hook activated.
+08-25-2017 19:39 [INFO] [§2MyPet§r] Vault (1.5.6-b49) hook activated.
+08-25-2017 19:39 [INFO] [§2MyPet§r] WorldGuard (6.2.1;84bc322) hook activated.
+08-25-2017 19:39 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-25-2017 19:39 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-25-2017 19:39 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry
+08-25-2017 19:39 [INFO] [§2MyPet§r] Compat mode for v1_12_R1 loaded.
+08-25-2017 19:39 [INFO] [§2MyPet§r] --- Loading WorldGroups ---------------------------
+08-25-2017 19:39 [INFO] [§2MyPet§r]    added 'world' to 'default'
+08-25-2017 19:39 [INFO] [§2MyPet§r]    added 'world_nether' to 'default'
+08-25-2017 19:39 [INFO] [§2MyPet§r]    added 'world_the_end' to 'default'
+08-25-2017 19:39 [INFO] [§2MyPet§r]    added 'world_herobrine_graveyard' to 'default'
+08-25-2017 19:39 [INFO] [§2MyPet§r]    added 'plotworld' to 'default'
+08-25-2017 19:39 [INFO] [§2MyPet§r]    added 'spawn' to 'default'
+08-25-2017 19:39 [INFO] [§2MyPet§r] -------------------------------------------------
+08-25-2017 19:39 [INFO] [§2MyPet§r] version 2.3.0-b1156§a ENABLED
+08-26-2017 15:16 [INFO] [§2MyPet§r] Disabling MyPet v2.3.0
+08-26-2017 15:16 [INFO] [§2MyPet§r] Custom entity registry found: io.github.bedwarsrel.com.v1_12_r1.CustomEntityRegistry
+08-26-2017 15:16 [INFO] [§2MyPet§r] Custom entity registry found: net.citizensnpcs.nms.v1_12_R1.util.CustomEntityRegistry
+08-26-2017 15:16 [INFO] [§2MyPet§r] Custom entity registry found: net.theprogrammersworld.herobrine.nms.entity.CustomEntityRegistry

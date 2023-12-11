@@ -1,0 +1,4 @@
+Regions:
+- World:Region-Name
+messages:
+  enteredRegion: '&3[WorldGuard FlyStop] &6This is a no-fly zone'

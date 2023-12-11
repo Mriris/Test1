@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Doc_Yan
+timestamps:
+  login: 1517370914401
+  logout: 1517370931208
+  lastteleport: 1517367004321
+ipAddress: 192.168.1.100
+geolocation: N/A
+logoutlocation:
+  world: sc
+  x: 263.70419213751507
+  y: 76.5
+  z: 266.5993577837651
+  yaw: -51.63556
+  pitch: 44.791172
+lastlocation:
+  world: sc
+  x: -42.69999998807907
+  y: 102.0
+  z: 250.27766290571472
+  yaw: -286.323
+  pitch: 28.654491
+money: '92.0'
+afk: false

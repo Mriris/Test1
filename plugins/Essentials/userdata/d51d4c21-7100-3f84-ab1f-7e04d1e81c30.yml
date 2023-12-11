@@ -1,0 +1,32 @@
+socialspy: false
+geolocation: China
+lastAccountName: lan_yu
+timestamps:
+  login: 1503738772051
+  lastteleport: 1500116276305
+  logout: 1503738777581
+ipAddress: 110.251.97.21
+lastlocation:
+  world: sc
+  x: 130.89344858930264
+  y: 65.0
+  z: 113.15323077504111
+  yaw: -238.04796
+  pitch: 13.042984
+homes:
+  home:
+    world: sc
+    x: 329.2081696145524
+    y: 54.0
+    z: 6.681138300979776
+    yaw: -152.66095
+    pitch: 7.4896755
+afk: false
+logoutlocation:
+  world: plotworld
+  x: -22.355964472119876
+  y: 65.0
+  z: -28.984534576824068
+  yaw: -303.0043
+  pitch: 13.449955
+money: '422.0'

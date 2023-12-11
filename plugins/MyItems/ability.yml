@@ -1,0 +1,210 @@
+#注意: 
+#请使用 [空格] 而不是 [Tab]
+#作者忘记添加打开和关闭的功能, 字符串 ["] 可以导致能力无法加载,比如 "Poison":
+#1 秒 = 20 Ticks
+
+#-----=====[ 主要参数 ]=====-----#
+
+#Max_Grade: 最大等级
+#Base_Duration_Effect: 默认效果持续时间
+#Scale_Duration_Effect: 额外增加时间
+#Scale_Base_Bonus_Damage: 额外增加伤害
+#Scale_Base_Percent_Damage: 额外增加伤害(百分比)
+#Scale_Cast_Bonus_Damage: 能力效果的伤害加成 (就像 爆炸伤害/范围伤害)
+#Scale_Cast_Percent_Damage: 能力效果的伤害加成 (百分比)(同上)
+
+#-----=====[ 能力 ]=====-----#
+
+#Flame: 给敌人造成烧伤 [Grade] [Duration]
+#Poison: 给敌人造成中毒效果 [Grade] [Duration] [Base_Damage]
+#Wither: 给敌人造成凋零效果 [Grade] [Duration] [Base_Damage]
+#Lightning: 给敌人造成雷击 [Grade] [Base_Damage]
+#Cannibalism: 偷取敌人饱食 [Grade] [Base_Damage]
+#Vampirism: 偷取敌人血量 [Grade] [Base_Damage]
+#Freeze: 造成敌人无法移动 [Grade] [Duration] [Base_Damage]
+#Roots: 将敌人拉倒地面 [Grade] [Duration] [Base_Damage]
+#Curse: 造成敌人无法恢复血量 [Grade] [Duration] [Base_Damage]
+#Slowness: 给敌人造成缓慢效果 [Grade] [Duration] [Base_Damage]
+#Fatigue: 给敌人造成疲惫效果(攻击速度降低) [Grade] [Duration] [Base_Damage]
+#Nausea: 给敌人造成恶心效果 [Grade] [Duration] [Base_Damage]
+#Weakness: 给敌人造成虚弱效果 [Grade] [Duration] [Base_Damage]
+#Blind: 给敌人造成致盲效果 [Grade] [Duration] [Base_Damage]
+#Hungry: 给敌人造成饥饿效果 [Grade] [Duration] [Base_Damage]
+#Levitation: 给敌人造成悬浮效果 [Grade] [Duration] [Base_Damage] [MC1.9版本或以上]
+#Badluck: 给敌人造成厄运效果 [Grade] [Duration] [Base_Damage] [MC1.9版本或以上]
+#Harm: 给敌人造成瞬间伤害 [Grade] [Duration] [Base_Damage]
+#Flame_Wheel: 点燃敌人 [Grade] [Duration] [Base_Damage]
+#Air_Shock: 推走敌人 [Grade] [Base_Damage]
+#Dark_Flame: 使用不能熄灭的火焰燃烧敌人 [Grade] [Duration] [Base_Damage] [Cast_Damage]
+#Dark_Impact: 让敌人看起来头晕 [Grade] [Base_Damage]
+#Venom_Spread: 造成敌人中毒并传播到附近 [Grade] [Duration] [Base_Damage] [Cast_Damage]
+#Venom_Blast: 毒液蔓延后爆炸 [Grade] [Duration] [Base_Damage] [Cast_Damage]
+#Bubble_Deflector: 对一条线上的敌人发射泡沫,造成减速 [Grade] [Duration] [Base_Damage] [Cast_Damage]
+
+#-----=====[ 能力配置 ]=====-----#
+
+Poison:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Wither:
+  Max_Grade: 10
+  Base_Duration_Effect: 30
+  Scale_Duration_Effect: 15
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Lightning:
+  Max_Grade: 10
+  Scale_Base_Bonus_Damage: 1
+  Scale_Base_Percent_Damage: 20
+  
+Cannibalism:
+  Max_Grade: 10
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Vampirism:
+  Max_Grade: 10
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Freeze:
+  Max_Grade: 10
+  Base_Duration_Effect: 10
+  Scale_Duration_Effect: 10
+  Scale_Base_Bonus_Damage: 0.5
+  Scale_Base_Percent_Damage: 5
+  
+Roots:
+  Max_Grade: 10
+  Base_Duration_Effect: 20
+  Scale_Duration_Effect: 10
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Curse:
+  Max_Grade: 10
+  Base_Duration_Effect: 20
+  Scale_Duration_Effect: 5
+  Scale_Base_Bonus_Damage: 1
+  Scale_Base_Percent_Damage: 10
+  
+Slowness:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Fatigue:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Nausea:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Weakness:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+
+Blind:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Hungry:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Levitation:
+  Max_Grade: 10
+  Base_Duration_Effect: 30
+  Scale_Duration_Effect: 10
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Badluck:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Harm:
+  Max_Grade: 10
+  Base_Duration_Effect: 8
+  Scale_Duration_Effect: 2
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  
+Flame_Wheel:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 20
+  Scale_Base_Bonus_Damage: 0.5
+  Scale_Base_Percent_Damage: 15
+  
+Air_Shock:
+  Max_Grade: 10
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 10
+  
+Dark_Flame:
+  Max_Grade: 10
+  Base_Duration_Effect: 20
+  Scale_Duration_Effect: 10
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 0
+  Scale_Cast_Bonus_Damage: 0.2
+  Scale_Cast_Percent_Damage: 50
+  
+Dark_Impact:
+  Max_Grade: 10
+  Scale_Base_Bonus_Damage: 0.5
+  Scale_Base_Percent_Damage: 10
+  
+Venom_Spread:
+  Max_Grade: 10
+  Base_Duration_Effect: 40
+  Scale_Duration_Effect: 10
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 10
+  Scale_Cast_Bonus_Damage: 0
+  Scale_Cast_Percent_Damage: 50
+  
+Venom_Blast:
+  Max_Grade: 10
+  Base_Duration_Effect: 20
+  Scale_Duration_Effect: 5
+  Scale_Base_Bonus_Damage: 0
+  Scale_Base_Percent_Damage: 5
+  Scale_Cast_Bonus_Damage: 0.5
+  Scale_Cast_Percent_Damage: 10
+  
+Bubble_Deflector:
+  Max_Grade: 10
+  Base_Duration_Effect: 20
+  Scale_Duration_Effect: 10
+  Scale_Base_Bonus_Damage: 1
+  Scale_Base_Percent_Damage: 10
+  Scale_Cast_Bonus_Damage: 0
+  Scale_Cast_Percent_Damage: 50

@@ -1,0 +1,1995 @@
+PoisonAppleMsg: §e你居然吃了毒苹果，来感受一下快感吧~
+LeavesDropChance: 5
+Leaves2DropChance: 5
+BananaMsg: §a你获得了香蕉的治疗~
+KiwiFruitMsg: §b你的身体正在散发光芒
+StoneDropChance: 5
+DragonFruitMsg: §c火龙果的强化不是一般般的哦~
+BlazeDropChance: 5
+GrapeMsg: §6葡萄可以为你提供额外的生命！
+VineDropChance: 5
+LogDropChance: 5
+StrawberryMsg: §c草莓会使你提高一定效率！
+LogDropChance2: 5
+PineappleMsg: 是否感觉身轻如燕了呢？
+BatDropChance: 5
+OrangeMsg: 这橘子，好吃吗？
+GhastDropChance: 5
+MongoMsg: 你的幸运值正在不断上升
+OreDropChance: 5
+SuperMsg: 让这些效果助你一臂之力！
+EnderPMsg: 你获得了短暂的抗性提升保护！
+EndermanDropChance: 5
+RedSwordUpChance: 5
+FireballBoom: false
+SnowManChance: 1
+ZombiePigChance: 5
+ShulkerChance: 5
+FireballBoom2: false
+EndermanDropChance2: 5
+RottomToLeather: true
+CubeDropChance: 5
+MelonIceMsg: 真爽啊，这西瓜沙冰，都不怕火的说
+AppleSMsg: 苹果糖可以为你增加一定生命值上限
+SquidDropChance: 50
+WolfDropChance: 50
+OcelotDropChance: 50
+HorseDropChance: 50
+Leaves3DropChance: 10
+LapisDropChance: 5
+RedstoneDropChance: 5
+GoldOreDropChance: 1
+DirtOreDropChance: 5
+ZombieDropChance: 5
+Global:
+  ErrorCheck: true
+  PlaceholderAPI: false
+  FixCreativeMod: false
+  FixSilkTouch: true
+  ActionBar: true
+  DisableWorlds: []
+  infoMessage: true
+  MythicMobsHook: false
+  GuideGui: §2§f物品引导 菜单
+Message:
+  PoisonAppleMsg: §e你居然吃了毒苹果，来感受一下快感吧~
+  BananaMsg: §a你获得了香蕉的治疗~
+  KiwiFruitMsg: §b你的身体正在散发光芒
+  DragonFruitMsg: §c火龙果的强化不是一般般的哦~
+  GrapeMsg: §6葡萄可以为你提供额外的生命！
+  StrawberryMsg: §c草莓会使你提高一定效率！
+  PineappleMsg: 是否感觉身轻如燕了呢？
+  OrangeMsg: 这橘子，好吃吗？
+  MongoMsg: 你的幸运值正在不断上升
+  SuperMsg: 让这些效果助你一臂之力！
+  EnderPMsg: 你获得了短暂的抗性提升保护！
+  MelonIceMsg: 真爽啊，这西瓜沙冰，都不怕火的说
+  AppleSMsg: 苹果糖可以为你增加一定生命值上限
+  GuanghuanMsg: '&a&l神圣光环>>>&r本次造成的伤害为：&6%real_damage% &c❤&f基础伤害 （&6%added_damage%&f)&c❤&f额外加成伤害）'
+  RedSwordMsg: '&c红色刀锋效果触发，获得力量加成！'
+  RedSwordMsg2: '&c红色刀锋效果触发，造成暴击伤害！'
+  PosionSword: '&2毒素已经进入到敌人的心脏！'
+  WitherSword: '&5敌人受到了凋零的诅咒！'
+  YuansuA: 敌人陷入了黑夜之中！
+  YuansuB: 敌人轻飘飘的，感觉身体被掏空
+  YuansuC: 敌人的速度被削弱，追击吧！
+  IceSword: '&b敌人被冰冻了，暂时无法移动'
+  ExpFriut: '&a经验果实为你额外增加了经验'
+  EmeraldBow: '&6绿宝石弓 &a自愈 &6效果发动，弓箭耐久度恢复！'
+  FireBirdWings: '&6火鸟之翼 &a敏捷 &6效果发动，获得速度强化！'
+  CarrotJuice: '&6胡萝卜汁就是好喝！'
+  Pock: '&6真好吃啊！'
+  Yangrou: '&6真好吃啊！'
+  Niurou: '&6真好吃啊！'
+  Marou: '&6真好吃啊！'
+  Youyu: '&6真好吃啊！'
+  LangRou: '&6真好吃啊！'
+  Maorou: '&6真好吃啊！'
+  NiuTang: '&6真好吃啊！'
+  Jitang: '&6真好吃啊！'
+  Yutang: '&6真好吃啊！'
+  Xixue: '&4技能共吸取敌人血量 %GetHealth% 点'
+  Shoulie: '&6本次收割经验值 %Exp% 点'
+Other:
+  FireballBoom: false
+  FireballBoom2: false
+  RottomToLeather: true
+  Totem:
+    world:
+      Gamemode: 0
+    world_nether:
+      Gamemode: 0
+    world_the_end:
+      Gamemode: 0
+Drop:
+  I1:
+    Name: 毒苹果
+    Lore:
+    - §b听说这玩意之前毒死了某公主
+    DropMob: []
+    ChanceMob: 0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock:
+    - 18
+    ChanceBlock: 5.0
+    ByTools:
+    - -1
+    DontByTools:
+    - 359
+    Poision: 19
+    Time: 10
+    Level: 1
+    CanRecipe: true
+  I2:
+    Name: 香蕉
+    Lore:
+    - §b香蕉可以为你带来明显的回血效果哦
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock:
+    - 161
+    ChanceBlock: 5.0
+    ByTools:
+    - 268
+    - 267
+    - 276
+    - 272
+    - 283
+    DontByTools: []
+    Poision: 6
+    Time: 1
+    Level: 1
+  I3:
+    Name: 奇异果
+    Lore:
+    - §b奇异果可以让玩家发光哦~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock:
+    - 1
+    ChanceBlock: 5.0
+    ByTools:
+    - 257
+    - 270
+    - 285
+    - 278
+    - 274
+    DontByTools: []
+    Poision: 27
+    Time: 10
+    Level: 1
+  I4:
+    Name: 火龙果
+    Lore:
+    - §b火龙果可以为玩家提供力量增益
+    DropMob:
+    - 61
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 5
+    Time: 10
+    Level: 2
+  I5:
+    Name: 葡萄
+    Lore:
+    - §b葡萄可以暂时提供额外生命上限
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock:
+    - 106
+    ChanceBlock: 5.0
+    ByTools:
+    - -1
+    DontByTools: []
+    Poision: 21
+    Time: 10
+    Level: 1
+  I6:
+    Name: 草莓
+    Lore:
+    - §b草莓酸酸甜甜的，挺好吃的~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock:
+    - 162
+    ChanceBlock: 5.0
+    ByTools:
+    - 256
+    - 269
+    - 273
+    - 277
+    - 284
+    DontByTools: []
+    Poision: 4
+    Time: 15
+    Level: 1
+  I7:
+    Name: 菠萝
+    Lore:
+    - §b来一发菠萝，嗨翻全场！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock:
+    - 17
+    ChanceBlock: 5.0
+    ByTools:
+    - 256
+    - 269
+    - 273
+    - 277
+    - 284
+    DontByTools: []
+    Poision: 8
+    Time: 10
+    Level: 1
+  I8:
+    Name: 橘子
+    Lore:
+    - §b橘子皮虽苦，却品味了人生
+    DropMob:
+    - 65
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 5
+    Time: 10
+    Level: 2
+    DePoision: 19
+    DeTime: 10
+    DeLevel: 1
+  I9:
+    Name: 芒果
+    Lore:
+    - §b芒果可好吃了，要试试吗？
+    DropMob:
+    - 56
+    ChanceMob: 5.0
+    ByWeapon:
+    - 1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 24
+    Time: 30
+    Level: 1
+  I10:
+    Name: 神圣果实
+    Lore:
+    - §b让神圣果实为你提供巨幅增益！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock:
+    - 129
+    ChanceBlock: 5.0
+    ByTools:
+    - 257
+    - 270
+    - 285
+    - 278
+    - 274
+    DontByTools: []
+    Poision: 21
+    Time: 120
+    Level: 2
+  I11:
+    Name: 绿宝石弓
+    Lore:
+    - §b神奇的绿宝石弓，附加了自愈技能！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    GoChance: 5.0
+    HealValue: 4
+  I12:
+    Name: 火鸟之翼
+    Lore:
+    - §b神奇的翼弓，能够显著提高敏捷度！
+    DropMob:
+    - 62
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    MoveSpeed: 0.1
+    EffectTime: 3
+    GoChance: 50
+  I13:
+    Name: 红色刀锋
+    Lore:
+    - §b红色的刀刃散发着一丝血意！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 7.5
+    Speed: 1.6
+    GoChance1: 30.0
+    GoChance2: 30.0
+    CanRecipe: false
+    EffectTime: 3
+  I14:
+    Name: 绿宝石剑
+    Lore:
+    - §b绿宝石制成的剑，简直无与伦比！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 8.0
+    Speed: 1.6
+    CanRecipe: true
+  I15:
+    Name: 绿宝石锄
+    Lore:
+    - §b绿宝石工艺，绝佳的收藏品！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 1.0
+    Speed: 3.0
+    CanRecipe: true
+  I16:
+    Name: 绿宝石锹
+    Lore:
+    - §b绿宝石制成的锹，在阳光下熠熠生辉！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 6.0
+    Speed: 1.0
+    CanRecipe: true
+  I17:
+    Name: 绿宝石斧
+    Lore:
+    - §b绿宝石制成的斧头，贵族才能拥有的制品！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 10.0
+    Speed: 1.0
+    CanRecipe: true
+  I18:
+    Name: 绿宝石稿
+    Lore:
+    - §b绿宝石稿子，据说可以挖到更多绿宝石？
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 7.0
+    Speed: 1.2
+    CanRecipe: true
+  I19:
+    Name: 绿宝石帽子
+    Lore:
+    - §b绿宝石制作的帽子，挺好看的！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    ArmorToughness: 2
+    Armor: 4
+    CanRecipe: true
+  I20:
+    Name: 绿宝石胸甲
+    Lore:
+    - §b绿宝石胸甲，绿绿的诶！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    ArmorToughness: 2
+    Armor: 9
+    CanRecipe: true
+  I21:
+    Name: 绿宝石护腿
+    Lore:
+    - §b绿色的护腿，似乎能有效保护玩家的腿部？
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    ArmorToughness: 2
+    Armor: 7
+    CanRecipe: true
+  I22:
+    Name: 绿宝石靴
+    Lore:
+    - §b绿宝石制成的靴子，真好看啊！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    ArmorToughness: 2
+    Armor: 4
+    CanRecipe: true
+  I23:
+    Name: 石帽子
+    Lore:
+    - §b石制的帽子，挺沉的
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Armor: 1
+    CanRecipe: true
+    MoveSpeed: -0.05
+  I24:
+    Name: 石胸甲
+    Lore:
+    - §b坚硬的石头，似乎能够抵御一部分伤害！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Armor: 4
+    CanRecipe: true
+    MoveSpeed: -0.05
+  I25:
+    Name: 石护腿
+    Lore:
+    - §b石头制成的护腿，虽然行动上有一些不便
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Armor: 3
+    CanRecipe: true
+    MoveSpeed: -0.05
+  I26:
+    Name: 石靴
+    Lore:
+    - §b石制的靴子，冰冷坚硬
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Armor: 1
+    CanRecipe: true
+    MoveSpeed: -0.05
+  I27:
+    Name: 石弓
+    Lore:
+    - §b石质的大弓，坚硬冰冷。
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I28:
+    Name: 金弓
+    Lore:
+    - §b金色的弓，金光闪闪！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I29:
+    Name: 铁弓
+    Lore:
+    - §b银色的铁质弓
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I30:
+    Name: 钻石弓
+    Lore:
+    - §b据说这种材质能够提供特殊技能！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    MoveSpeed: 0.05
+  I31:
+    Name: 西瓜沙冰
+    Lore:
+    - §b西瓜沙冰是什么？吃一口啊！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 12
+    Time: 120
+    Level: 1
+    CanRecipe: true
+  I32:
+    Name: 胡萝卜汁
+    Lore:
+    - §b好喝的胡萝卜汁，能够提供特别的效果！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    Poision: 16
+    Time: 20
+    Level: 1
+  I33:
+    Name: 苹果糖
+    Lore:
+    - §b听说苹果糖很经典！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 21
+    Time: 20
+    Level: 1
+    CanRecipe: true
+  I34:
+    Name: 猪肉烩
+    Lore:
+    - §b这一锅还是费了一番苦心呢~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    Poision: 0
+    Time: 0
+    Level: 0
+  I35:
+    Name: 羊肉汤锅
+    Lore:
+    - §b暖暖身子吧
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    Poision: 0
+    Time: 0
+    Level: 0
+  I36:
+    Name: 麻辣牛肉
+    Lore:
+    - §b辣不辣？
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    Poision: 0
+    Time: 0
+    Level: 0
+  I37:
+    Name: 鱿鱼
+    Lore:
+    - §b来吃点海鲜
+    DropMob:
+    - 94
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 0
+    Time: 0
+    Level: 0
+  I38:
+    Name: 马肉
+    Lore:
+    - §b据说马肉可以补肾？
+    DropMob:
+    - 100
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 0
+    Time: 0
+    Level: 0
+  I39:
+    Name: 狼肉
+    Lore:
+    - §b不仅马肉可以，狼肉也能补肾？
+    DropMob:
+    - 95
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 0
+    Time: 0
+    Level: 0
+  I40:
+    Name: 猫肉
+    Lore:
+    - §b哇，猫肉也可以补肾诶！
+    DropMob:
+    - 98
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Poision: 0
+    Time: 0
+    Level: 0
+  I41:
+    Name: 树枝
+    Lore:
+    - §b放在地上就可以得到木棍了！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock:
+    - 18
+    - 161
+    ChanceBlock: 5.0
+    ByTools:
+    - -1
+    DontByTools:
+    - 359
+  I42:
+    Name: 羽翅
+    Lore:
+    - §b白色的羽毛，是神的吗
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    MoveSpeed: 0.3
+  I43:
+    Name: 隐形的翅膀
+    Lore:
+    - §b看不见，摸不着
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I44:
+    Name: 水翼
+    Lore:
+    - §b海洋的深渊在呐喊
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I45:
+    Name: 地心恐惧
+    Lore:
+    - §b来自地底的愤怒，蔓延开来！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    HealthBoost: 6.0
+  I46:
+    Name: 蓝宝石
+    Lore:
+    - §b蓝色的宝石，可以用作交易
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I47:
+    Name: 红宝石
+    Lore:
+    - §b红色的宝石，可以用作交易
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I48:
+    Name: 黄宝石
+    Lore:
+    - §b黄色的宝石，可以用作交易
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I49:
+    Name: 玩具刀
+    Lore:
+    - §b据说这是一把玩具？你为什么不把它
+    - §b当成一把真正的刀呢？
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I50:
+    Name: 光剑·红
+    Lore:
+    - §b红色的光剑，看起来还是比较炫酷呢~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 4.5
+    Speed: 1.9
+    CanRecipe: true
+  I51:
+    Name: 光剑·橙
+    Lore:
+    - §b橙色的光剑，看起来还是比较炫酷呢~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 4.0
+    Speed: 2.2
+    CanRecipe: true
+  I52:
+    Name: 光剑·黄
+    Lore:
+    - §b黄色的光剑，看起来还是比较炫酷呢~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 3.5
+    Speed: 2.5
+    CanRecipe: true
+  I53:
+    Name: 光剑·绿
+    Lore:
+    - §b绿色的光剑，看起来还是比较炫酷呢~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 3.0
+    Speed: 2.8
+    CanRecipe: true
+  I54:
+    Name: 光剑·蓝
+    Lore:
+    - §b蓝色的光剑，看起来还是比较炫酷呢~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 2.5
+    Speed: 3.0
+    CanRecipe: true
+  I55:
+    Name: 光剑·紫
+    Lore:
+    - §b紫色的光剑，看起来还是比较炫酷呢~
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 2.0
+    Speed: 3.3
+    CanRecipe: true
+  I56:
+    Name: 木枪
+    Lore:
+    - §b木质枪，感觉有点不尽人意呢
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 3.5
+    Speed: 1.4
+    CanRecipe: true
+  I57:
+    Name: 石枪
+    Lore:
+    - §b据说原始人常用这种武器
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 4.5
+    Speed: 1.4
+    CanRecipe: true
+  I58:
+    Name: 铁枪
+    Lore:
+    - §b铁质枪，给人一种金属感
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 5.5
+    Speed: 1.4
+    CanRecipe: true
+  I59:
+    Name: 金枪
+    Lore:
+    - §b金色的利刃，似乎要突破天际了呢
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 4.0
+    Speed: 1.4
+    CanRecipe: true
+  I60:
+    Name: 钻石枪
+    Lore:
+    - §b只有最勇敢的冒险家才能配上这把钻石枪
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 6.5
+    Speed: 1.4
+    CanRecipe: true
+  I61:
+    Name: 绿宝石枪
+    Lore:
+    - §b绿宝石枪可谓是最珍贵的武器了
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 6.5
+    Speed: 1.6
+    CanRecipe: true
+  I62:
+    Name: 黑曜石枪
+    Lore:
+    - §b来自极夜的呼唤
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 7.0
+    Speed: 1.3
+    CanRecipe: true
+  I63:
+    Name: 末影珍珠·影能
+    Lore:
+    - §b传送并获得抗性提升
+    DropMob:
+    - 58
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I64:
+    Name: 剧毒刀刃
+    Lore:
+    - §b充满剧毒的刀刃，有概率为敌人附上
+    - §b中毒效果！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 5.5
+    Speed: 1.4
+    GoChance: 30.0
+    CanRecipe: true
+  I65:
+    Name: 剧毒刀刃·二阶
+    Lore:
+    - §b毒性更加凶猛的刀刃，会
+    - §b造成更严重的中毒！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 6.5
+    Speed: 1.6
+    GoChance: 45.0
+  I66:
+    Name: 凋零刀刃
+    Lore:
+    - §b没有什么能比得过在时间流逝中杀死
+    - §b对手的感觉了！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 5.5
+    Speed: 1.4
+    GoChance: 25.0
+    CanRecipe: true
+  I67:
+    Name: 凋零刀刃·二阶
+    Lore:
+    - §b被染黑的血液似乎快堕落了呢
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 6.5
+    Speed: 1.6
+    GoChance: 40.0
+  I68:
+    Name: 凋零刀刃·三阶
+    Lore:
+    - §b没有什么是人做不到的，痛下杀手？
+    - §b得了吧，那只是个游戏而已。
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 7.5
+    Speed: 1.8
+    GoChance: 50.0
+  I69:
+    Name: 木锤
+    Lore:
+    - §b经典的木质大锤
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 6.0
+    Speed: 1.0
+    CanRecipe: true
+  I70:
+    Name: 石锤
+    Lore:
+    - §b坚硬的石质大锤
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 7.0
+    Speed: 1.1
+    CanRecipe: true
+  I71:
+    Name: 铁锤
+    Lore:
+    - §b强力的铁质大锤
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 8.0
+    Speed: 1.2
+    CanRecipe: true
+  I72:
+    Name: 金锤
+    Lore:
+    - §b闪亮的金质大锤
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 6.5
+    Speed: 1.3
+    CanRecipe: true
+  I73:
+    Name: 钻石锤
+    Lore:
+    - §b世上最奇怪的一种人叫朋友，略得些名利，
+    - §b朋友全来了
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 9.0
+    Speed: 1.4
+    CanRecipe: true
+  I74:
+    Name: 绿宝石锤
+    Lore:
+    - §b宽恕我的平凡，驱散了迷惘
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 9.0
+    Speed: 1.6
+    CanRecipe: true
+  I75:
+    Name: 黑曜石锤
+    Lore:
+    - §b苟利国家生死以，
+    - §b岂因福祸避趋之。
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 12.0
+    Speed: 1.2
+    CanRecipe: true
+  I76:
+    Name: §e雷电法杖 ⚡
+    Lore:
+    - §b此法杖拥有操控雷电的能力
+    DropMob:
+    - 69
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Cooldown: 30
+    CanRecipe: true
+  I77:
+    Name: §b寒冰法杖 ❉
+    Lore:
+    - §b此法杖拥有操控寒冰的能力
+    DropMob:
+    - 97
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Cooldown: 3
+    CanRecipe: true
+  I78:
+    Name: §c烈焰法杖 ✹
+    Lore:
+    - §b此法杖拥有操控烈焰的能力
+    DropMob:
+    - 57
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Cooldown: 30
+    CanRecipe: true
+    LargeChance: 10.0
+  I79:
+    Name: 黑曜石剑
+    Lore:
+    - §b黑色的剑身显得格外绅士
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 10.0
+    Speed: 1.4
+    CanRecipe: true
+  I80:
+    Name: 黑曜石锄
+    Lore:
+    - §b把它看成一把黑色的锄头就行了
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 6.0
+    Speed: 0.8
+    CanRecipe: true
+  I81:
+    Name: 黑曜石锹
+    Lore:
+    - §b一把黑色的锹，怎么说呢
+    - §bemmmm...
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 8.0
+    Speed: 0.8
+    CanRecipe: true
+  I82:
+    Name: 黑曜石斧
+    Lore:
+    - §b别跟我说这是黑色切割者
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 12.0
+    Speed: 0.8
+    CanRecipe: true
+  I83:
+    Name: 黑曜石镐
+    Lore:
+    - §b尽力挖掘吧！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 7.0
+    Speed: 1.0
+    CanRecipe: true
+  I84:
+    Name: 黑曜石头盔
+    Lore:
+    - §b黑色的头盔，还不错。
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    ArmorToughness: 3
+    Armor: 3
+    CanRecipe: true
+    MoveSpeed: -0.07
+  I85:
+    Name: 黑曜石胸甲
+    Lore:
+    - §b黑曜石制成的胸甲，坚硬无比
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    ArmorToughness: 3
+    Armor: 8
+    CanRecipe: true
+    MoveSpeed: -0.15
+  I86:
+    Name: 黑曜石护腿
+    Lore:
+    - §b似乎能够保护你的膝盖的不被小白射穿
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    ArmorToughness: 3
+    Armor: 6
+    CanRecipe: true
+    MoveSpeed: -0.08
+  I87:
+    Name: 黑曜石靴子
+    Lore:
+    - 黑曜石制成的靴子，行万里路！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    ArmorToughness: 3
+    Armor: 3
+    CanRecipe: true
+    MoveSpeed: -0.04
+  I88:
+    Name: 附魔珠
+    Lore:
+    - §b神奇的珠子，真的神奇！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Cooldown: 60
+    CanRecipe: true
+  I89:
+    Name: 牛肉汤
+    Lore:
+    - §b偶尔还是喝一碗养养神
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    Poision: 0
+    Time: 0
+    Level: 0
+  I90:
+    Name: 鸡肉汤
+    Lore:
+    - §b想不到竟是一晚毒鸡汤
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    Poision: 0
+    Time: 0
+    Level: 0
+  I91:
+    Name: 鱼汤
+    Lore:
+    - §b这鱼汤咋这么苦？鱼胆都没扣出去？！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+    Poision: 0
+    Time: 0
+    Level: 0
+  I92:
+    Name: 元素刃·幽暗
+    Lore:
+    - §b残忍的刀刃，能够使敌人致盲
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    GoChance: 25.0
+    Damage: 5
+    Speed: 2
+    Cooldown: 5
+  I93:
+    Name: 元素刃·轻柔
+    Lore:
+    - §b强力的刀刃，能够让敌人漂浮
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    GoChance: 25.0
+    Damage: 5
+    Speed: 2
+    Cooldown: 20
+  I94:
+    Name: 元素刃·追击
+    Lore:
+    - §b即使在敌人奄奄一息时也不
+    - §b手下留情，而是乘胜追击！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    GoChance: 25.0
+    Damage: 5
+    Speed: 2
+    Cooldown: 5
+  I95:
+    Name: 吸血之刃
+    Lore:
+    - §b攻击敌人有概率吸血
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    GoChance: 10.0
+    Damage: 7
+    Speed: 1.6
+    Mutiply: 0.2
+  I96:
+    Name: 狩猎之刃·亡灵
+    Lore:
+    - §b在我的刀刃之下死去吧！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    GoChance: 5.0
+    Damage: 10
+    Speed: 1.4
+    DropExp: 1
+  I97:
+    Name: 双刃剑
+    Lore:
+    - §b一把双刃剑，恐怖至极！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    GoChance: 50.0
+    Damage: 3.5
+    Speed: 1.6
+    CanRecipe: true
+  I98:
+    Name: 生命交换者
+    Lore:
+    - §b想要交换生命值吗？
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I99:
+    Name: 破败刃
+    Lore:
+    - §b一把需要代价的武器！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 7.0
+    Speed: 1.6
+    CanRecipe: true
+  I100:
+    Name: 经验果实
+    Lore:
+    - §b经验果实？很好吃的样子诶！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    GiveXP: 10
+  I101:
+    Name: 便携式工作台
+    Lore:
+    - §b右键即可快速使用工作台！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I102:
+    Name: 雪狐 X
+    Lore:
+    - §b右键消耗背包内雪球，并发射！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I103:
+    Name: 炎爆 X
+    Lore:
+    - §b右键发射背包内烈焰弹！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I104:
+    Name: 暗影 X
+    Lore:
+    - §b右键发射背包内凋零骷髅头颅炸弹！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true
+  I105:
+    Name: 寒冰之刃
+    Lore:
+    - §b这把剑充满了寒冰的气息！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 5.5
+    Speed: 1.6
+    IceTime: 5
+    GoChance: 10.0
+    CanRecipe: true
+  I106:
+    Name: 无情之刃
+    Lore:
+    - §b无情之刃，是真的无情啊！
+    DropMob:
+    - 58
+    ChanceMob: 5.0
+    ByWeapon:
+    - -1
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    Damage: 5.5
+    Speed: 1.6
+    GoChance: 30.0
+  I107:
+    Name: 血族契约
+    Lore:
+    - §b一本强大的魔导书！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I108:
+    Name: 冶炼者
+    Lore:
+    - §b在挖掘矿物时，自动冶炼！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I109:
+    Name: 神圣光环·力量
+    Lore:
+    - §b性价比相当高的辅助物品！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    goChance: 30.0
+  I110:
+    Name: 传送弓
+    Lore:
+    - §b这把弓可以传送？假的吧？
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I111:
+    Name: 不死图腾
+    Lore:
+    - §b拥有复活玩家的神奇效果！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I112:
+    Name: 神奇剪刀
+    Lore:
+    - §b一把神奇的剪刀，可以在剪羊毛时获得更多羊毛！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I113:
+    Name: 等价契约
+    Lore:
+    - §b凡是都会有牺牲，这就是契约！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I114:
+    Name: 衰变药水
+    Lore:
+    - §b在衰变中死去吧！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I115:
+    Name: 急迫药水
+    Lore:
+    - §b为你提供更高的效率！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I116:
+    Name: 漂浮药水
+    Lore:
+    - §b似乎要飞上云端了呢！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I117:
+    Name: 反胃药水
+    Lore:
+    - §b想来尝试一次神魂颠倒吗？
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I118:
+    Name: 抵抗药水
+    Lore:
+    - §b喝下它吧！背水一战！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I119:
+    Name: 失明药水
+    Lore:
+    - §b在无尽的黑暗中前行吧！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I120:
+    Name: 饥饿药水
+    Lore:
+    - §b饥荒将在这里蔓延！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I121:
+    Name: 充盈药水
+    Lore:
+    - §b让你的生命值更多吧！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I122:
+    Name: 吸收药水
+    Lore:
+    - §b获得伤害吸收效果！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I123:
+    Name: 饱和药水
+    Lore:
+    - §b饿了么，来饱和一下吧！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I124:
+    Name: 霉运药水
+    Lore:
+    - §b让倒霉伴你左右！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I125:
+    Name: 发光药水
+    Lore:
+    - §b居然！发光了诶！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+  I126:
+    Name: 引导之书
+    Lore:
+    - §b右键即可打开物品引导！
+    - §b请务必好好保管！
+    DropMob: []
+    ChanceMob: 0.0
+    ByWeapon: []
+    DontByWeapon: []
+    DropBlock: []
+    ChanceBlock: 0.0
+    ByTools: []
+    DontByTools: []
+    CanRecipe: true

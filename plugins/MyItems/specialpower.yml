@@ -1,0 +1,44 @@
+#注意: 
+#请使用 [空格] 而不是 [Tab]
+#作者忘记添加打开和关闭的功能, 字符串 ["] 可以导致能力无法加载
+#1 秒 = 20 Ticks
+
+#-----=====[ 主要参数 ]=====-----#
+
+#Duration_Effect: 效果持续时间
+#Base_Additional_Damage: 使用时造成的额外伤害
+#Base_Percent_Damage: 使用时造成的额外伤害(百分比)
+
+#-----=====[ Attributes ]=====-----#
+
+#Blink: 闪现一定距离
+#Fissure: 对一条线上的敌人发射火焰,并造成地面裂缝 [Duration] [Damage]
+#Ice_Spikes: 召唤冰锥,造成敌人缓慢 [Duration] [Damage]
+#Amaterasu: 召唤一团黑色火焰,导致附近实体燃烧 [Duration] [Damage]
+#Nero_Beam: 射击引起一条线上敌人缓慢 [Duration] [Damage]
+
+#-----=====[ Ability Configuration ]=====-----#
+
+Blink:
+  Base_Additional_Damage: 0
+  Base_Percent_Damage: 100
+
+Fissure:
+  Duration_Effect: 60
+  Base_Additional_Damage: 3
+  Base_Percent_Damage: 200
+  
+Ice_Spikes:
+  Duration_Effect: 80
+  Base_Additional_Damage: 2
+  Base_Percent_Damage: 130
+  
+Amaterasu:
+  Duration_Effect: 100
+  Base_Additional_Damage: 1
+  Base_Percent_Damage: 50
+  
+Nero_Beam:
+  Duration_Effect: 50
+  Base_Additional_Damage: 2.5
+  Base_Percent_Damage: 150

@@ -1,0 +1,38 @@
+socialspy: false
+lastAccountName: suizhihao
+timestamps:
+  login: 1500118080710
+  lastteleport: 1500119111265
+  logout: 1500119265431
+ipAddress: 110.245.198.132
+geolocation: China
+lastlocation:
+  world: myzd
+  x: 5.529335168733225
+  y: 58.0
+  z: -0.5818600709513391
+  yaw: 316.31473
+  pitch: 59.251495
+logoutlocation:
+  world: plotworld
+  x: 15.54012445025165
+  y: 65.0
+  z: -96.39340209028579
+  yaw: 248.4731
+  pitch: 3.0908525
+homes:
+  home:
+    world: sc
+    x: 1.5176759300000012E7
+    y: 93.0
+    z: -2.4202811300000012E7
+    yaw: -276.93628
+    pitch: 21.477674
+  c:
+    world: sc
+    x: -1.0668103697981028E7
+    y: 73.0
+    z: -2.348888069832306E7
+    yaw: 91.75771
+    pitch: -21.636967
+money: '435.53'

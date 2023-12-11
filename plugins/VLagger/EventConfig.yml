@@ -1,0 +1,37 @@
+Version: 266
+AntiSpam:
+  enable: true
+  Period:
+    Period: 2.0
+    WarnMessage: §c请慢点说话，别激动嘛！ _(:з」∠)_
+  Dirty:
+    List:
+    - 操你妈
+    - 妈逼
+    - SB
+    - 弱智
+    - 智障
+    - 杂种
+    - 狗娘
+    WarnMessage: §c啥事那么大搞得你想骂人啊~ _(:з」∠)_
+NoEggChangeSpawner:
+  enable: true
+  TipMessage: §c抱歉，禁止使用刷怪蛋修改刷怪笼
+BlockCommander:
+  enable: true
+  NoColonTip: §r您不可以用冒号代替插件来执行指令！
+  List:
+    NoSpawnWorld:
+      /spawn:
+        Message: 想在这个世界回城？没门！
+    worldname:
+      /back:
+        Message: 不好使，不可以用back!
+      /tpa:
+        Message: WIFI没信号，不能传送。
+AutoRespawn:
+  enable: true
+  RespawnTitle:
+    enable: true
+    MainMessage: §e你死了！
+    MiniMessage: §c已为您自动复活！

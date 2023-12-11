@@ -1,0 +1,27 @@
+lastlocation:
+  world: plotworld
+  x: 26.320433116319958
+  y: 66.0
+  z: -9.44624243159705
+  yaw: -140.99414
+  pitch: 34.102722
+socialspy: false
+geolocation: China
+lastAccountName: Mo_Ran
+timestamps:
+  login: 1500119922556
+  logout: 1500124612056
+  lastteleport: 1500123721943
+  mute: 0
+ipAddress: 223.73.246.120
+logoutlocation:
+  world: sc
+  x: 2.3069122699999988E7
+  y: 65.0
+  z: -1.7476058300000012E7
+  yaw: -73.107544
+  pitch: 15.4005375
+powertools: {}
+afk: false
+muted: false
+money: '270.0'

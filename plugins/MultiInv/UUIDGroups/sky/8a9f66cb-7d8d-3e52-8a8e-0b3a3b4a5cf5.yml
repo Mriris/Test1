@@ -1,0 +1,8 @@
+SURVIVAL: '{"potions":[],"inventory":{"size":41,"items":{"0":{"item":"DIAMOND_AXE","quantity":1,"durability":7,"nbttags":null,"enchantments":{}},"22":{"item":"DIAMOND","quantity":7,"durability":0,"nbttags":null,"enchantments":{}},"1":{"item":"COAL","quantity":1,"durability":0,"nbttags":null,"enchantments":{}},"2":{"item":"APPLE","quantity":1,"durability":0,"nbttags":null,"enchantments":{}}}},"armour":{"size":4,"items":{}}}'
+experience: 0
+level: 9
+exp: 0.15
+gameMode: SURVIVAL
+health: 20.0
+hunger: 16
+saturation: 0.0

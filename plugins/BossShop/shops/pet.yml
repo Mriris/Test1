@@ -1,0 +1,131 @@
+signs:
+  text: '[pet]'
+  NeedPermissionToCreateSign: true
+shop:
+  pet1:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mypet
+    MenuItem:
+    - id:434
+    - amount:1
+    - name:&a&l查看宠物帮助
+    - lore:&5用&n栓绳&5捕捉
+    - amount:1
+    InventoryLocation: 1
+    ExtraPermission: ''
+  pet2:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - petcapturehelper
+    MenuItem:
+    - id:420
+    - amount:1
+    - name:&b&l宠物捕捉模式开关
+    - lore:&5用&n&l栓绳&5捕捉#&6一个人只能有一只宠物
+    - amount:1
+    InventoryLocation: 2
+    ExtraPermission: ''
+  pet3:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - pcst
+    MenuItem:
+    - id:6
+    - amount:1
+    - name:&c&l设置宠物的技能树
+    - lore:&5你的宠物要往哪方面发展呢？
+    - amount:1
+    InventoryLocation: 3
+    ExtraPermission: ''
+  pet4:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - petc
+    MenuItem:
+    - id:383
+    - amount:1
+    - name:&d&l召唤宠物
+    - lore:&6&m出来吧皮卡丘！
+    - amount:1
+    InventoryLocation: 4
+    ExtraPermission: ''
+  pet5:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - petsa
+    MenuItem:
+    - id:402
+    - amount:1
+    - name:&d&l收回宠物
+    - lore:&6&m回来吧皮卡丘！
+    - amount:1
+    InventoryLocation: 5
+    ExtraPermission: ''
+  pet6:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - petname
+    MenuItem:
+    - id:421
+    - amount:1
+    - name:&e&l查看给宠物命名指令帮助
+    - lore:&6&n/petname 你想要设置的名字&6即可！
+    - amount:1
+    InventoryLocation: 6
+    ExtraPermission: ''
+  pet7:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - petrelease
+    MenuItem:
+    - id:46
+    - amount:1
+    - name:&4&l放生宠物！
+    - lore:&6&l&o点击后需要点击聊天栏中的宠物名称确认操作！#&e&l&n一旦确认无法撤销！！
+    - amount:1
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&c返回
+    - lore:&e点击返回主菜单
+    Message: '&6已返回到主菜单...'
+    InventoryLocation: 9
+    ExtraPermission: ''
+# 配置文件版本,重要,请勿修改
+# 插件升级配置的时候需要用到
+version: '1.2'
+Setting:
+  # 进入商店时的消息,如果留空,则不显示消息
+  EnterMessage: ''
+  # 离开商店时的消息,如果留空,则不显示消息
+  LeaveMessage: ''
+  # 如果为true,则该商店为抽奖商店
+  ShopTypeSpecial: false
+  # 右击物品时,商品默认的购买数量
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  RightClickBuyCount: 1
+  # 玩家是否可以设置右键购买数量
+  # 免费物品强制不能设置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  AllowChangeRightClickBuyCount: false
+  # 当右键购买数量大于1时,显示右键购买数量
+  # 物品设置为false可以用来自定义右键购买数量Lore消息
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  ShowRightClickBuyCount: true
+  # 商品属性显示配置,说明参考配置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  HideItemFlag: 63

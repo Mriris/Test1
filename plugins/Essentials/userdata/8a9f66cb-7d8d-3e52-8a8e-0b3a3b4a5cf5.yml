@@ -1,0 +1,26 @@
+socialspy: false
+geolocation: China
+lastAccountName: wdsddj
+timestamps:
+  login: 1500172274516
+  mute: 0
+  lastteleport: 1500168851238
+  logout: 1500172278713
+ipAddress: 59.59.149.223
+lastlocation:
+  world: ASkyBlock
+  x: 0.40416979668694747
+  y: 119.875
+  z: 151.48460885653364
+  yaw: -55.181717
+  pitch: 45.523148
+muted: false
+money: '4904.0'
+logoutlocation:
+  world: hsc
+  x: 263.69999998807907
+  y: 68.0
+  z: 151.30000001192093
+  yaw: 248.09114
+  pitch: 11.090997
+afk: false

@@ -1,0 +1,208 @@
+# 配置文件版本,重要,请勿修改
+# 插件升级配置的时候需要用到
+version: '1.8'
+# 是否开启调试模式
+# 如果开启调试模式,插件报错的时候会输出完整的堆栈错误
+# 还可能会输出一些个人设置的调试信息
+debug: true
+# 插件大部分消息前缀
+MsgPrefix: §c[§7BossShop§c]§b
+# 是否开启服务器信息收集,只是用于插件使用情况统计
+# 收集的信息: 使用版本 服务器ID 服务器IP 服务器端口 服务器版本 Java版本 系统版本
+EnableMetrics: true
+# 启用贴牌创建BossShop商店入口
+EnableSigns: true
+# BossShop主商店
+MainShop: Menu
+# 物品名字翻译语言,用于寄售物品和邮件 时候使用
+# 如果翻译不存在,会在线下载
+ItemNameLang: zh_CN
+# 物品打开主商店的配置
+# 玩家需要有BossShop.open.menu权限才能打开
+OpenMainShop:
+  # 打开BossShop主商店的物品
+  BindItem: 347
+  # 使用物品打开商店时是否需要潜行
+  SneakNeed: true
+# 命令打开商店的延迟
+# 用来兼容例如时钟命令等插件
+OpenShopDelay: 0
+# 隐藏玩家没有权限购买的物品
+HideItemsPlayersDoNotHavePermissionsFor: false
+# 允许不安全的附魔
+AllowUnsafeEnchantments: false
+# 邮件和寄售物品卖出后使用该声音提醒玩家
+# 如果未设置则不通知
+NotifySound: ENTITY_PLAYER_LEVELUP
+MultiplierGroups:
+  Enabled: false
+  List:
+  - Permission.Node:<type>:<multiplier>
+  - BossShop.PriceMultiplier.Points1:points:0.75
+  - BossShop.PriceMultiplier.Points1:points:0.5
+  - BossShop.PriceMultiplier.Money1:money:0.75
+  - BossShop.PriceMultiplier.Money2:money:0.5
+  - BossShop.PriceMultiplier.MoneyNegative:money:2.0
+  - BossShop.PriceMultiplier.Exp:exp:0.8
+SaleSystem:
+  # 寄售系统主配置
+  ShopBaseName: SYSTEM_SALE
+  # 寄售商店大小
+  # 必须为9的整数,不超过81,而且商店最后两格需要留空用来制作导航按钮
+  # 一旦设置过大小并创建了寄售商店后,就不要改这个值了,除非同时修改商店文件,不然导航功能会失效
+  ShopSize: 54
+  # 寄售商店最大数量
+  ShopMaxNumb: 2
+  # 金币收入手续费,百分比0-99
+  MoneyPoundage: 5
+  # 点券收入手续费,百分比0-99
+  PointsPoundage: 5
+  # 金币寄售默认显示的物品,只支持数值,不支持12:3的类型
+  MoneyItem: 9
+  # 点券寄售默认显示的物品,只支持数值,不支持12:3的类型
+  PointsItem: 10
+  # 默认寄售时长(秒),这里是一天
+  SaleTime: 86400
+  # 下架需要花费的金币数量,默认没有下架权限
+  # 权限BossShop.unsale.user: 下架自己物品的权限
+  # 权限BossShop.unsale.admin: 下架所有人物品的权限,并且不要支付下架花费
+  UnsaleCost: 1000
+  # 每天的下架数量限制,拥有BossShop.unsale.admin的使人可以无视该权限
+  # 下架记录保存在buyRecord.yml文件中
+  UnsaleCount: 3
+  # 个人允许最多同时寄售物品数量的上限,如果玩家有BossShop.sale.unlimited权限可以无限寄售
+  PerOneSaleLimit: 3
+  # 是否启用鼠标滚轮更改右键购买数量
+  EnableWheelChangeBuyCount: true
+  # 设置寄售物品的显示格式
+  # 如果一行中有空格的话需要用单引号把整句括起来
+  # 可用的变量,SaleItemLore中也可以使用这些变量
+  # %bs_sale_owner_name%        寄售者的名字
+  # %bs_sale_item_id%           寄售物品的编号
+  # %bs_sale_item_sigle_count%  寄售物品单份数量
+  # %bs_sale_item_part_count%   寄售物品份数
+  # %bs_sale_item_type%         寄售物品类型,[金币,点券,物品],如果要修改这几个请转到语言列表的Word节点
+  # %bs_sale_item_name%         寄售物品名字,[金币,点券,物品英文名],前两项同上,,最后一项为物品翻译名字
+  # %bs_sale_price%             寄售物品价格,这个只显示数字
+  # %bs_sale_price_type%        寄售物品类型,[金币,点券],要修改同上上
+  SaleItemName: '&2寄售: %bs_sale_item_sigle_count% %bs_sale_item_name%'
+  # 设置寄售物品的lore格式,时间限制和数量限制为默认lore,如果需要修改请转到语言文件
+  # lore最好加上颜色,不然默认是斜体紫色,丑!
+  # lore默认显示在物品属性下面,过期信息,数量限制等信息的上面
+  SaleItemLore:
+  - '&3寄售者: %bs_sale_owner_name%'
+  - '&2寄售编号: %bs_sale_item_id%'
+  - '&c价格: %bs_sale_price% %bs_sale_price_type%'
+  # 禁止寄售的物品
+  # 可以为 `WATCH@0`  或者  `347@0`
+  # 如果没有填写@后面的部分,那么该id物品下所有子id都不能寄售
+  SaleItemBlackList:
+  - WATCH
+  # 禁止寄售Lore或者自定义的物品名字中包含以下字符串的物品
+  # 支持正则表达式,特殊字符请注意转义
+  SaleItemBlackLoreList:
+  - 灵魂
+  - 绑定
+  # 是否自动排序寄售商店,排序只针对单独的商店(不建议开启)
+  SortSaleShop: false
+  # 不同权限,玩家的物品寄售上限
+  # SaleLimitGroup:
+  #   default: 3
+  # 例如以上的,如果玩家拥有BossShop.sale.group.default权限
+  # 那么,拥有该权限的玩家的寄售上限至少是3
+  # 但是如果PerOneSaleLimit节点设置的数量大于3,那么玩家的寄售上限就是PerOneSaleLimit节点设置的值
+  SaleLimitGroup:
+    default: 3
+    sale_vip1: 5
+MailSystem:
+  # 邮箱大小,超过此大小的物品将不会保存
+  MaxSize: 10
+  # 发送邮件的花费(金币)
+  SendCost: 1000
+LotterySystem:
+  # 基础Ticks,多少Ticks快速刷新一次背包
+  ReflashBaseTicks: 5
+  # 预览抽奖时,过了多少倍ReflashBaseTicks后刷新一次背包
+  ReflashLowMultiple: 4
+  # 进行抽奖时,刷新背包多少次
+  RefalshFastCount: 20
+  # 抽奖以及未抽奖时,物品显示比例,最高50,交替显示(50的话就只有两个显示样子了)
+  ShowPrecent: 34
+AutoClear:
+  # NBT过期天数,超过该天数未被引用而且是自动创建的NBT会被清理
+  NBTExpiredDays: 7
+# 隐藏寄售物品的攻击效果等属性
+#  1|0.HIDE_ENCHANTS           附魔
+#  2|1.HIDE_ATTRIBUTES         前缀
+#  4|2.HIDE_UNBREAKABLE        不可破坏
+#   8|3.HIDE_DESTROYS,          受损度
+# 16|4.HIDE_PLACED_ON,         放置
+# 32|5.HIDE_POTION_EFFECTS     药水效果
+# 如何隐藏物品的状态??如果想隐藏相应的属性,只要把前面的数字加起来就可以了,如果要全部隐藏,就是63(默认)
+# 注意此项设置只在1.8.3及其以后的版本有效,低版本的只有设置0和非零来开启全部或关闭全部显示,不能选择关闭什么
+# 更低版本的可能不支持关闭
+# 上面的表也可能存在错误就是前面的数字对应的不是这个属性的隐藏
+HideItemFlag: 63
+# 可选[PlayerPoints,PointsAPI,EnjinMinecraftPlugin,CommandPoints,DDMLibPro2]
+# 如果是[auto-detect],将会自动选择
+PointsPlugin: auto-detect
+# 玩家点击商品的间隔(毫秒),无论是否购买成功,都会重复点击会重新计时
+CoolTime: 200
+# 数字键盘功能键(1-9),当前可用的功能:
+# ADD_RIGHT_CLICK_BUY_COUNT 增加右键购买数量
+# REDUCE_RIGHT_CLICK_BUY_COUNT 减少右键购买数量
+# LEFT_CLICK_BUY_GOODS 模拟左键购买物品
+# RIGHT_CLICK_BUY_GOODS 模拟右键购买物品
+# UNSALE_GOODS 下架物品
+NumbKey:
+  # 此处将数字键盘和功能绑定NumbKey@数字 ,数字就是在按下该数字时,执行对应的功能
+  NumbKey@1: ADD_RIGHT_CLICK_BUY_COUNT
+  NumbKey@2: REDUCE_RIGHT_CLICK_BUY_COUNT
+# 资源下载链接
+# 除非你知道如何修改,否则请勿修改
+DownloadLink:
+  # 各版本Json下载链接
+  # 官方:https://s3.amazonaws.com/Minecraft.Download/versions/%version%/%version%.json
+  # 国内:http://bmclapi2.bangbang93.com/version/%version%/json
+  Versions: http://bmclapi2.bangbang93.com/version/%version%/json
+  # 对应版本的asset文件索引
+  # 官方:https://launchermeta.mojang.com
+  # 国内:http://bmclapi2.bangbang93.com/
+  AssetIndex: http://bmclapi2.bangbang93.com/
+  # lang语言文件下载链接
+  # 官方:http://resources.download.minecraft.net/
+  # 国内:http://bmclapi2.bangbang93.com/assets/
+  Lang: http://bmclapi2.bangbang93.com/assets/
+ShopDefaultSetting:
+  # 右击物品时,商品默认的购买数量
+  # 用于创建商店的时候提供默认值
+  RightClickBuyCount: 1
+  # 玩家是否可以设置右键购买数量
+  # 免费物品强制不能设置
+  # 玩家必须同时拥有BossShop.changeBuyCount的权限才能更改
+  # 用于创建商店的时候提供默认值
+  AllowChangeRightClickBuyCount: false
+  # 当右键购买数量大于1时,显示右键购买数量
+  # 物品或商店设置为false可以用来自定义右键购买数量Lore消息
+  # 用于创建商店的时候提供默认值
+  ShowRightClickBuyCount: true
+# 交易记录设置
+TransactionLog:
+  # 启用交易记录
+  Enable: false
+  # 交易日志保留天数,小于等于0表示无限制
+  LogSaveDays: 30
+  # 不记录的商品类型
+  LogIgnoreGoodsType:
+  - Nothing
+  - Shop
+  # 不记录的价格类型
+  LogIgnorePriceType:
+  - Nothing
+# 设置消息输出等级
+# INFO<WARN<SEVERE<DEBUG<DEVELOP
+# WARN:输出警告,SEVERE:输出错误,DEBUG:输出调试,错误堆栈,DEVELOP:输出开发信息
+LogLevel: DEBUG
+# 是否启用线程安全检查
+# 当前的安全检查有[命令是否异步运行]
+IsThreadSafe: true

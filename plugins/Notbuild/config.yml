@@ -1,0 +1,23 @@
+Notbuildworld:
+- world
+- world_the_end
+- fuben5
+- paoku
+- fuben7
+- rpl
+- newspawn
+- spawn
+Break:
+  switch: true
+  message: '&e此世界已被&4&l智瞳&e守护！'
+Place:
+  switch: true
+  message: '&e此世界已被&0&l黑爪&e占领！'
+LeavesDecayworld:
+- world
+- world_nether
+- world_the_end
+BlockFadeworld:
+- world
+- world_nether
+- world_the_end

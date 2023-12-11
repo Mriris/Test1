@@ -1,0 +1,7 @@
+pluginname: '&6[&b超级跳板&6]&r '
+no-permission: '&c你没有使用跳板的权限!'
+create: '&a您成功创建了一个跳板!'
+# 基岩跳板高度
+BEDROCK: 10
+# 是否取消伤害
+removedamage: true

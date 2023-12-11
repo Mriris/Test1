@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: lcbw
+timestamps:
+  login: 1500127983754
+  logout: 1500133963925
+  lastteleport: 1500132682870
+ipAddress: 110.245.198.132
+geolocation: China
+lastlocation:
+  world: ASkyBlock
+  x: 0.699999988079071
+  y: 117.0
+  z: 1.3401286629616809
+  yaw: -29.703575
+  pitch: 1.3635414
+logoutlocation:
+  world: plotworld
+  x: 19.0
+  y: 65.0
+  z: -67.92905880770398
+  yaw: 0.0
+  pitch: 0.0
+money: '1600.0'
+homes:
+  home:
+    world: sc
+    x: 9972973.100007622
+    y: 64.5
+    z: -1.902255094472158E7
+    yaw: -8.709991
+    pitch: 28.654484

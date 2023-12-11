@@ -1,0 +1,132 @@
+# 在GUI里移除一个头颅
+# 改动只在重启服务器后生效
+disabled-heads:
+#  - "Chorus Plant"
+#  - "ID:7302"
+#  - "TAG:Animals"
+
+
+# 在GUI里移除一个头颅类别
+# 改动只在重启服务器后生效
+disabled-categories:
+  - ""
+  - "online_players"
+#  - "custom"
+
+# 是否在GUI内显示插件信息和建议头颅按钮
+info-enabled: true
+suggest-enabled: true
+
+# 允许聊天搜索
+use-chat-search: false
+
+# 当捡起物品时，返回物品名称和lore （意义不明？）
+return-name-on-pickup: true
+  
+#Change the messages here, you can use & to use colors.
+#buyMessage must contain %Item% and %price%
+#database can contain "%count%"
+messages:
+   prefix: "&6头颅系统> "
+   database: "&4自定义头颅 &8 %count% 个已加载"
+   search: "&4头颅搜索 &8 %count% 个头颅"
+   page: "页"
+   price: "&a价格:"
+   heads: "头颅"
+   head: "头颅"
+   recentHeads: "&e新加入"
+   noPermissionToBuyLore: "&c没有权限"
+   
+   noPermission: "&c你没有权限!"
+   notEnoughMoney: "&c你的钱不够!"
+   buyMessage: "&a你购买了 %item% &a并花费金钱 &2%price%"
+   backToMenu: "&c返回主菜单"
+   lookingFor: "&e搜索"
+   clickToSearch: "&a&n&l点击这里&b 搜索头颅"
+   noHeadsFound: "&e没有找到任何头颅!"
+   moreSpecific: "&e请详细一些!"
+   headsFound: "&e找到头颅!"
+   searchForHeads: "&c搜索头颅"
+   pluginInfo: "&c插件信息"
+   pluginSuggest: "&c建议头颅"
+   chatSearch: "&b输入你要搜索的内容"
+   databaseStillLoading: "&c头颅数据库正在加载中！ 请稍等一会再进行此操作"
+   
+   category-names:
+      alphabet: "字母"
+      animals: "动物"
+      blocks: "方块"
+      decoration: "装饰品"
+      food_drinks: "食物 & 饮料"
+      humans: "人类"
+      humanoid: "人形"
+      miscellaneous: "杂物"
+      monsters: "怪物"
+      plants: "植物"
+      custom: "自定义"
+      custom2: "自定义 2"
+      custom3: "自定义 3"
+      online_players: "在线玩家"
+
+
+# 是否启用经济？
+# 当价格被设置为 0 时，经济信息不会显示
+Economy-Enabled: false
+Economy-Currency: "$"
+# 玩家可以用什么来购买头颅？ 物品"item", 金钱"currency" 点券"playerpoints"
+Economy-Type: currency
+# 当玩家可用物品购买头颅时，玩家能用什么物品购买？
+Economy-Item: gold_ingot
+# 当玩家可用物品购买头颅时，玩家能用什么名称的物品购买？留空""代表不限名称
+Economy-ItemName: ""
+
+# 各种头颅的价格
+alphabet-price: 100
+animals-price: 100
+blocks-price: 200
+decoration-price: 100
+food_drinks-price: 100
+humans-price: 100
+humanoid-price: 100
+miscellaneous-price: 100
+monsters-price: 100
+plants-price: 100
+custom-price: 1000
+custom2-price: 1000
+custom3-price: 1000
+online_players-price: 10
+
+# 各种种类的头颅在菜单里显示的物品种类
+
+alphabet-id: 164
+animals-id: 335
+blocks-id: 106
+decoration-id: 4151
+food_drinks-id: 22
+humans-id: 3996
+humanoid-id: 1530
+miscellaneous-id: 537
+monsters-id: 4187
+plants-id: 4982
+custom-id: 242
+custom2-id: 242
+custom3-id: 242
+online_players-id: 2669
+
+# 以下不清楚的不要改
+# format= name: "base64"
+# do not use any ,'s in your name !
+# you can use uuid:[player-uuid] to use normal players their skins
+# tutorial: https://www.youtube.com/watch?v=upc4gOAQN5Y
+heads:
+  Head Database: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZjYzQ4NmMyYmUxY2I5ZGZjYjJlNTNkZDlhM2U5YTg4M2JmYWRiMjdjYjk1NmYxODk2ZDYwMmI0MDY3In19fQ=="
+  Made by: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg3Njg5ZjgzMzQzNmFhNzExYWJiZDQ1MTY4ODU2Nzc1YTJiMTE0NjU2Y2RmNGRjNWE2YzZmMWFmYWU1MjAifX19"
+  Arcaniax: "uuid:4d3c1f2f71264d9b93ec01208a57188c"
+  -: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQ3YWJjNDM2ODI5MzA3MGRjYjE2ZTRmN2ZlMGMyMWM3MzE3MTIxOTllYjI3MmYyZmRiN2E2ZmU2OTZjYmYzIn19fQ=="
+  Hosted by: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDVjNmRjMmJiZjUxYzM2Y2ZjNzcxNDU4NWE2YTU2ODNlZjJiMTRkNDdkOGZmNzE0NjU0YTg5M2Y1ZGE2MjIifX19"
+  LordRazen: "uuid:8d0a41175a764b72a7dc67b555119fef"
+custom2:
+  default custom 2 category: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQ3YWJjNDM2ODI5MzA3MGRjYjE2ZTRmN2ZlMGMyMWM3MzE3MTIxOTllYjI3MmYyZmRiN2E2ZmU2OTZjYmYzIn19fQ=="
+custom3:
+  default custom 3 category: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQ3YWJjNDM2ODI5MzA3MGRjYjE2ZTRmN2ZlMGMyMWM3MzE3MTIxOTllYjI3MmYyZmRiN2E2ZmU2OTZjYmYzIn19fQ=="
+  

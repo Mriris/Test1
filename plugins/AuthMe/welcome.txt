@@ -1,0 +1,2 @@
+&e欢迎 &a&l{PLAYER} &e来到服务器
+&5本服务器用的是&nAuthMeReload&5版!

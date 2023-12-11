@@ -1,0 +1,617 @@
+groups:
+  default:
+    permissions:
+    - bukkit.broadcast.user
+    - -bukkit.command.plugins
+    - essentials.help
+    - essentials.helpop
+    - essentials.list
+    - essentials.motd
+    - essentials.rules
+    - essentials.spawn
+    - essentials.jail.allow.help
+    - essentials.jail.allow.helpop
+    - essentials.jail.allow.rules
+  builder:
+    inheritance:
+    - default
+    permissions:
+    - betterrtp.use
+    - crackshot.use.*
+    - ni.user.craft.*
+    - Tanks.overrideOwner.ride
+    - ni.user.ni
+    - verride.ride
+    - Brooms.overrideOwner.ride
+    - Submarines.overrideOwner.ride
+    - Helicopters.overrideOwner.ride
+    - Parachutes.overrideOwner.ride
+    - vehicles.*
+    - vehicles
+    - Planes.overrideOwner.ride
+    - Rafts.overrideOwner.ride
+    - Trains.overrideOwner.ride
+    - Cars.overrideOwner.ride
+    - Bikes.overrideOwner.ride
+    - sabi.sabi
+    - rpgdrop.protect
+    - soulelytra.*
+    - soulelytra.
+    - Talent.Default
+    - morefish.top
+    - RepairPlus.use.*
+    - blockball.user
+    - signin.main
+    - 3dmg.use
+    - fastrespawn.use
+    - V
+    - dw.open
+    - tntrun.join.signs
+    - gj.on
+    - sg.lobby.join
+    - sg.arena.spectate.*
+    - sg.arena.vote.*
+    - sg.arena.join.*
+    - redPacketrain.use
+    - owtest.lxa.*
+    - PayerPoints.pay
+    - greenhouses.player
+    - Artichcraft.*
+    - Artichcraft.
+    - HideUnderABed
+    - pblood.command
+    - signwithlink.*
+    - signwithlink.use
+    - autorespawn.respawn
+    - randombox.open.*
+    - ships.*
+    - fjump.*
+    - jump.user
+    - gang.*
+    - gang.player
+    - reportwrong.*
+    - Friends.Use
+    - ride.*
+    - RidePlayers.*
+    - RidePlayers.use
+    - CrazyEnchantments.Info
+    - CrazyEnchantments.Access
+    - CrazyEnchantments.Tinker
+    - CrazyEnchantments.BlackSmith
+    - headshoots.use
+    - chathelp.*
+    - EasyKits.maxuse
+    - player.ride
+    - anvilcolors.use
+    - hb-ai.*
+    - hb-ai.
+    - ke.cnnick.color
+    - ke.cnnick.set
+    - combatindicator.see.healing
+    - combatindicator.see.damage
+    - MakeGas.Pass
+    - TicTacToe.*
+    - TicTacToe.give
+    - scriptblock.walk.use
+    - scriptblock.interact.use
+    - lr.*
+    - furniture.*
+    - furniture.Campfire.2
+    - furniture.Campfire2
+    - furniture.ASDASD
+    - furniture.waxcandle
+    - furniture.fireworklauncher
+    - furniture.christmastree
+    - furniture.adventCalender
+    - furniture.candyCane
+    - furniture.snowgolem
+    - furniture.flag
+    - furniture.catapult
+    - furniture.crossbow
+    - furniture.humanskeleton
+    - furniture.trashcan
+    - furniture.blackboard
+    - furniture.schoolchair
+    - furniture.schooltable
+    - furniture.trunk
+    - furniture.beartrap
+    - furniture.sleepingbag
+    - furniture.flowerpot
+    - furniture.log
+    - furniture.guillotine
+    - furniture.cactusplant
+    - furniture.campchair
+    - furniture.hammock
+    - furniture.weaponstand
+    - furniture.mailbox
+    - furniture.billboard
+    - furniture.streetlamp
+    - furniture.sunshade
+    - furniture.fence
+    - furniture.tent3
+    - furniture.tent2
+    - furniture.tent1
+    - furniture.campfire2
+    - furniture.campfire1
+    - furniture.barrels
+    - furniture.table
+    - furniture.sofa
+    - furniture.lantern
+    - furniture.largetable
+    - furniture.Chair
+    - furniture.Camera
+    - furniture.TV
+    - furniture
+    - furniture.craft.*
+    - furniture.list
+    - furniture.largetablefurniture.tent1
+    - furniture.largetablefurniture.*
+    - furniture.chair
+    - furniture.latern
+    - trail.*
+    - lagg.*
+    - EasyKits.kits.xslb
+    - tr.*
+    - trail.all
+    - sg.arena.*
+    - sg.arena.join.1
+    - sg.lobby.*
+    - sg.arena.joi2
+    - sg.arena.spectate
+    - sg.arena.vote
+    - guirepair.repair
+    - guirepair.help
+    - marry.default
+    - bw.play
+    - veinminer.veinmine.*
+    - platform.use
+    - Mercy.heal.player
+    - ultracosmetics.*
+    - magicchest.*
+    - rideme.*
+    - rideme.rideme
+    - rideme.ride
+    - eggcatcher.catch.*
+    - titlemanager.*
+    - deluxemenus.*
+    - deluxemenus.
+    - EasyKits.kits.dwj
+    - sFDASFAS
+    - essnFASDF
+    - RandomLocation.Use
+    - askyblock.coop
+    - askyblock.join
+    - askyblock.makeleader
+    - askyblock.kick
+    - askyblock.team.create
+    - askyblock.island.*
+    - pvpmanager.user
+    - skinsrestorer.*
+    - elytra.*
+    - elytra.speedup
+    - at.use
+    - elytra.auto
+    - rep.sub
+    - blood.toggle
+    - essentials.say
+    - pvptoggle.self.status
+    - pvptoggle.self.toggle
+    - nocheatplus.checks.combined.improbable
+    - nocheatplus.checks.inventory.fastclick
+    - ockette.user.create.*
+    - killermoney.getcash
+    - magick.command
+    - fastcraft.toggle
+    - fastcraft.use
+    - playerheads.canbeheadmob
+    - playerheads.canloosehead
+    - playerheads.canbehead
+    - plotme.use.*
+    - tablist.staff
+    - crazylogin.logout.command
+    - crazylogin.register.command
+    - crazylogin.login.command
+    - crazylogin,register,
+    - corpses.bury
+    - servermusic.*
+    - MyMusic.open
+    - globalmarket.*
+    - globalmarket.use
+    - bm.item
+    - bm.ticket
+    - bm.money
+    - nodeathscreen.use
+    - disguisecraft.object.block.*
+    - blockhunt.player
+    - blockhunt.joinsign
+    - blockhunt.shop
+    - blockhunt.list
+    - blockhunt.leave
+    - blockhunt.join
+    - blockhunt.help
+    - blockhunt.info
+    - showoff.*
+    - MyPet.*
+    - MyPet.user.*
+    - MyPet.user.leash.creeper
+    - MyPet.user.leash.*
+    - MyPet.custom.skilltree.*
+    - MyPet.custom.skilltree.ppp
+    - EasyKits.kits.cooldown
+    - serversigns.use
+    - serversigns.use.*
+    - serversigns.use.
+    - deluxemenus.guimenu.example
+    - deluxemenus.admin
+    - skinsrestorer.playercmds
+    - customjoinitems.*
+    - '@.use'
+    - usb.island.*
+    - MyPet.user.command.respawn
+    - MyPet.user.command.release
+    - HiveJumpPads.command.Reload
+    - HiveJumpPads.use.Trampoline
+    - HiveJumpPads.use.JumpPad
+    - EasyKits.kits.xinshoulibao
+    - EasyKits.cmd.show
+    - EasyKits.kits.maxuse
+    - colorportals.use
+    - ancientgates.use.*
+    - choptree.chop
+    - essentials.build
+    - authme.player*
+    - authme.login
+    - authme.register
+    - ds.use
+    - bw.stats
+    - deluxemenus.guimenucommand
+    - chestcommands.item.filename.yml
+    - chestcommands.open.filename.yml
+    - plotme.use.remove
+    - plotme.use.add
+    - plotme.use
+    - authme.changepassword
+    - autheme.unregister
+    - authme.logout
+    - quickshop.create.double
+    - quickshop.find
+    - quickshop.create.changeprice
+    - quickshop.create.buy
+    - quickshop.create.sell
+    - quickshop.use
+    - essentials.build.*
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.book
+    - essentials.chat.shout
+    - essentials.chat.question
+    - essentials.compass
+    - essentials.delhome
+    - essentials.depth
+    - essentials.exp
+    - essentials.getpos
+    - essentials.hat
+    - essentials.home
+    - essentials.ignore
+    - essentials.itemdb
+    - essentials.kit
+    - essentials.kits.tools
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.nick
+    - essentials.pay
+    - essentials.ping
+    - essentials.powertool
+    - essentials.powertooltoggle
+    - essentials.protect
+    - essentials.recipe
+    - essentials.seen
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.sethome.multiple
+    - essentials.signs.use.*
+    - essentials.signs.create.disposal
+    - essentials.signs.create.mail
+    - essentials.signs.create.protection
+    - essentials.signs.create.trade
+    - essentials.signs.break.disposal
+    - essentials.signs.break.mail
+    - essentials.signs.break.protection
+    - essentials.signs.break.trade
+    - essentials.suicide
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.worth
+    - essentials.jail.allow.mail
+    - essentials.jail.allow.ping
+    - essentials.jail.allow.seen
+    worlds:
+      changepassword:
+        permissions:
+        - authme.
+    options:
+      default: 'true'
+      prefix: '&d平民&a'
+  buildeASDFADSFr:
+    permissions:
+    - skinsrestorer.playercmds
+  vip1:
+    permissions:
+    - sabi.sabi
+    - rpgdrop.protect
+    - soulelytra.*
+    - Talent.Default
+    - morefish.top
+    - RepairPlus.use.*
+    - blockball.user
+    - signin.main
+    - 3dmg.use
+    - fastrespawn.use
+    - dw.open
+    - tntrun.join.signs
+    - gj.on
+    - sg.lobby.join
+    - sg.arena.spectate.*
+    - sg.arena.vote.*
+    - sg.arena.join.*
+    - redPacketrain.use
+    - owtest.lxa.*
+    - PlayerPoints.me
+    - PayerPoints.pay
+    - greenhouses.player
+    - Artichcraft.*
+    - HideUnderABed
+    - pblood.command
+    - signwithlink.*
+    - signwithlink.use
+    - autorespawn.respawn
+    - randombox.open.*
+    - otp.use
+    - ships.*
+    - fjump.*
+    - jump.user
+    - gang.*
+    - gang.player
+    - reportwrong.*
+    - glow.*
+    - glows.*
+    - glows.user
+    - glow.user
+    - essentials.tp
+    - essentials.fly
+    inheritance:
+    - builder
+    options:
+      prefix: '&e&lVIP&a'
+  YANTINGXUANmc:
+    permissions:
+    - builder
+  builer:
+    permissions:
+    - PlayerPoints.me
+users:
+  blue_lonly:
+    permissions:
+    - '*'
+  blue_loney:
+    permissions:
+    - '*'
+  fd798cb6-7b90-3265-b36f-7383ed9b9198:
+    permissions:
+    - '*'
+    options:
+      name: YANmc
+      prefix: '&e&l服主'
+  a6e0c673-ada9-393c-83de-67a64c28e0e9:
+    group:
+    - builder
+    options:
+      name: keng_bi
+    permissions:
+    - authme.register
+  bake_f:
+    permissions:
+    - '*'
+  c0bb8aba-d8db-3a71-ac33-7d536b586d7b:
+    permissions:
+    - colorchat.toggle
+    - glow.use
+    - nocheatplus.checks.fight
+    - essentials.tp
+    - essentials.fly
+    options:
+      name: adsw
+  81fb3159-0ee2-33c4-81c5-d013cd787305:
+    permissions:
+    - essentials.fly
+    options:
+      name: '468745'
+  7055d475-3dca-36ce-ab47-742cddaa3f8f:
+    permissions:
+    - '*'
+    - '*.*'
+    options:
+      name: blue_lonely
+  f8909d02-8c03-302d-a7e2-003127995891:
+    permissions:
+    - '*'
+    options:
+      name: YuYSAMA
+  5c11dda3-4526-3a89-880e-a2678dce5a0d:
+    permissions:
+    - '*'
+    options:
+      name: baka_f
+  9ba2c7b4-f9ed-3d22-86f4-e715913f4a5b:
+    permissions: []
+    options:
+      prefix: '&5&m腐竹&e&lop大大'
+      name: Xiao_Youling
+  0304c027-2fae-3c16-a044-25dc04f77362:
+    options:
+      name: ceshi2
+  b188ce5c-6a84-3b18-9c14-8540cb0852b3:
+    options:
+      prefix: 甘罗
+      name: Gan_Luo
+  8465b141-8a4c-34f5-a4e4-846461391ee8:
+    permissions:
+    - '*'
+    options:
+      name: '3174263841'
+  4b960056-1730-389a-be8e-49555a8e26b5:
+    options:
+      prefix: '&b迷之蛋糕&a'
+      name: Dangao
+  02866b6e-4b6e-3869-bebd-3e3294aefd39:
+    permissions:
+    - '*'
+    - '*\'
+    options:
+      name: xzkjl
+  73df4e8a-5984-3657-b824-fa20075c0f29:
+    permissions:
+    - '*'
+    options:
+      name: suizhihao
+  08859296-4965-337b-b9e2-0cf36cada5f7:
+    permissions:
+    - nocheatplus.*
+    - nocheatplugs.*
+    - essentials.fly
+    options:
+      name: super6wang
+  1f928b4c-a7de-3863-bc15-5eaea79cfe42:
+    permissions: []
+    options:
+      name: ZHUAN_DE
+  04e32806-5bf4-37fa-bfbd-de3cb16d4d7b:
+    permissions:
+    - '*'
+    options:
+      name: CaesarQAQ
+  f77c24d0-9cec-3e79-8b98-afe455b70a26:
+    permissions: []
+    options:
+      name: Creative5
+  4077951a-2af1-3f35-a08d-d86fa8d56ee8:
+    permissions: []
+    options:
+      name: L_Z_W
+  2b29f686-f2bb-300b-87a6-0e2100fffaf9:
+    permissions:
+    - nocheatplus.*
+    options:
+      name: Eavener_Mvp
+      prefix: '&4&l红石渣神&a'
+  7d539a28-8356-3258-8631-19feff9ab1f5:
+    permissions:
+    - '*'
+    - essentials.*
+    - essentials.gamemode.*
+    - essentials.gamemode
+    - essentials.mode.*
+    options:
+      name: Command_block_M
+      prefix: '&e&l新&b&l手&c&l接&d&l待&a'
+  asdw:
+    options:
+      prefix: 游戏机
+  游戏名:
+    options:
+      prefix: 称号
+  e662000b-b8de-3b8c-891a-2fe057df9584:
+    options:
+      name: H_heilong
+      prefix: '&0&l熊&f&l猫&4&l主播&a'
+  cc5ba69d-19da-3a66-85d8-827477e7d6cd:
+    options:
+      prefix: '&a&l天&b&l真&4&l直&e&l播&a'
+      name: '5410654'
+  a63910f8-caeb-3106-87cf-177043fd1ac5:
+    options:
+      name: InfinityZo
+  e630e1a0-c709-34e6-b40e-ca911af8d6b2:
+    options:
+      name: Newtons_apple
+  8a9f66cb-7d8d-3e52-8a8e-0b3a3b4a5cf5:
+    options:
+      name: wdsddj
+    permissions:
+    - vip1
+    group:
+    - vip1
+  b55a3549-9f31-3c81-bbc2-9150c2457eaf:
+    permissions: []
+    options:
+      name: YANTINGXUANmc
+  3d0b5121-67b5-30fb-9d50-e9faf3f26b05:
+    group:
+    - vip1
+    options:
+      name: MC_110
+  3c727a66-abc7-3afa-abd5-6344af494d95:
+    permissions:
+    - essentials.*
+    - essentials.gamemode.*
+    options:
+      name: well
+  67c400de-5b0a-3032-b395-a61eb4db344d:
+    options:
+      name: Mr_xuan
+      prefix: '&5&l服主'
+    permissions:
+    - '*'
+    worlds:
+      '&5&l服主':
+        options:
+          prefix: add
+  2f2be48d-bd81-3639-9b04-6be56ea16019:
+    options:
+      name: RemiiX_1
+  339cf9db-16ce-3627-8d30-537c8fcde9c6:
+    permissions:
+    - '*'
+    options:
+      name: KANGHONGYANmc
+  '*':
+    permissions:
+    - FOREST_KING
+  8a1cae84-fa5b-34a6-bfb9-b0b15b4242d9:
+    permissions:
+    - '*'
+    options:
+      name: FOREST_KING
+  a49fb82d-e817-34f3-b4eb-210053e585b6:
+    permissions:
+    - '*'
+    options:
+      name: WHL_MC
+  99dabd12-916c-3dda-bea0-9841e862a16f:
+    permissions:
+    - '*'
+    options:
+      name: Mr_kang
+  863714cd-d3c4-3226-ac18-5e0cf0d30c80:
+    permissions:
+    - '*'
+    options:
+      name: Mr_Yan
+  5447acd2-a713-3036-b51d-e45a6366257f:
+    options:
+      name: ceshi16
+schema-version: 1

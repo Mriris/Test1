@@ -1,0 +1,67 @@
+shop:
+  is1:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - is
+    MenuItem:
+    - id:35
+    - amount:1
+    - name:&c&l领取或回到空岛
+    - lore:&5&m没啥可解释的！
+    - amount:1
+    InventoryLocation: 1
+    Message: '&f&l&n开始你的空岛之旅吧！'
+    ExtraPermission: ''
+  is2:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - is cp
+    MenuItem:
+    - id:133
+    - amount:1
+    - name:&a&l打开空岛菜单
+    - lore:&5&n如题！
+    - amount:1
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&c返回
+    - lore:&e点击返回主菜单
+    Message: '&6已返回到主菜单...'
+    InventoryLocation: 18
+    ExtraPermission: ''
+Setting:
+  # 进入商店时的消息,如果留空,则不显示消息
+  EnterMessage: ''
+  # 离开商店时的消息,如果留空,则不显示消息
+  LeaveMessage: ''
+  # 如果为true,则该商店为抽奖商店
+  ShopTypeSpecial: false
+  # 右击物品时,商品默认的购买数量
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  RightClickBuyCount: 1
+  # 玩家是否可以设置右键购买数量
+  # 免费物品强制不能设置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  AllowChangeRightClickBuyCount: false
+  # 当右键购买数量大于1时,显示右键购买数量
+  # 物品设置为false可以用来自定义右键购买数量Lore消息
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  ShowRightClickBuyCount: true
+  # 商品属性显示配置,说明参考配置
+  # 如果商品本身已经配置过该节点,将会参照商品自身的配置
+  HideItemFlag: 63
+# 配置文件版本,重要,请勿修改
+# 插件升级配置的时候需要用到
+version: '1.2'
+signs:
+  text: '[ExtraShop]'
+  NeedPermissionToCreateSign: false

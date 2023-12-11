@@ -1,0 +1,35 @@
+Version: 266
+AntiInfItem:
+  enable: true
+  ClickcWarnMessage: §c警告！不允许使用负数物品！
+  BlockcWarnMessage: §c在  §b%block% §c发现一个负数物品的发射器！内部负数物品已经移除！
+AntiPortalInfItem:
+  enable: true
+  WarnMessage: §c抱歉！禁止矿车通过地狱门防止作弊！
+AntiNetherHopperInfItem:
+  enable: true
+AntiRPGITEM:
+  enable: true
+AntiCrashSign:
+  enable: true
+  WarnMessage: §c您输入的内容太长了！
+AntiSkullCrash:
+  enable: true
+NoDoubleOnline:
+  enable: true
+  KickMessage: 抱歉，服务器中您已经在线了。ԅ(¯ㅂ¯ԅ)
+AntiDropInfItem:
+  enable: true
+AntiDoorInfItem:
+  enable: true
+AntiCheatBook:
+  enable: true
+  WarnMessage: §c严禁利用超级书Bug！
+AntiBedExplode:
+  enable: true
+  TipMessage: §r你不能在这里睡觉
+AntiBreakUseingChest:
+  enable: true
+  WarnMessage: §c抱歉！您不可以破坏一个正在被使用的容器
+AntiInfRail:
+  enable: true

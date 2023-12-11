@@ -1,0 +1,266 @@
+{
+  "baseCommandAliases": [
+    "f"
+  ],
+  "cmdAliasesAdmin": [
+    "admin",
+    "setadmin",
+    "leader",
+    "setleader"
+  ],
+  "cmdAliasesAnnounce": [
+    "announce",
+    "ann"
+  ],
+  "cmdAliasesAutoclaim": [
+    "autoclaim"
+  ],
+  "cmdAliasesAutohelp": [
+    "?",
+    "h",
+    "help"
+  ],
+  "cmdAliasesBoom": [
+    "noboom",
+    "explosions",
+    "toggleexplosions"
+  ],
+  "cmdAliasesBypass": [
+    "bypass"
+  ],
+  "cmdAliasesChat": [
+    "chat",
+    "c"
+  ],
+  "cmdAliasesChatspy": [
+    "chatspy"
+  ],
+  "cmdAliasesClaim": [
+    "claim"
+  ],
+  "cmdAliasesClaimLine": [
+    "claimline",
+    "cl"
+  ],
+  "cmdAliasesColeader": [
+    "coleader",
+    "setcoleader"
+  ],
+  "cmdAliasesConfig": [
+    "config"
+  ],
+  "cmdAliasesConvert": [
+    "convert"
+  ],
+  "cmdAliasesDebug": [
+    "debug"
+  ],
+  "cmdAliasesCreate": [
+    "create"
+  ],
+  "cmdAliasesDeinvite": [
+    "deinvite",
+    "deinv"
+  ],
+  "cmdAliasesDelwarp": [
+    "delwarp",
+    "deletewarp",
+    "dw"
+  ],
+  "cmdAliasesDescription": [
+    "desc",
+    "description"
+  ],
+  "cmdAliasesDisband": [
+    "disband"
+  ],
+  "cmdAliasesHelp": [
+    "help",
+    "h",
+    "?"
+  ],
+  "cmdAliasesHome": [
+    "home"
+  ],
+  "cmdAliasesInvite": [
+    "invite",
+    "inv"
+  ],
+  "cmdAliasesJoin": [
+    "join"
+  ],
+  "cmdAliasesKick": [
+    "kick"
+  ],
+  "cmdAliasesBan": [
+    "ban"
+  ],
+  "cmdAliasesLeave": [
+    "leave"
+  ],
+  "cmdAliasesList": [
+    "list",
+    "ls"
+  ],
+  "cmdAliasesLock": [
+    "lock"
+  ],
+  "cmdAliasesLogins": [
+    "login",
+    "logins",
+    "logout",
+    "logouts"
+  ],
+  "cmdAliasesMap": [
+    "map"
+  ],
+  "cmdAliasesMod": [
+    "mod",
+    "setmod",
+    "officer",
+    "setofficer"
+  ],
+  "cmdAliasesModifyPower": [
+    "modifypower",
+    "modpower",
+    "mp",
+    "pm"
+  ],
+  "cmdAliasesMoney": [
+    "money"
+  ],
+  "cmdAliasesMoneyBalance": [
+    "balance",
+    "bal",
+    "b"
+  ],
+  "cmdAliasesMoneyDeposit": [
+    "deposit",
+    "d"
+  ],
+  "cmdAliasesMoneyTransferFf": [
+    "ff"
+  ],
+  "cmdAliasesMoneyTransferFp": [
+    "fp"
+  ],
+  "cmdAliasesMoneyTransferPf": [
+    "pf"
+  ],
+  "cmdAliasesMoneyWithdraw": [
+    "withdraw",
+    "w"
+  ],
+  "cmdAliasesOpen": [
+    "open"
+  ],
+  "cmdAliasesOwner": [
+    "owner"
+  ],
+  "cmdAliasesOwnerList": [
+    "ownerlist"
+  ],
+  "cmdAliasesPeaceful": [
+    "peaceful"
+  ],
+  "cmdAliasesPermanent": [
+    "permanent"
+  ],
+  "cmdAliasesPermanentPower": [
+    "permanentpower"
+  ],
+  "cmdAliasesPower": [
+    "power",
+    "pow"
+  ],
+  "cmdAliasesPowerBoost": [
+    "powerboost"
+  ],
+  "cmdAliasesRelationAlly": [
+    "ally"
+  ],
+  "cmdAliasesRelationTruce": [
+    "truce"
+  ],
+  "cmdAliasesRelationEnemy": [
+    "enemy"
+  ],
+  "cmdAliasesRelationNeutral": [
+    "neutral"
+  ],
+  "cmdAliasesReload": [
+    "reload"
+  ],
+  "cmdAliasesSafeunclaimall": [
+    "safeunclaimall"
+  ],
+  "cmdAliasesSaveAll": [
+    "saveall",
+    "save"
+  ],
+  "cmdAliasesScoreboard": [
+    "scoreboard",
+    "sb"
+  ],
+  "cmdAliasesSeeChunk": [
+    "seechunk",
+    "sc"
+  ],
+  "cmdAliasesSethome": [
+    "sethome"
+  ],
+  "cmdAliasesSetwarp": [
+    "setwarp"
+  ],
+  "cmdAliasesShow": [
+    "show",
+    "who"
+  ],
+  "cmdAliasesShowInvites": [
+    "showinvites"
+  ],
+  "cmdAliasesStatus": [
+    "status",
+    "s"
+  ],
+  "cmdAliasesStuck": [
+    "stuck"
+  ],
+  "cmdAliasesTag": [
+    "tag",
+    "rename"
+  ],
+  "cmdAliasesTitle": [
+    "title"
+  ],
+  "cmdAliasesToggleAllianceChat": [
+    "ac",
+    "togglealiancechat",
+    "tac"
+  ],
+  "cmdAliasesTop": [
+    "top"
+  ],
+  "cmdAliasesUnban": [
+    "unban"
+  ],
+  "cmdAliasesUnclaim": [
+    "unclaim"
+  ],
+  "cmdAliasesUnclaimAll": [
+    "unclaimall"
+  ],
+  "cmdAliasesVersion": [
+    "version"
+  ],
+  "cmdAliasesWarp": [
+    "warp",
+    "warps"
+  ],
+  "cmdAliasesWarunclaimall": [
+    "warunclaimall"
+  ],
+  "cmdAliasesStyle": [
+    "style"
+  ]
+}

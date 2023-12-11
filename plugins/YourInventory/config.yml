@@ -1,0 +1,34 @@
+#-----------------------------------------------------------------
+#|- 感谢您使用YourInventory插件。                               -|
+#|- 这个配置文件包含了一些YourInventory插件的参数               -|
+#|- 如果您需要修改，请遵循Ymal修改规则，谢谢合作。              -|
+#-----------------------------------------------------------------
+update: true
+PlayerLimit:
+  #玩家默认状况下可以创建的菜单上限数量
+  MaxInventory: 10
+  #拥有YourInventory.VIPMaxInventory.vip1权限可以提高上限数量至11个。当玩家拥有多个权限的时候，取最大值。以下类似。
+  VIPMaxInventory: 
+    vip1: 11
+    vip2: 12
+    svip: 20
+  #每个Inventory最大允许的行数。
+  InventorySizeLimit: 3
+  #拥有YourInventory.VIPInventorySizeLimit.vip1权限可以提高每个菜单的上限行数至4个。当玩家拥有多个权限的时候，取最大值。以下类似。
+  VIPInventorySizeLimit:
+    vip1: 4
+    vip2: 5
+    svip: 6
+PlayerPrice:
+  #创建一个菜单每一行所索取的费用。
+  PerLinePrice: 10
+  #拥有YourInventory.VIPDiscount.vip1权限，在此插件产生的所有消费可以打8折。当玩家拥有多个权限的时候，取最小值。以下类似。
+  VIPDiscount:
+    vip1: 0.9
+    vip2: 0.8
+    svip: 0.1
+ItemSettings:
+  #最大叙述添加行数。【我坚信太长影响一定会不好的QWQ】
+  maxLoreLine: 20
+  #每行叙述或标题限制的最大字符数。
+  lengthLimit: 20

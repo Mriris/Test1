@@ -1,0 +1,31 @@
+lastAccountName: Small_Jianbai
+timestamps:
+  login: 1503755003943
+  logout: 1503757039432
+  lastteleport: 1503755873231
+ipAddress: 110.251.97.21
+socialspy: false
+lastlocation:
+  world: plotworld
+  x: 60.542853757238845
+  y: 66.0
+  z: -59.94493383660302
+  yaw: 130.4465
+  pitch: 11.420086
+logoutlocation:
+  world: plotworld
+  x: 61.10602237949467
+  y: 66.0
+  z: -61.45050720522724
+  yaw: 189.16177
+  pitch: 25.250446
+afk: false
+geolocation: China
+homes:
+  home:
+    world: paoku
+    x: -671.3790390767454
+    y: 88.0
+    z: -1526.322109571543
+    yaw: -177.77234
+    pitch: 40.703087

@@ -1,0 +1,79 @@
+signs:
+  text: '[games]'
+  NeedPermissionToCreateSign: true
+shop:
+  BedWarSee:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp bed
+    MenuItem:
+    - id:137
+    - amount:1
+    - name:&4&l起床战争观战
+    - lore:&5&l如果无法加入游戏说明人满了#&d等他们结束之后再玩
+    - amount:1
+    InventoryLocation: 2
+    ExtraPermission: ''
+  BedWar:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - bw join bed1
+    MenuItem:
+    - id:355
+    - amount:1
+    - name:&c&l起床战争
+    - lore:&5&l保卫自己的床，破坏地方的床！
+    - amount:1
+    InventoryLocation: 1
+    ExtraPermission: ''
+  TNTrun:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp TNTrun1
+    MenuItem:
+    - id:46
+    - amount:1
+    - name:&4&lTNT跑酷
+    - lore:&e&l女士们先生们，炸弹轮胎滚起来啦！
+    - amount:1
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&c返回
+    - lore:&e点击返回主菜单
+    Message: '&6已返回到主菜单...'
+    InventoryLocation: 9
+    ExtraPermission: ''
+# �����ļ��汾,��Ҫ,�����޸�
+# ����������õ�ʱ����Ҫ�õ�
+version: '1.2'
+Setting:
+  # �����̵�ʱ����Ϣ,�������,����ʾ��Ϣ
+  EnterMessage: ''
+  # �뿪�̵�ʱ����Ϣ,�������,����ʾ��Ϣ
+  LeaveMessage: ''
+  # ���Ϊtrue,����̵�Ϊ�齱�̵�
+  ShopTypeSpecial: false
+  # �һ���Ʒʱ,��ƷĬ�ϵĹ�������
+  # �����Ʒ�����Ѿ����ù��ýڵ�,���������Ʒ���������
+  RightClickBuyCount: 1
+  # ����Ƿ���������Ҽ���������
+  # �����Ʒǿ�Ʋ�������
+  # �����Ʒ�����Ѿ����ù��ýڵ�,���������Ʒ���������
+  AllowChangeRightClickBuyCount: false
+  # ���Ҽ�������������1ʱ,��ʾ�Ҽ���������
+  # ��Ʒ����Ϊfalse���������Զ����Ҽ���������Lore��Ϣ
+  # �����Ʒ�����Ѿ����ù��ýڵ�,���������Ʒ���������
+  ShowRightClickBuyCount: true
+  # ��Ʒ������ʾ����,˵���ο�����
+  # �����Ʒ�����Ѿ����ù��ýڵ�,���������Ʒ���������
+  HideItemFlag: 63

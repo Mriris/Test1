@@ -1,0 +1,108 @@
+#注意: 
+#请使用 [空格] 而不是 [Tab]
+#作者忘记添加打开和关闭的功能, 字符串 ["] 可以导致能力无法加载
+#1 秒 = 20 Ticks
+
+#-----=====[ 主要参数 ]=====-----#
+
+#Keylore: 显示标识
+#Scale_Bonus_Additional_Damage: 每点元素值额外增加伤害
+#Scale_Bonus_Percent_Damage: 基于基础伤害,每点元素值额外增加伤害百分比
+#Resistance: 元素抵抗性
+#Potion_To_Attacker: 应用于攻击者的药水属性
+#Potion_To_Victims: 应用于受害者的药水效果
+
+#-----=====[ Attributes Potion ]=====-----#
+
+#Scale_Chance: 每点元素增加触发概率 (百分比)
+#Scale_Duration: 每点元素增加持续时间 (Ticks)
+#Grade: 药水等级
+
+#-----=====[ Vanilla Potion ]=====-----#
+
+#SPEED	#FAST_DIGGING	#INCREASE_DAMAGE
+#SLOW	#SLOW_DIGGING	#WATER_BREATHING	
+#HEAL	#REGENERATION	#FIRE_RESISTANCE
+#HARM	#INVISIBILITY	#DAMAGE_RESISTANCE
+#JUMP	#CONFUSION		#BLINDNESS
+#HUNGER	#GLOWING		#LEVITATION
+#POISON	#SATURATION		#WEAKNESS
+#WITHER	#ABSORPTION		#HEALTH_BOOST
+#LUCK	#NIGHT_VISION	#UNLUCK
+
+#-----=====[ Element Configuration ]=====-----#
+
+Fire:
+  Keylore: "&c火元素"
+  Scale_Bonus_Additional_Damage: 0.1
+  Scale_Bonus_Percent_Damage: 2
+  Potion_To_Attacker:
+    INCREASE_DAMAGE:
+      Scale_Chance: 0.5
+      Scale_Duration: 1
+      Grade: 1
+  Resistance:
+    Fire: 1
+    Water: -1.5
+    Nature: 2
+    Wind: -1
+  
+Water:
+  Keylore: "&c水元素"
+  Scale_Bonus_Additional_Damage: 0.05
+  Scale_Bonus_Percent_Damage: 1.2
+  Potion_To_Attacker:
+    REGENERATION:
+      Scale_Chance: 0.2
+      Scale_Duration: 1
+      Grade: 2
+  Potion_To_Victims:
+    SLOW_DIGGING:
+      Scale_Chance: 0.05
+      Scale_Duration: 1
+      Grade: 1
+  Resistance:
+    Fire: 2.5
+    Water: -1
+    Nature: 0.5
+    Wind: -2
+    
+Nature:
+  Keylore: "&c自然元素"
+  Scale_Bonus_Additional_Damage: 0.04
+  Scale_Bonus_Percent_Damage: 1
+  Potion_To_Attacker:
+    ABSORPTION:
+      Scale_Chance: 0.2
+      Scale_Duration: 1
+      Grade: 1
+  Potion_To_Victims:
+    WEAKNESS:
+      Scale_Chance: 0.3
+      Scale_Duration: 2
+      Grade: 1
+  Resistance:
+    Fire: -2
+    Water: 2
+    Nature: 1    
+    Wind: 0.2
+    
+Wind:
+  Keylore: "&c风元素"
+  Scale_Bonus_Additional_Damage: 0.03
+  Scale_Bonus_Percent_Damage: 0.5
+  Potion_To_Attacker:
+    SPEED:
+      Scale_Chance: 0.2
+      Scale_Duration: 2
+      Grade: 1
+  Potion_To_Victims:
+    LEVITATION:
+      Scale_Chance: 0.1
+      Scale_Duration: 1
+      Grade: 1
+  Resistance:
+    Fire: -1.5
+    Water: 2.5
+    Nature: 0
+    Wind: 1

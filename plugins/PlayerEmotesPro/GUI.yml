@@ -1,0 +1,203 @@
+## 使用/em 打开的GUI内的按钮情况 
+# Keep everything lower case, use proper spacing, no tabs!
+# Use the Material name! An example can be found below, not all default emotes are in the GUI, only those listed.
+# Custom emotes can be put in the gui
+gui:
+  self-name: "&3EMOTES &a-- &9做表情!"
+  other-name: "&3EMOTES &a-- &9给对方使用表情!"
+  select-type-name: "&3EMOTES &a-- &9选择种类!"
+  pick-player-name: "&3EMOTES &a-- &9选择目标!"
+  indiv-item: "clay_brick"
+  indiv-name: "&b自身表情"
+  indiv-lore:
+    - '&9点击给自己'
+    - '&9加一个表情!'
+  multi-item: "brick"
+  multi-name: "&b目标表情"
+  multi-lore:
+    - '&9点击朝对方'
+    - '&9使用表情!'
+  poke: ### 从这里开始代表GUI里显示的表情按钮
+    name: "&a戳!" 
+    lore: ## 物品的lore
+      - "&e点我"
+      - "&e戳一下别人!"
+    ## 按钮的物品种类，请不要添加子ID
+    item-id: "stick" 
+    ## 子ID应该添加到这里
+    data: 0
+    ## GUI 里物品的数量 (1-64)
+    amount: 1
+    ## 这个表情是系统自带的表情吗，如果是请设置为false
+    custom: false
+  applaud: 
+    name: "&a鼓掌" 
+    lore: 
+      - "&e点我"
+      - "&e朝别人鼓掌!"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false    
+  highfive: 
+    name: "&a击掌" 
+    lore: 
+      - "&e点我"
+      - "&e来击个掌!"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false   
+  hug: 
+    name: "&a拥抱" 
+    lore: 
+      - "&e点我"
+      - "&e来个拥抱"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false       
+  kiss: 
+    name: "&a亲吻" 
+    lore: 
+      - "&e点我"
+      - "&e亲一口!"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false       
+  slap: 
+    name: "&a耳光" 
+    lore: 
+      - "&e点我"
+      - "&e扇一耳光"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false       
+  flirt: 
+    name: "&a鼓掌" 
+    lore: 
+      - "&e点我"
+      - "&e朝别人眉来眼去"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false       
+  dance: 
+    name: "&a尬舞" 
+    lore: 
+      - "&e点我"
+      - "&e来尬舞!"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false       
+  smile: 
+    name: "&a微笑" 
+    lore: 
+      - "&e点我"
+      - "&e来个微笑!"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false  
+  raspberry: 
+    name: "&a吐舌头" 
+    lore: 
+      - "&e点我"
+      - "&e略略略~"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false       
+  thumbsup: 
+    name: "&a竖大拇指" 
+    lore: 
+      - "&e点我"
+      - "&e竖起大拇指"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false  
+  bark: 
+    name: "&a尖叫" 
+    lore: 
+      - "&e点我"
+      - "&e大喊大叫"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false    
+  beg: 
+    name: "&a祈求" 
+    lore: 
+      - "&e点我"
+      - "&e来个祈求"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false     
+  bow: 
+    name: "&a鞠躬" 
+    lore: 
+      - "&e点我"
+      - "&e鞠一躬"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false      
+  cheer: 
+    name: "&a加油" 
+    lore: 
+      - "&e点我"
+      - "&e加了个油！"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false           
+  cry: 
+    name: "&a哭泣" 
+    lore: 
+      - "&e点我"
+      - "&e哭泣 T_T"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false           
+  eat: 
+    name: "&a吃东西" 
+    lore: 
+      - "&e点我"
+      - "&e狼吞虎咽~"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false           
+  greet: 
+    name: "&a欢迎" 
+    lore: 
+      - "&e点我"
+      - "&e欢迎他人~"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false           
+  wink: 
+    name: "&a眨眼" 
+    lore: 
+      - "&e点我"
+      - "&e眨一下眼"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false           
+  laugh: 
+    name: "&a大笑" 
+    lore: 
+      - "&e点我"
+      - "&e蛤蛤蛤……"
+    item-id: "stick" 
+    data: 0
+    amount: 1
+    custom: false           

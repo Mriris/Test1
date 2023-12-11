@@ -1,0 +1,17 @@
+# 当玩家使用表情时，玩家周围产生的粒子特效
+# 该功能尚在开发，未来会添加更多
+default:
+  style: none
+flirt:
+  style: egg
+  particle: reddust
+  color: "213,153,222"
+spin:
+  style: rain
+bow:
+  style: halo
+  particle: note
+  color: 15
+beg:
+  style: swirl
+  particle: totem

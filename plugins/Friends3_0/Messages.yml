@@ -1,0 +1,141 @@
+# 
+#             LingXin233汉化              #
+#        未经授权禁止转载，谢谢配合！     #
+#            联系qq：245435126            #
+#     定制服务端\插件 汉化 插件配置       #
+Messages:
+  Commands:
+    NoPlayer: '%PREFIX% &c只有玩家才能执行这个命令!'
+    NoPermission: '%PREFIX% &c你没有权限使用该命令！'
+    UnknownCommand: '%PREFIX% &c未知命令! --> /friends help'
+    WrongUsage: '%PREFIX% &c错误的用法! --> %USAGE%'
+    Help:
+      PageError: '%PREFIX% &c这个页面不存在!'
+      Page1:
+        '0': '%PREFIX% &c[&6页数1&c]------------------------------------'
+        '1': '%PREFIX% &3/f add <Player> &f| 添加好友'
+        '2': '%PREFIX% &3/f remove <Player> &f| 删除好友'
+        '3': '%PREFIX% &3/f block <Player> &f| 屏蔽好友'
+        '4': '%PREFIX% &3/f accept <Player> &f| 同意请求'
+        '5': '%PREFIX% &3/f deny <Player> &f| 拒绝请求'
+        '6': '%PREFIX% &3/f acceptall &f| 同意所有请求'
+        '7': '%PREFIX% &c-------------------------------------------'
+        '8': '%PREFIX% &3更多命令 --> /f help 2   &e（LingXin汉化）'
+        '9': '%PREFIX% &c-------------------------------------------'
+      Page2:
+        '0': '%PREFIX% &c[&6页数2&c]------------------------------------'
+        '1': '%PREFIX% &3/f unblock <Player> &f| 移除黑名单'
+        '2': '%PREFIX% &3/f toggle requests &f| 切换请求'
+        '3': '%PREFIX% &3/f toggle <chat|msg> &f| 切换聊天或信息'
+        '4': '%PREFIX% &3/f toggle jumping &f| 切换传送'
+        '5': '%PREFIX% &3/f toggle spychat &f| 切换派对聊天'
+        '6': '%PREFIX% &3/f list &f| 查看你的好友'
+        '7': '%PREFIX% &c-------------------------------------------'
+        '8': '%PREFIX% &3更多命令 --> /f help 3   &e（LingXin汉化）'
+        '9': '%PREFIX% &c-------------------------------------------'
+      Page3:
+        '0': '%PREFIX% &c[&6页数3&c]------------------------------------'
+        '1': '%PREFIX% &3/f jump <Player> &f| 传送至好友'
+        '2': '%PREFIX% &3/f info &f| 查看信息'
+        '3': '%PREFIX% &3/msg <Player> <Message> &f| 发送消息'
+        '4': '%PREFIX% &c-------------------------------------------'
+    Reload: '%PREFIX% &a插件重载完毕!'
+    PlayerUnknown: '%PREFIX% &c这个玩家不存在!'
+    MSG:
+      NoFriend: '%PREFIX% &c%NAME% 必须是你的好友才能发送私人消息!'
+      PlayerOffline: '%PREFIX% &c%NAME% 他似乎不在线!'
+      NoMSG: '%PREFIX% &c%NAME% 设置不接受好友的私人消息!'
+      Send: '&f[%PREFIX%&f] &6你 &f-> &6%NAME%: &f%MESSAGE%'
+      Format: '&f[%PREFIX%&f] &6%NAME% &f-> &6你: &f%MESSAGE%'
+    Add:
+      SendSelf: '%PREFIX% &c你不能向你自己发起请求!'
+      PlayerUnknown: '%PREFIX% &c这个玩家不存在!'
+      AlreadyFriends: '%PREFIX% &c%NAME% 已经是你的好友!'
+      AlreadyRequested: '%PREFIX% &c你已经发送请求给 %NAME%!'
+      Blocked:
+        Self: '%PREFIX% &c你将 %NAME% 添加至黑名单!'
+        Other: '%PREFIX% &c你不能发送请求至 %NAME%!'
+      LimitReached:
+        Self: '%PREFIX% &c你的好友数量已经达到上限!'
+        Other: '%PREFIX% &c%NAME% 的好友数量已经达到上限!'
+      DisabledRequests: '%PREFIX% &c%NAME% 似乎不想和你成为朋友~!'
+      Add:
+        Requester: '%PREFIX% &a你发送一个好友请求给: &3%NAME%&a!'
+        ToAdd:
+          '0': '%PREFIX% &c---------------------------------------------'
+          '1': '%PREFIX% &a你收到了一个好友请求 &6来自: &3%NAME%&a!'
+          '2': '%PREFIX% &2%ACCEPT_BUTTON% &c%DENY_BUTTON%'
+          '3': '%PREFIX% &c---------------------------------------------'
+        AcceptButton: '&2[同意 ✔]'
+        AcceptHover: '&2点击同意该请求!'
+        DenyButton: '&c[拒绝 ✖]'
+        DenyHover: '&c点击拒绝该请求!'
+    Deny:
+      NoRequest: '%PREFIX% &c你没有向 %NAME% 发起请求!'
+      Deny:
+        Denier: '%PREFIX% &7你拒绝了 %NAME% 的请求!'
+        Requester: '%PREFIX% &c%NAME% 拒绝了你的请求!'
+    Accept:
+      NoRequest: '%PREFIX% &c你没有向 %NAME% 发起请求!'
+      NoRequests: '%PREFIX% &c你没有收到任何请求!'
+      LimitReached:
+        Self: '%PREFIX% &c你的好友数量已经上限!'
+        Other: '%PREFIX% &c%NAME% 好友数量已经达到上限~!'
+      Accept: '%PREFIX% &a%NAME% 你们成为了好友!'
+    Remove:
+      NoFriends: '%PREFIX% &c%NAME% 不是你的好友!'
+      Remove: '%PREFIX% &c%NAME% 不在是你的好友!'
+    Block:
+      AlreadyBlocked: '%PREFIX% &c%NAME% 已经在黑名单中!'
+      UnknownPlayer: '%PREFIX% &c%NAME% 不存在!'
+      Block:
+        Self: '%PREFIX% &7你将 %NAME% 拉入黑名单!'
+      BlockSelf: '%PREFIX% &cYou cannot block yourself!'
+    Unblock:
+      NotBlocked: '%PREFIX% &c%NAME% 不在黑名单中!'
+      Unblock: '%PREFIX% &7你将 %NAME% 从黑名单中移除!'
+    Toggle:
+      NoOption: '%PREFIX% &c未知选项! -> <requests|chat|jumping>'
+      ToggleRequests: '%PREFIX% &a切换请求!'
+      ToggleChat: '%PREFIX% &a切换了好友聊天!'
+      ToggleJumping: '%PREFIX% &a切换传送!'
+      ToggleMsg: '%PREFIX% &a切换私人信息聊天!'
+      ToggleSpyChat:
+        Toggle: '%PREFIX% &a现在已经启用了派对聊天!'
+        Disabled: '%PREFIX% &c派对聊天被禁用!'
+    Jump:
+      Denied: '%PREFIX% &c禁止传送至这个服务器!'
+      PlayerOffline: '%PREFIX% &c%NAME% 似乎不在线!'
+      NoFriends: '%PREFIX% &c%NAME% 必须是你的好友才能传送!'
+      Disabled: '%PREFIX% &c%NAME% 不希望好友传送至他的位置!'
+      Jump:
+        Jumper: '%PREFIX% &a你传送至 %NAME%!'
+        ToJump: '%PREFIX% &a%NAME% 传送到你的身旁!'
+    List:
+      '0': '%PREFIX% &3在线 &7(&c%ONLINE_COUNT%&7): &a%ONLINE%'
+      '1': '%PREFIX% &3离线 &7(&c%OFFLINE_COUNT%&7): &7%OFFLINE%'
+    Chat:
+      Enter: '%PREFIX% &aYou entered the friend-chat!'
+      Leave: '%PREFIX% &cYou left the friend-chat!'
+  Favorites:
+    Add: '%PREFIX% &a你成功将 %NAME% 添加到喜欢的人列表里!'
+    Remove: '%PREFIX% &7你将 %NAME% 从喜欢的人列表里删除!'
+  GUI:
+    NoMorePages: '%PREFIX% &c没有更多的页面!'
+    FirstPage: '%PREFIX% &c你已经在第一页!'
+  Status:
+    TooFast: '%PREFIX% &c请不要切换状态过快~每十秒可以切换一次!'
+    ChangeStatus: '%PREFIX% &a你改变了你的状态!'
+    Clear:
+      UnknownPlayer: '%PREFIX% &c未知的玩家!'
+      Clear: '%PREFIX% &3%PLAYER%&a''''状态被清除!'
+  FriendQuit: '%PREFIX% &3%PLAYER% &c下线了!'
+  FriendJoin: '%PREFIX% &3%PLAYER% &a上线了!'
+  FriendChatFormat: '%PREFIX% &3%PLAYER% &c>> &f%MESSAGE%'
+  FriendChatDisabled: '%PREFIX% &c你关闭了好友聊天!'
+  RequestNotification: '%PREFIX% &a你收到了 &7(&3%REQUESTS%&7) &a好友请求!'
+  Nickname:
+    Remove: '%PREFIX% &7You successfully removed the Nickname from &3%NAME%&7!'
+    NoNick: '%PREFIX% &cYou do not have set a Nick for &3%NAME% &cyet!'
+    SetNick: '%PREFIX% &aYou have set &3%NAME%&a''s Nickname to &3%NICK%&a!'
+  SendPartyInvite: '%PREFIX% &aYou have sent a party invite to &3%NAME%&a!'

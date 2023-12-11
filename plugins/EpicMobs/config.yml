@@ -1,0 +1,56 @@
+#默认你想开启的世界名字
+#本插件原作者为南柯一梦腐竹瑾辰,由凯文更改。
+#南柯服务器IP: mc.toin.cc
+#凯文QQ: 2846339392
+WorldName: 
+ - 'world'
+#--------------- 怪物设置 ----------------
+#以下设置为怪物血量变量值
+#血量计算公式为：变量值×怪物等级=最终血量
+#例如：如果想要1级僵尸的血量为40
+#那么下面的ZombieHealth填：40 因为怪物是1级
+#--------------- 怪物设置 ----------------
+#僵尸
+ZombieHealth: 30
+#骷髅射手
+SkeletonHealth: 30
+#苦力怕
+CreeperHealth: 30
+#蜘蛛
+SpiderHealth: 30
+#洞穴蜘蛛
+CavespiderHealth: 30
+#末影人
+EndermanHealth: 30
+#史莱姆
+SlimeHealth: 30
+#僵尸猪人
+#由于容易受到玩家的特别关照，在此设置为150血，品质为永恒.
+#鸡
+ChickenHealth: 30
+#蝙蝠
+BatHealth: 30
+#牛
+CowHealth: 30
+#猪
+PigHealth: 30
+#羊
+SheepHealth: 30
+#火焰人
+BlazeHealth: 30
+#马
+HorseHealth: 30
+#狼
+WolfHealth: 30
+#僵尸村民
+ZombieVillagerHealth: 30
+#凋零骷髅
+WitherSkeletonHealth: 30
+#凋零
+WitherHealth: 30
+#村民
+VillagerHealth: 30
+#女巫
+WitchHealth: 30
+#墨鱼
+SquidHealth: 30

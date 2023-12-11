@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Hong_Cha
+timestamps:
+  login: 1500042765277
+  lastteleport: 1500028361595
+  logout: 1500042945962
+ipAddress: 27.16.239.95
+geolocation: China
+lastlocation:
+  world: plotworld
+  x: -128.23750001192093
+  y: 65.0
+  z: 106.70177287826513
+  yaw: 46.793346
+  pitch: 8.3850155
+logoutlocation:
+  world: plotworld
+  x: -32.6410494719189
+  y: 65.5
+  z: 3.003072051937907
+  yaw: 143.70538
+  pitch: 9.847375
+afk: false
+money: '1257.0'

@@ -1,0 +1,97 @@
+Version: 266
+HeapShut:
+  enable: true
+  Percent: 90
+  WarnMessage: 服务器会在15秒后重启，请玩家不要游戏，耐心等待！ ╮(╯_╰)╭
+  WaitingTime: 15
+TPSSleep:
+  enable: false
+  PerTickSleepMs: 10
+AutoSet:
+  enable: true
+AutoSave:
+  enable: true
+  Interval: 15
+ClearItem:
+  enable: true
+  NoCleatDeath: true
+  NoClearTeleport: true
+  NoClearItemType:
+  - DIAMOND
+  - DIAMOND_SWORD
+NooneRestart:
+  enable: true
+  TimeLong: 1200
+ChunkKeeper:
+  enable: true
+ChunkUnloader:
+  enable: true
+  Interval: 30
+NoCrowdedEntity:
+  enable: true
+  PerChunkLimit: 30
+  TypeList:
+  - ZOMBIE
+  - SKELETON
+  - SPIDER
+  - CREEPER
+  - SHEEP
+  - PIG
+  - CHICKEN
+TilesClear:
+  enable: true
+  Interval: 360
+  Message: §e服务器清理Tiles完毕 ~(@^_^@)~
+NoExplode:
+  enable: true
+  Type: NoBlockBreak
+AntiRedstone:
+  enable: true
+  Interval: 500
+  Message: §c检测到高频红石在 %location% ，插件已经将其清除，不许玩了！ (╰_╯)#
+  Times: 5
+  RemoveBlockList:
+  - REDSTONE_WIRE
+  - DIODE_BLOCK_ON
+  - DIODE_BLOCK_OFF
+  - REDSTONE_TORCH_ON
+  - REDSTONE_TORCH_OFF
+  - REDSTONE_BLOCK
+HeapClear:
+  enable: false
+  Period: 600
+  Message: §e服务器清理内存中... ԅ(¯ㅂ¯ԅ)
+TeleportPreLoader:
+  enable: true
+  half-mode: true
+WaterFlowLimitor:
+  enable: true
+  Period: 200
+  PerChunkTimes: 2
+FireLimitor:
+  enable: true
+  Period: 3000
+QueueLinePlayerLogin:
+  enable: false
+  Period: 500
+WorldSpawnLimitor:
+  worldname:
+    enable: true
+    PerChunkMonsters: 3
+    PerChunkAnimals: 3
+    PerChunkAmbient: 10
+OverLoadMemoryRestart:
+  enable: true
+  Percent: 90
+  WarnMessage: 服务器会在15秒后重启，请玩家不要游戏，耐心等待！ ╮(╯_╰)╭
+  DelayTime: 15
+  CanCancel: true
+TimerGc:
+  enable: false
+  Message: §e服务器清理内存中... ԅ(¯ㅂ¯ԅ)
+  Period: 600
+chunks:
+  no-spawn-chunks:
+    enable: true
+    exclude-worlds:
+    - world

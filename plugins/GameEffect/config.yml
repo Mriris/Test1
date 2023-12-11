@@ -1,0 +1,26 @@
+Version: 110
+CommandEffect:
+  /tpa:
+    enable: false
+    Sound: BLOCK_GLASS_BREAK(1.9+) or GLASS(1.8-)
+    Effect: STONE
+SoundEffect:
+  Death: true
+  Attack: true
+  Join: true
+  CreatePortal: true
+  Drop: true
+  AirChange: true
+  Bucket: true
+  Quit: true
+  Chat: true
+  Command: true
+  Teleport: true
+  GameModeChange: true
+  ItemChange: true
+  InventoryClick: true
+ScreenEffect:
+  Teleport: true
+  Attack: true
+  Shoot: true
+  Spawn: true

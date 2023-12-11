@@ -1,0 +1,22 @@
+java.lang.NullPointerException
+	at net.elseland.xikage.MythicMobs.Skills.Mechanics.MessageSkill.<init>(MessageSkill.java:27)
+	at net.elseland.xikage.MythicMobs.Skills.SkillManager.getSkillMechanic(SkillManager.java:168)
+	at net.elseland.xikage.MythicMobs.Mobs.MythicMob.<init>(MythicMob.java:329)
+	at net.elseland.xikage.MythicMobs.Mobs.MobManager.loadMobs(MobManager.java:101)
+	at net.elseland.xikage.MythicMobs.IO.Load.Configuration.LoadAll(Configuration.java:138)
+	at net.elseland.xikage.MythicMobs.MythicMobs.onEnable(MythicMobs.java:155)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at me.incomprehendable.dev.pwp.transparentlisteners.PerWorldPluginLoader.enablePlugin(PerWorldPluginLoader.java:141)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+
+MythicMobs version: 2.5.11
+Bukkit version: git-Spigot-de459a2-51263e9 (MC: 1.10.2)

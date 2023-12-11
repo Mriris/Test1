@@ -1,0 +1,5 @@
+## 当玩家使用表情时产生的声音！
+## 1.9 以上声音名称参 https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+## 1.8 以下声音名称参 http://docs.codelanx.com/Bukkit/1.8/org/bukkit/Sound.html
+default: none
+hug: ENTITY_ZOMBIE_PIG_ANGRY
